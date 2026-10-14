@@ -1,0 +1,1479 @@
+[
+	{
+		"id": "coast-guard/aet",
+		"branch": "coast-guard",
+		"slug": "aet",
+		"code": "AET",
+		"codeLabel": "Rating",
+		"title": "Avionics Electrical Technician",
+		"rank": "enlisted",
+		"category": "aviation",
+		"subcategory": null,
+		"tagline": "AETs inspect, service, maintain, troubleshoot, and repair aircraft electronic systems.",
+		"overview": "AETs inspect, troubleshoot, and repair aircraft avionics and electrical systems, including power generation, batteries, flight control components, and landing gear. You'll also fly as an aircrew, performing duties like navigator, sensor and radio operation, or hoist operation. AETs are typically assigned to Coast Guard air stations.",
+		"duties": [],
+		"requirements": [
+			"Are you excited to fly?",
+			"Are you able to meet aircrew physical standards, including vision?",
+			"Are you good at practical math problems?",
+			"Are you interested in electrical systems?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"AETs receive 24 weeks of blended on-the-job training at one of 26 Coast Guard air stations, in addition to in-class training at the Aviation Technical Training Center in Elizabeth City, NC. You will learn about aircraft systems, radar theory, aircraft communications, electrical theory, and troubleshooting.",
+			"Advanced aircraft electrical, engine, and airframe specific training, as well as advanced training in helicopter operations.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Aviation Technology program is available to the AET rating."
+		],
+		"skills": [
+			"Aircraft electronic repair",
+			"Aircrew flight operations"
+		],
+		"civilianJobs": [
+			"Aerospace Engineering Technician",
+			"Aircraft Mechanic or Service Technician",
+			"Airfield Operations Specialist",
+			"FAA Inspector",
+			"Flight Engineer",
+			"Helicopter Rescue Hoist Operator"
+		],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "STEM, Communications"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/2VXnRBhupEUo"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/aet"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/amt",
+		"branch": "coast-guard",
+		"slug": "amt",
+		"code": "AMT",
+		"codeLabel": "Rating",
+		"title": "Aviation Maintenance Technician",
+		"rank": "enlisted",
+		"category": "aviation",
+		"subcategory": null,
+		"tagline": "AMTs inspect, maintain, and troubleshoot aircraft engines, propellers, and airframes systems.",
+		"overview": "AMTs inspect, maintain, troubleshoot, and repair aircraft mechanical systems, including engines, powertrains, and hydraulics. You'll service structural parts of the aircraft, including fuselages, wings, rotor blades, and flight control surfaces. You'll also fly as an aircrew, performing duties like loadmaster, dropmaster, or helicopter flight mechanic. AMTs are typically assigned to Coast Guard air stations.",
+		"duties": [],
+		"requirements": [
+			"Are you excited to fly?",
+			"Are you able to meet aircrew physical standards, including vision?",
+			"Are you good at practical math problems?",
+			"Are you interested in mechanical systems?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"AMTs receive 20 weeks of blended on-the-job training at one of 26 Coast Guard air stations, in addition to in-class training at the Aviation Technical Training Center in Elizabeth City, NC. You will learn about aircraft systems, metal work, composite repair, electrical theory and troubleshooting, and paint applications.",
+			"Advanced composite repair, aircraft systems, and airframe specific training, as well as advanced training in helicopter rescue operations.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Aviation Technology program is available to the AMT rating."
+		],
+		"skills": [
+			"Aircraft mechanical repair",
+			"Aircraft structural repair",
+			"Aircrew flight operations"
+		],
+		"civilianJobs": [
+			"Airline Maintenance Supervisor",
+			"FAA Certified Aircraft Mechanic or Aircraft Inspector Authorization",
+			"Aviation Instructor",
+			"Aircraft Ground Handler",
+			"Flight Engineer",
+			"Helicopter Rescue Hoist Operator"
+		],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "STEM"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/c9N-_eLdxIs"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/amt"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/ast",
+		"branch": "coast-guard",
+		"slug": "ast",
+		"code": "AST",
+		"codeLabel": "Rating",
+		"title": "Aviation Survival Technician",
+		"rank": "enlisted",
+		"category": "aviation",
+		"subcategory": null,
+		"tagline": "ASTs are specialized rescue swimmers who save lives, provide emergency medical support, and maintain survival equipment.",
+		"overview": "ASTs are the Coast Guard’s specialized rescue swimmers, equipped with the survival training and experience necessary to keep themselves and others alive at sea or on land. With the gear you maintain, you'll fly on Coast Guard helicopters into a range of challenging situations, from emergencies at sea to floods on land to cliff-side rescues. AST tasks require the highest degree of physical fitness. ASTs are typically assigned to Coast Guard air stations.",
+		"duties": [],
+		"requirements": [
+			"Are you physically and mentally fit?",
+			"Are you extremely comfortable in the water?",
+			"Are you able to excel under stress?",
+			"Are you passionate about saving others?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"ASTs receive a 22-week rating course that includes a 7-week EMT course to earn the National Registry of Emergency Medical Technician (NREMT) certification, a 10-week rescue swimmer course learning helicopter rescue procedures, and a 5-week aviation life support technician course learning the fundamentals of inspections and maintenance of aviation life support equipment.",
+			"Advanced helicopter rescue and operational fitness training, as well as survival instructor resident courses.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities that lead to an associate degree, bachelor's degree, or higher may be available."
+		],
+		"skills": [
+			"Advanced water survival",
+			"Emergency medical treatment",
+			"Life support equipment maintenance"
+		],
+		"civilianJobs": [
+			"Parachute Rigging and Repair Specialist",
+			"Emergency Medical Technician",
+			"Land and Water Survival Instructor",
+			"Commercial Aircraft Life Support Equipment Technician",
+			"Lifeguard, Ski Patrol, or Other Recreational Protective Service Worker"
+		],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/zP0eOCHTGis"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/ast"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/bm",
+		"branch": "coast-guard",
+		"slug": "bm",
+		"code": "BM",
+		"codeLabel": "Rating",
+		"title": "Boatswain’s Mate",
+		"rank": "enlisted",
+		"category": "business",
+		"subcategory": null,
+		"tagline": "BMs are experts in all things navigation and seamanship.",
+		"overview": "BMs are experts at navigating vessels and have the most command leadership opportunities of any rating. When operating a boat as coxswain, you'll be in charge of executing the mission and be responsible for the safety of your crew members. You'll also have a chance to train as a law enforcement officer to conduct maritime boardings. BMs can be found at nearly every operational unit.",
+		"duties": [],
+		"requirements": [
+			"Are you comfortable as a leader?",
+			"Are you attentive to detail?",
+			"Are you excited to operate small boats?",
+			"Are you interested in law enforcement?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"BMs receive a 14-week rating course in Yorktown, VA, with instruction in seamanship and navigation.",
+			"Advanced maritime navigation training and tactical law enforcement training.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities that lead to an associate degree, bachelor's degree, or higher may be available."
+		],
+		"skills": [
+			"Boat operations",
+			"Seamanship and navigation",
+			"Leadership"
+		],
+		"civilianJobs": [
+			"Captain, Mate, or Pilot of Water Vessels",
+			"General and Operations Manager",
+			"Emergency Management Director",
+			"First-line Supervisor of Material-moving Machine and Vehicle Operators",
+			"Schedule Development or Personnel Management Specialist"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/GmwxaiRcYE0"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/bm"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/cs",
+		"branch": "coast-guard",
+		"slug": "cs",
+		"code": "CS",
+		"codeLabel": "Rating",
+		"title": "Culinary Specialist",
+		"rank": "enlisted",
+		"category": "business",
+		"subcategory": null,
+		"tagline": "CSs are trained in all things food, from preparation to accounting and logistics.",
+		"overview": "CSs keep Coast Guard crews fed by preparing meals to the highest standards of nutrition, taste, and food safety. Before the food even hits the pan, you'll be responsible for the intricate details of logistics, accounting, menu planning, and inventory management to keep pantries well stocked. You'll be trained in a variety of culinary arts to keep the menu fresh and morale high. CSs are typically assigned to galleys on cutters, ashore, or at VIP facilities.",
+		"duties": [],
+		"requirements": [
+			"Are you passionate about food?",
+			"Are you creative and resourceful?",
+			"Are you comfortable with math and accounting?",
+			"Are you customer service-focused?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"CSs receive a 13-week rating course in Petaluma, CA, with instruction in culinary fundamentals, advanced methods, and techniques.",
+			"Independent duty culinary service officer certification, advanced pastry and baking training, and advanced culinary skills training (ACF certified).",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Culinary Arts program is available to the CS rating."
+		],
+		"skills": [
+			"Food preparation",
+			"Menu planning",
+			"Accounting and inventory management"
+		],
+		"civilianJobs": [
+			"Chef",
+			"Restaurant Manager",
+			"Finance and Logistics Manager",
+			"Hospitality Manager"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Video": "https://youtu.be/QGrzOeojKpc"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/cs"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/gm",
+		"branch": "coast-guard",
+		"slug": "gm",
+		"code": "GM",
+		"codeLabel": "Rating",
+		"title": "Gunner’s Mate",
+		"rank": "enlisted",
+		"category": "business",
+		"subcategory": null,
+		"tagline": "GMs maintain firearms, from handguns to ship-mounted guns.",
+		"overview": "GMs are responsible for all firearms and weapons systems, ammunition, and pyrotechnics in the Coast Guard. You'll be trained in mechanical, electronic, and hydraulic systems, as well as ammunition and pyrotechnics handling. GMs use, maintain, and train others on all Coast Guard small arms and shipboard weapons systems to ensure every unit's readiness to perform law enforcement and defense duties. GMs are assigned to a wide variety of units both afloat and ashore.",
+		"duties": [],
+		"requirements": [
+			"Are you comfortable with firearms?",
+			"Are you attentive to detail?",
+			"Are you inclined toward mechanics and math?",
+			"Are you interested in law enforcement or security?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"GMs receive a 10-week rating course in Yorktown, VA, with instruction in electronic and mechanical systems, as well as hydraulics.",
+			"Advanced training in weapons systems maintenance and small arms instruction.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities that lead to an associate degree, bachelor's degree, or higher may be available."
+		],
+		"skills": [
+			"Firearms maintenance",
+			"Firearms instruction",
+			"Law enforcement"
+		],
+		"civilianJobs": [
+			"Firearms Instructor",
+			"Electronics Technician",
+			"Gunsmith",
+			"Ammunition Foreman",
+			"Hydraulic Equipment Operator"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "STEM, Law Enforcement"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/eA2kIuDlNXA"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/gm"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/mk",
+		"branch": "coast-guard",
+		"slug": "mk",
+		"code": "MK",
+		"codeLabel": "Rating",
+		"title": "Machinery Technician",
+		"rank": "enlisted",
+		"category": "business",
+		"subcategory": null,
+		"tagline": "MKs are skilled in maintenance and repair of machinery such as hydraulics and engines.",
+		"overview": "MKs are responsible for systems, including internal combustion engines, heating and ventilation, hydraulics, and basic electricity. With their intimate knowledge of ships systems, many MKs train to conduct law enforcement boardings. At smaller units, an MK is often the Engineering Petty Officer, who is responsible for the engineering department and equipment. MKs can be found at nearly every unit.",
+		"duties": [],
+		"requirements": [
+			"Are you a hands-on person?",
+			"Are you a problem solver?",
+			"Are you able to understand mechanics and schematics?",
+			"Are you drawn to practical mechanical experiences?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"MKs receive a 13-week rating course in Yorktown, VA, with instruction in basic mechanical and electrical theory and operation, as well as introduction to engine overhaul and maintenance.",
+			"Specific diesel engine and outboard engine training, as well as training in heating, ventilation, and air conditioning (HVAC) systems, hydraulics, law enforcement, leadership, and management.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Engineering Technology program is available to the MK rating."
+		],
+		"skills": [
+			"Machinery operations and maintenance",
+			"Management and leadership",
+			"Work organization and planning"
+		],
+		"civilianJobs": [
+			"Vehicle Mechanic",
+			"Diesel Engine Specialist",
+			"Industrial Machinery Mechanic",
+			"Supervisor of Mechanics, Installers, and Repairers",
+			"Power Plant Operator"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "STEM, Law Enforcement, First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/9ZeC9gdeci0"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/mk"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/pa",
+		"branch": "coast-guard",
+		"slug": "pa",
+		"code": "PA",
+		"codeLabel": "Rating",
+		"title": "Public Affairs Specialist",
+		"rank": "enlisted",
+		"category": "business",
+		"subcategory": null,
+		"tagline": "PAs are the link between the Coast Guard and the public, specializing in mass communications.",
+		"overview": "PAs are public communications specialists. You'll write news releases, shoot still and video imagery, serve as a spokesperson to the media, and maintain official social media accounts and web content. You'll focus public awareness on important Coast Guard issues and respond to inquiries about Coast Guard actions. PAs are typically assigned to districts and large sectors.",
+		"duties": [],
+		"requirements": [
+			"Are you a skilled communicator?",
+			"Are you able to maintain poise under pressure?",
+			"Are you creative and self-motivated?",
+			"Are you interested in photography, videography, and social media?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"PAs receive a 26-week rating course in Fort Meade, MD, with instruction in news writing, on-camera performance, photography, and videography.",
+			"FEMA incident command system (ICS) and public information officer (PIO) certifications. Advanced training in photojournalism, digital imagery, editing and design, media relations, and crisis communication.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Public Affairs Program is available to the PA rating."
+		],
+		"skills": [
+			"Writing",
+			"Speaking",
+			"Photography and videography"
+		],
+		"civilianJobs": [
+			"Communications Director",
+			"Photographer/Videographer",
+			"Reporter/Writer",
+			"Public Relations/Marketing Specialist",
+			"Social Media Manager"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "Communications"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/HVfHo6OrzIE"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/pa"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/sk",
+		"branch": "coast-guard",
+		"slug": "sk",
+		"code": "SK",
+		"codeLabel": "Rating",
+		"title": "Storekeeper",
+		"rank": "enlisted",
+		"category": "business",
+		"subcategory": null,
+		"tagline": "SKs are skilled at logistics, purchasing, and contract management.",
+		"overview": "SKs purchase the supplies that keep the Coast Guard running. From computers to spare parts for boats and aircraft, you'll handle logistics, track inventory, and account for funds. You'll become an expert in federal acquisitions procedures, contracting, government property management, and accounting. SKs are assigned to a wide variety of units ashore and afloat.",
+		"duties": [],
+		"requirements": [
+			"Are you organized?",
+			"Are you good with math and analytics?",
+			"Are you comfortable with computer software?",
+			"Are you a skilled communicator?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"SKs receive an 8-week rating course in Petaluma, CA, with instruction in procurement, shipping and receiving, inventory management, accounting, and records and reports.",
+			"Contract specialist, contracting officer, and contracting officer representative training. Certifications as defense financial manager, public accountant, logistics technician, logistics associate, production and inventory management, transportation professional, and accounts payable professional.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Financial Accounting and Contract Management Programs are available to the SK rating."
+		],
+		"skills": [
+			"Supply chain and logistics management",
+			"Large organization accounting and analytics",
+			"Purchasing and contracting for an organization"
+		],
+		"civilianJobs": [
+			"Accountant or Financial Analyst",
+			"Supply Chain Manager",
+			"Contracting Specialist",
+			"Property and Asset Manager",
+			"Purchasing Agent"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Video": "https://youtu.be/y0lCmT9qKOU"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/sk"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/yn",
+		"branch": "coast-guard",
+		"slug": "yn",
+		"code": "YN",
+		"codeLabel": "Rating",
+		"title": "Yeoman",
+		"rank": "enlisted",
+		"category": "business",
+		"subcategory": null,
+		"tagline": "YNs specialize in military human resources issues, ranging from pay to travel and assignments.",
+		"overview": "YNs are human relations problem-solvers, uniquely specialized to support the needs of the military. You'll assist with the hiring and separation of members, and manage personnel records to ensure pay and entitlements are correct. For members' major life events, from promotions to moves or even adding new dependents to the Coast Guard family, you'll make sure it happens seamlessly. YNs are assigned to a wide variety of units.",
+		"duties": [],
+		"requirements": [
+			"Are you organized?",
+			"Are you customer service-focused?",
+			"Are you comfortable with computer software?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"YNs receive an 8-week rating course in Petaluma, CA, with instruction in human resources, record management, payroll accounting, travel reimbursement, and personnel transfers.",
+			"Paralegal training.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Yeoman Business Administration and Management and Paralegal Studies Programs are available to the YN rating."
+		],
+		"skills": [
+			"Human resources",
+			"Record management",
+			"Personnel counseling"
+		],
+		"civilianJobs": [
+			"Office Administrator",
+			"Customer Service Representative",
+			"Client Service Associate",
+			"Benefits Specialist",
+			"Human Resources Specialist"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Video": "https://youtu.be/FXvF_cBoHGE"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/yn"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/os",
+		"branch": "coast-guard",
+		"slug": "os",
+		"code": "OS",
+		"codeLabel": "Rating",
+		"title": "Operations Specialist",
+		"rank": "enlisted",
+		"category": "communications",
+		"subcategory": null,
+		"tagline": "OSs provide 24/7 communication and coordination to execute missions.",
+		"overview": "OSs are the Coast Guard's preeminent emergency managers. You'll provide situational awareness, manage information, and develop plans for missions ranging from search and rescue to law enforcement, national defense, and more. From command centers ashore and at sea, OSs communicate with boaters in distress, develop search patterns, and guide Coast Guard units to assist. OSs are typically assigned to sectors, districts, and cutters.",
+		"duties": [],
+		"requirements": [
+			"Are you calm under pressure?",
+			"Are you attentive to detail?",
+			"Are you interested in coordinating response actions?",
+			"Are you punctual?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"OSs receive a 13-week rating course in Petaluma, CA, with instruction in handling classified information, navigation, communications systems, and search and rescue planning.",
+			"Tactical action officer training, command duty officer training, and air direction controller training, along with training in electronic warfare and emergency management.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Emergency Management program is available to the OS rating."
+		],
+		"skills": [
+			"Coordinating missions",
+			"Handling classified information",
+			"Operating navigation and communication systems"
+		],
+		"civilianJobs": [
+			"Emergency Management Director",
+			"Air Traffic Controller",
+			"Emergency Services Planner",
+			"Dispatch Operator",
+			"Homeland Security Officer"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/oVb9B06FQVA"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/os"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/me",
+		"branch": "coast-guard",
+		"slug": "me",
+		"code": "ME",
+		"codeLabel": "Rating",
+		"title": "Maritime Enforcement Specialist",
+		"rank": "enlisted",
+		"category": "law-enforcement",
+		"subcategory": null,
+		"tagline": "MEs are technical experts and trainers for law enforcement operations.",
+		"overview": "While many ratings participate in law enforcement, MEs are the Coast Guard's specialists. You'll lead and train your crew's boarding teams and maintain the unit's law enforcement equipment. When situations demand the highest risk tactics, like helicopter insertion or opposed boardings, deployable specialized forces of MEs get the call. MEs are typically assigned to cutters, boat stations, and specialized units.",
+		"duties": [],
+		"requirements": [
+			"Are you passionate about law enforcement?",
+			"Are you physically and mentally fit?",
+			"Are you able to excel under stress?",
+			"Are you confident and assertive?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"MEs receive a 10-week rating course in Charleston, SC, with instruction in maritime law enforcement, force protection, weapons, and coastal security operations.",
+			"Advanced training in security tactics, police academy, emergency vehicle operation.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities that lead to an associate degree, bachelor's degree, or higher may be available."
+		],
+		"skills": [
+			"Leadership and communication",
+			"Maritime law enforcement",
+			"Tactical law enforcement operations"
+		],
+		"civilianJobs": [
+			"Local, State, and Federal Law Enforcement",
+			"Physical and Personal Security Officer",
+			"Safety and Security Advisor",
+			"Corrections Officer"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/9q5r99NjixA"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/me"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/afloat",
+		"branch": "coast-guard",
+		"slug": "afloat",
+		"code": null,
+		"codeLabel": "Specialty",
+		"title": "Afloat Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Afloat officers operate a multi-mission fleet of Coast Guard cutters to execute all assigned missions worldwide.",
+		"overview": "As a “cutterman,” you’ll join the oldest career in the service, safely navigating cutter ships and leading your crew in enforcing federal laws and completing challenging missions in unforgiving environments.\nYou’ll start out by leading enlisted members and learning the fundamentals of seamanship. As you progress, you’ll be given more responsibility to perform more complex missions on larger vessels.\nShip assignments typically last two years, including one year at sea. In between sea duty assignments, you’ll focus on a secondary specialty and gain advanced training and education.",
+		"duties": [],
+		"requirements": [
+			"You can start your career as a cutterman through a general commissioning source like Officer Candidate School and choosing your first and subsequent assignments in the specialty."
+		],
+		"asvab": null,
+		"education": null,
+		"training": [],
+		"skills": [],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Law Enforcement Cutters": "The Coast Guard’s multi-mission “white hull” cutters use their superior communications, speed, embarked boats, and aircraft to perform missions critical to national interests—such as drug interdiction, stopping human trafficking, and policing global fisheries.",
+			"Waterways Management Cutters": "The Coast Guard’s “black hull” buoy tenders and domestic icebreakers ensure the safe operation of our nation’s critical commercial waterways. You’ll become an expert in servicing and positioning the buoys that safely guide mariners into port and break safe channels in the ice in the Great Lakes and northeast waterways.",
+			"Polar Operations": "The Coast Guard has the only icebreakers in federal service that can operate at the poles. These “red hull” icebreakers can break through pack ice over 20 feet thick, providing essential logistics for the U.S. presence in Antarctica, conducting scientific measurements around the North Pole, and more.",
+			"Related Enlisted Careers": "Boatswain’s Mate"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/officer/afloat"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/aviation",
+		"branch": "coast-guard",
+		"slug": "aviation",
+		"code": null,
+		"codeLabel": "Specialty",
+		"title": "Aviation Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Coast Guard aviators pilot airplanes and helicopters in challenging conditions to save lives and complete a multitude of missions.",
+		"overview": "Did you know the U.S. Coast Guard has the highest percentage of officers that are pilots out of any U.S. military service? As a Coast Guard aviator, you’ll fly in challenging, high-risk environments—such as rescuing people in distress, stopping smugglers, or monitoring illegal activities.",
+		"duties": [],
+		"requirements": [
+			"If you have prior military flight experience as a pilot, you can join the Coast Guard through the Direct Commission Aviation program and immediately begin flying.",
+			"If you don’t have military flight experience as a pilot, you can join through a general commissioning source such as Officer Candidate School and earn flight school as your first assignment or apply and be selected for flight school later in your career.",
+			"If you are a CSPI Officer Trainee, you can enter flight school through the Wilkes Flight Initiative."
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"When you’re selected for flight school, you’ll attend Naval Flight School at Naval Air Station Pensacola, FL. It takes approximately two years for you to earn your wings, as you cycle through:",
+			"Initial Flight Screening (IFS), where you’ll become familiar with flying and make sure it’s a fit for you.",
+			"Aviation Pre-flight Indoctrination (API), where you’ll learn basic aerodynamics, aviation weather, air navigation, flight rules and regulations, aircraft engines and systems, and how flight affects the human body.",
+			"Primary Flight Training, where you’ll do extensive training in simulators and aircraft. Depending on your interests and available opportunities, you’ll be assigned to either the fixed-wing aircraft or helicopter subspecialty.",
+			"The Secondary Phase of Flight School is either in Pensacola, FL, for helicopters, or Corpus Christi, TX, for fixed-wing aircraft.",
+			"After you earn your wings, you’ll be assigned to an air station and attend an airframe-specific course at Aviation Training Center in Mobile, AL, to qualify for the MH-60 Jayhawk, the MH-65 Dolphin, the HC-130 Hercules, or the HC-144 Ocean Sentry. You’ll return once a year for a one-week proficiency course in your airframe."
+		],
+		"skills": [],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Aeronautical Engineering": "Aeronautical engineers are vital to Coast Guard aircraft and avionics systems acquisition, planning, design, operation, maintenance, and alteration. Within this specialty, you can choose from three master’s degree paths:\n• Avionics/Project Management: You’ll learn to manage technology upgrade and modification projects.\n• Structures Specialists: You’ll approve structural repairs, aircraft maintenance procedures, and corrosion mitigation processes.\n• STEM MBA: You’ll provide engineering support, logistics, and oversight of depot-level maintenance. As an aeronautical engineer, you’ll maintain your flying qualifications.",
+			"Aviation Career": "You can expect to gain initial experience as a co-pilot and eventually earn the title of aircraft commander. Throughout your aviation career, you’ll experience search-and-rescue, law enforcement, and other Coast Guard missions. Once you gain leadership and operational skills, you may be selected for command of an air station. You’ll also be encouraged to apply for sponsored graduate school programs to broaden your expertise outside of the cockpit, such as:\n• Aeronautical Engineering – Avionics (Project Management)\n• Aeronautical Engineering – (STEM MBA)\n• Aeronautical Engineering – (Structures)\n• Aviation Safety Systems\n• Aviation Technology",
+			"Related Enlisted Careers": "• Aviation Maintenance Technician\n• Avionics Electrical Technician"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/officer/aviation"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/engineering-c5i",
+		"branch": "coast-guard",
+		"slug": "engineering-c5i",
+		"code": null,
+		"codeLabel": "Specialty",
+		"title": "Engineering & C5I Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Engineers maintain physical readiness of the fleet and its command, control, communications, computers, cyber, and intelligence (C5I) functions.",
+		"overview": "",
+		"duties": [],
+		"requirements": [
+			"If you have prior education and experience, you can enter the field through the DCE program or through a general source like OCS, and choose assignments in the specialty, although it helps greatly to have a STEM degree."
+		],
+		"asvab": null,
+		"education": null,
+		"training": [],
+		"skills": [],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Naval Engineering": "As a naval engineer, you’ll be part of one of the Coast Guard’s largest programs as you execute and oversee the design, construction, acquisition, operation, maintenance, and sustainment of cutters and boats.\nYou’ll start your career learning basic shipboard engineering fundamentals in the engineering department of a cutter. Next, you’ll have shore assignment focusing on ship maintenance management and contract officer certification. You’ll also have the chance to earn a fully funded master’s degree and return to sea for a second afloat assignment as the engineer officer on a large cutter.\nThe naval engineering specialty pairs well with the afloat operations specialty and you can easily compete for additional afloat opportunities, including command.\nRelated Enlisted Careers\n• Machinery Technician\n• Electrician's Mate",
+			"Civil Engineering": "Civil engineers manage the entire life cycle of the Coast Guard’s shore infrastructure, including planning, budgeting, design, construction, commissioning, operation, maintenance, and divestiture. Most first assignments are hands-on at a civil engineering unit, facilities design and construction center, or facilities engineering office. As you gain experience, you’ll transition to management-focused roles.\nThis flexible subspecialty encourages officers to pursue out-of-specialty tours, career-broadening assignments, and graduate studies in civil engineering, ocean engineering, and engineering management.\nRelated Enlisted Careers\n• Damage Controlman",
+			"Cyberspace": "As an expert in cyber, you’ll gain the training, clearance, and qualifications to build, secure, operate, defend, and protect Coast Guard and U.S. cyberspace resources. You’ll develop and enhance your skills through on-the-job-training and experience, as well as graduate school opportunities and out-of-specialty assignments.\nRelated Enlisted Careers\n• Information Systems Technician\n• Electronics Technician"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/officer/engineering-c5i"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/healthcare",
+		"branch": "coast-guard",
+		"slug": "healthcare",
+		"code": null,
+		"codeLabel": "Specialty",
+		"title": "Healthcare Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "These officers ensure the delivery of essential health services to active-duty Coast Guard members at base clinics, on temporary deployments, and in remote or challenging environments.",
+		"overview": "Do you want to practice your medical specialty in a fast-paced, patient-focused environment? Consider this — in the Coast Guard, medical providers are able to concentrate on clinical practice without the hassle of maintaining a private business. Your patients will almost exclusively be active-duty military members whose medical readiness is critical to enabling the success of Coast Guard missions. Plus, you’ll enjoy both the tangible and intangible benefits of military service.\nFor Coast Guard officers with no medical training, there are opportunities to enter the healthcare field by competing for advanced education as a physician, physician assistant, or medical administrator.",
+		"duties": [],
+		"requirements": [
+			"If you’re an enlisted health services technician or junior officer from a general source such as Officer Candidate School (OCS), you can apply for opportunities to complete the Interservice Physician Assistant Program (IPAP). You can become a medical administrator by beginning your career through a general commissioning source like OCS and competing for post-graduate education opportunities.",
+			"If you have prior education and credentials as a provider, you can enter the field through the Direct Commission Health Services Officer or Direct Commission Physician Assistant programs. To pursue assignment as a detailed USPHS provider, contact the USCG Program Manager."
+		],
+		"asvab": null,
+		"education": null,
+		"training": [],
+		"skills": [],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Physicians & Physician Assistants": "Through a combination of direct employment and partnership with the U.S. Public Health Service (USPHS), the Coast Guard employs board certified/board eligible primary care physicians who are typically residency-trained in family medicine, internal medicine, or emergency medicine. Positions also exist in psychiatry, aerospace, occupational, preventive medicine, and pediatrics.\nIf you meet the relevant medical standards and desire a more operational experience, you could qualify for additional training to become a flight surgeon, aviation physician assistant, or hyperbaric medical officer.",
+			"Dentistry": "Coast Guard dentists are employed through a combination of partnership with the U.S. Public Health Service (USPHS) and direct employment. As a licensed dentist, you’ll provide general dental care for active-duty members of the Coast Guard or other military services. Positions also exist in endodontics, exodontia, and oral and maxillofacial surgery.",
+			"Psychology & Social Work": "The Coast Guard employs licensed psychologists and social workers through a combination of direct employment and partnership with the U.S. Public Health Service (USPHS). Your work would include providing assessment, diagnosis, and treatment for mental health disorders, making fitness for duty determinations, and supporting the medical board process for retaining or separating members. Additional opportunities exist in aeromedical psychology.",
+			"Environmental Health": "Environmental health officers are employed through a combination of partnership with the U.S. Public Health Service (USPHS) and direct employment. Examples of the work you may see include epidemiological surveillance, disease prevention, radiological health, industrial hygiene, food safety, injury prevention and education, and emergency preparedness. During natural disasters and other emergencies, you’ll protect Coast Guard personnel from environmental threats and help communities recover.",
+			"Pharmacy": "Through a combination of direct employment and partnership with the U.S. Public Health Service (USPHS), the Coast Guard employs licensed pharmacists. While primarily assigned to Coast Guard clinics, you’ll find a wide variety of work—including caring for patients; reviewing, approving, and monitoring new drugs; and assisting in public health emergencies.",
+			"Nursing": "Nurses who serve in the Coast Guard through either direct employment or partnership with the U.S. Public Health Service (USPHS) will typically work with multiple clinics across a multi-state area. Regional Nurse Case Managers complement other providers to ensure that Coast Guard members receive appropriate care and can return to mission-ready as quickly as possible.",
+			"Medical Administration": "Officers in this specialty manage and administer healthcare facilities such as Coast Guard clinics. You’ll supervise assigned enlisted health services technicians, manage the clinic’s budget, and coordinate care to ensure the medical and dental readiness of all military personnel in your area. At the senior level, you’ll manage entire regions, programs for health, safety, and work-life, or develop policy for programs.",
+			"Related Enlisted Careers": "• Health Services Technician"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/officer/healthcare"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/prevention",
+		"branch": "coast-guard",
+		"slug": "prevention",
+		"code": null,
+		"codeLabel": "Specialty",
+		"title": "Prevention Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Prevention officers exercise Coast Guard authorities to protect the environment, provide security, and prevent casualties to people and property.",
+		"overview": "Do you like to solve complex problems, lead, improve systems and processes, and serve others by ensuring their safety? If so, consider the prevention career path. You’ll learn about maritime transportation systems, and set and enforce standards for maritime safety and security.\nAs you progress, you’ll work toward becoming a prevention department head responsible for coordinating all prevention operations at a Coast Guard sector. With more experience, you’ll rise to command of a Coast Guard sector.",
+		"duties": [],
+		"requirements": [
+			"You can enter the prevention specialty by beginning your career through a general commissioning source like OCS and choosing assignments in the specialty. Maritime Academy Direct Commission Officer Program graduates are especially well-suited for this field."
+		],
+		"asvab": null,
+		"education": null,
+		"training": [],
+		"skills": [],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Vessel Inspections": "A common first assignment, you’ll master safety, security, and environmental compliance requirements for vessels of all types. You’ll also certify U.S. commercial and foreign vessels for compliance with U.S. regulations and international treaties that ensure the safety of the maritime transportation system and protect the environment.",
+			"Marine Investigations": "When accidents occur at sea, you’ll determine the cause of the event by conducting interviews and evaluating evidence, collecting the facts of the casualty, determining the need for fines or criminal prosecution, and making recommendations to prevent future incidents.",
+			"Waterways Management": "You’ll ensure access to navigable waterways, and promote safe and environmentally sound marine transportation systems by managing waterway infrastructure and vessel movements, communicating waterway conditions, and exercising authority of the Coast Guard Captain of the Port. Assignments include vessel traffic service centers, marine safety units, navigation centers, or international ice patrol.",
+			"Port and Facility Safety and Security": "You’ll oversee compliance with regulations that keep shoreside port facilities operating safely. From explosives and hazardous cargo to shipping containers, your enforcement efforts will mitigate threats to workers, the port, and your community.",
+			"Marine Safety Engineering": "You’ll be a technical expert in all aspects of commercial vessel and offshore safety and design, reviewing vessel plans for compliance, providing technical advice to the field during casualties, and developing standards to improve safety.",
+			"Related Enlisted Careers": "• Marine Science Technician"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/officer/prevention"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/response",
+		"branch": "coast-guard",
+		"slug": "response",
+		"code": null,
+		"codeLabel": "Specialty",
+		"title": "Response Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Response officers control shore-based assets to save those in distress, enforce maritime laws, and manage disasters.",
+		"overview": "As an officer on the response career path, you’ll gain the skills and experience to manage and execute shore-based Coast Guard operations, like search and rescue, law enforcement, coastal security, environmental response, and emergency management.\nAs you progress in your career, you’ll get experience in additional subspecialties. At the mid-career level, you’ll likely have an assignment as the Response Department Head at a Coast Guard Sector in charge of all Response mission areas. Eventually, you’ll be able to compete for command of a Coast Guard Sector.",
+		"duties": [],
+		"requirements": [
+			"Start your response career through a general commissioning source like Officer Candidate School and choose assignments in the specialty."
+		],
+		"asvab": null,
+		"education": null,
+		"training": [],
+		"skills": [],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Search and Rescue Coordination": "You’ll stand watch in a Coast Guard Command Center and manage the response to distress calls, and plan search patterns to locate missing mariners.",
+			"Maritime Law Enforcement": "You’ll perform missions for coastal security, living marine resources law enforcement, and general law enforcement, and get trained in the use of force, tactical procedures, and defensive tactics.",
+			"Boat Forces Operations": "You’ll get certifications for the Coast Guard’s shore-based small boats, and be responsible for their safe navigation and operations as you conduct search and rescue and law enforcement missions.",
+			"Marine Environmental Response": "You’ll become an expert on federal environmental law and regulations and be responsible for directing the removal and mitigation of oil and hazardous substances from the marine environment.",
+			"Deployable Specialized Forces": "You’ll work closely with the Department of Defense and be available to deploy anywhere in the U.S. on short notice as the premier force for high-risk maritime operations, such as security threats, helicopter insertions, opposed boardings, and close-quarters combat techniques.",
+			"Emergency Management": "You’ll help plan and coordinate response to major disasters with federal and state agency partners, local organizations, and your port’s maritime industry focusing on port security and readiness, as well as environmental protection.",
+			"Related Enlisted Careers": "• Boatswain’s Mate\n• Maritime Enforcement Specialist\n• Operations Specialist\n• Marine Science Technician"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/officer/response"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/support",
+		"branch": "coast-guard",
+		"slug": "support",
+		"code": null,
+		"codeLabel": "Specialty",
+		"title": "Support Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "The Coast Guard’s support specialties—including finance, intelligence, law, and reserve component management—are vital to our operations and offer great career opportunities.",
+		"overview": "",
+		"duties": [],
+		"requirements": [],
+		"asvab": null,
+		"education": null,
+		"training": [],
+		"skills": [],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Financial Management": "As a financial management specialist, your career will focus on budgeting, financial analysis, accounting operations, internal controls, audit readiness, and supply and inventory management. Assignments are typically located at headquarters, district staffs, bases, training centers, and service centers.\nHow to Enter the Specialty\nYou can begin your career as a financial management specialist through a general commissioning source like Officer Candidate School and choosing assignments in the specialty, or by obtaining an advanced degree (e.g., MBA or MPA).\nRelated Enlisted Careers\n• Storekeeper",
+			"Intelligence": "Intelligence officers collect, analyze, process, and disseminate intelligence in support of the Coast Guard’s missions. At the strategic level, intelligence informs global force laydown, acquisitions, partnerships, and interagency activities.\nYour assignments may include counterintelligence, cryptologic groups, cyber, interagency, or criminal investigations. You’ll gain increased responsibility as your career progresses, and develop your decision-making and leadership skills by leading a larger branch or division or pursuing a post-graduate program.\nYou may also seek to broaden into a second specialty such as cyber, finance, or human resources.\nHow to Enter the Specialty\nIf you have prior education and experience, you can enter the field through the DCIO program, or through a general source like Officer Candidate School and choose assignments in the specialty.\nRelated Enlisted Careers\n• Intelligence Specialist",
+			"Law": "As a member of the Coast Guard legal program (CGJAG), you’ll engage in every facet of mission support and deliver legal advice across the full spectrum of Coast Guard operations. To receive a CGJAG assignment, you must apply and provide satisfactory evidence of law school graduation and bar admission.\nAdditional information regarding a career in the CGJAG can be found here.\nHow to Enter the Specialty\nIf you have prior education and credentials, you can enter the field through the Direct Commission Lawyer program, or you can enter through a general source like Officer Candidate School and complete advanced education opportunities in the field.\nRelated Enlisted Careers\n• Yeoman",
+			"Reserve Component Manager": "As a reserve component manager (RCM), you’ll organize, recruit, train, and provide administrative support for Coast Guard reservists. You’ll be responsible for making sure the reserve force is deployment-ready and capable of augmenting the active-duty workforce during anticipated shortages.\nHow to Enter the Specialty\nYou can enter the specialty if you were commissioned through a general source such as Officer Candidate School or the Selected Reserve Direct Commission (SRDC) program, and applying to a competitive panel for selection to the specialty.\nRelated Enlisted Careers\n• Yeoman"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/officer/support"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/cms",
+		"branch": "coast-guard",
+		"slug": "cms",
+		"code": "CMS",
+		"codeLabel": "Rating",
+		"title": "Cyber Mission Specialist",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "CMSs defend Coast Guard and maritime networks against a full range of cyber threats.",
+		"overview": "CMSs protect Coast Guard networks and the Marine Transportation System from cyber risks. You'll detect and disrupt adversary activities with full spectrum cybersecurity operations. Your vigilance and actions will contain and minimize threats, ensuring continuity of Coast Guard and national defense missions. CMSs are typically assigned to dedicated cyber shore units.",
+		"duties": [],
+		"requirements": [
+			"Are you vigilant?",
+			"Are you comfortable with computer software?",
+			"Are you excited to solve challenging technical problems?",
+			"Are you attentive to detail?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"CMSs attend the Navy’s 27-week Joint Cyber Analysis Course (JCAC) taught in Pensacola, FL where you'll learn the basic technical knowledge for cyber operations.",
+			"Advanced training in risk analysis, network traffic and security threat analysis, blue and red cell operations, and cloud security. Numerous opportunities exist for industry certifications.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an Associate or Bachelors Degree or higher may be available."
+		],
+		"skills": [
+			"Cybersecurity",
+			"Network Analysis",
+			"Risk identification"
+		],
+		"civilianJobs": [
+			"Cybersecurity",
+			"Cyber Intelligence",
+			"Network Administrator",
+			"Software Developer",
+			"Security Analyst"
+		],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "Communications"
+			}
+		],
+		"extra": {},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/cms"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/dc",
+		"branch": "coast-guard",
+		"slug": "dc",
+		"code": "DC",
+		"codeLabel": "Rating",
+		"title": "Damage Controlman",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "DCs are experts in welding, plumbing, and carpentry, as well as fighting fires and flooding.",
+		"overview": "DCs perform the most hands-on fabrication work in the Coast Guard. You'll gain skills in welding, plumbing, and carpentry. Onboard a cutter, you'll be responsible for damage control—including systems maintenance, crew training, and rapid emergency response. Ashore, DCs serve at engineering support units and base facilities to maintain shoreside infrastructure.",
+		"duties": [],
+		"requirements": [
+			"Are you a hands-on person?",
+			"Are you good at building and repairing things?",
+			"Are you interested in emergency response?",
+			"Are you experienced or interested in welding, carpentry, or plumbing?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"DCs receive a 15-week rating course in Yorktown, VA with instruction in welding; firefighting; carpentry; plumbing; chemical, biological, and radiological warfare defense; and shipboard damage control.",
+			"Advanced training in welding, firefighting, and shipboard damage control, as well as advanced CBR and non-destructive weld examination training.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Engineering Technology program is available to the DC rating."
+		],
+		"skills": [
+			"Firefighting",
+			"Welding",
+			"Carpentry"
+		],
+		"civilianJobs": [
+			"Firefighter",
+			"Facilities Manager",
+			"Welder",
+			"Carpenter",
+			"Plumber"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/QrZz1CKXIYM"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/dc"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/dv",
+		"branch": "coast-guard",
+		"slug": "dv",
+		"code": "DV",
+		"codeLabel": "Rating",
+		"title": "Diver",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "DVs conduct searches, recoveries, investigations, maintenance, and repairs in a variety of underwater conditions across the globe.",
+		"overview": "DVs are highly trained military divers. Your duties may include recovery of weapons, ship maintenance or repair, and clearing obstructed waterways. DVs use side scan sonar equipment, underwater remote-operated vehicles, metal detectors, and various exothermic cutting and hydraulic power tools. You'll be trained to succeed in waters from the pristine tropics to frigid conditions under polar ice. DVs are typically assigned to dedicated shoreside diving units.",
+		"duties": [],
+		"requirements": [
+			"Are you physically and mentally fit?",
+			"Are you extremely comfortable in the water?",
+			"Are you a detail-oriented person?",
+			"Are you a team player?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"Unlike most ratings, you cannot apply to become a DV until you have advanced to E-4 in another rating. DVs receive a 21-week rating course at the Navy Diving and Salvage Training Center in Panama City, FL, with instruction in air and mixed gas diving using SCUBA and hard hat; underwater cutting and welding; recompression chamber operations; underwater hydraulic tools; ship maintenance, repair, and salvage; lift bag operations; etc.",
+			"Advanced training in cold water ice diving, along with instructor development training, EMT training, a first class diver supervisory course, side scan and remote-operated vehicle course, and various dive gear maintenance courses.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities that lead to credentials, certifications, and licenses are available. Opportunities leading to an associate degree, bachelor's degree, or higher may also be available."
+		],
+		"skills": [
+			"Diving",
+			"Underwater construction",
+			"Search and salvage"
+		],
+		"civilianJobs": [
+			"Commercial Diver",
+			"Marine Engineer",
+			"Hyperbaric Technician",
+			"EMT/Paramedic",
+			"Diving Instructor"
+		],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/TmzrgRgFlbI"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/dv"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/em",
+		"branch": "coast-guard",
+		"slug": "em",
+		"code": "EM",
+		"codeLabel": "Rating",
+		"title": "Electrician’s Mate",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "EMs install, maintain, and repair sophisticated electrical equipment and machinery control systems at Coast Guard units and onboard cutters.",
+		"overview": "EMs are responsible for electrical equipment, including power generation and distribution systems, propulsion motors, navigation equipment, and machinery control systems. You'll be trained in electrical theory, circuit applications, programmable logic, and fiber optics principles. At smaller units, an EM may be the Engineer Petty Officer, who is responsible for the engineering department and equipment. EMs are assigned to a wide variety of units.",
+		"duties": [],
+		"requirements": [
+			"Are you interested in electrical and mechanical systems?",
+			"Are you good at math or problem solving?",
+			"Are you excited to solve challenging technical problems?",
+			"Are you interested in a STEM career?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"EMs receive a 16-week rating course in Yorktown, VA, with instruction in mathematics, physics, and electrical circuit analysis.",
+			"Advanced training in analog and digital electronics, programmable logic controllers, fiber optics, gyrocompass systems, power generation and speed control, and machinery plant control.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Engineering Technology program is available to the EM rating."
+		],
+		"skills": [
+			"Electrical theory",
+			"Circuits and programmable logic",
+			"Fiber optics"
+		],
+		"civilianJobs": [
+			"Master/Journeyman Electrician",
+			"Electrical/Electronics Installer and Repairer",
+			"Power Distributor and Dispatcher",
+			"Power Plant Operator",
+			"Maintenance Supervisor"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {
+			"Video": "https://youtu.be/z5jtLrc7CcI"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/em"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/et",
+		"branch": "coast-guard",
+		"slug": "et",
+		"code": "ET",
+		"codeLabel": "Rating",
+		"title": "Electronics Technician",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "ETs install, repair, and maintain command, control, computer, communications, cyber, intelligence, surveillance, and reconnaissance (C5ISR) systems.",
+		"overview": "ETs are responsible for sophisticated electronics onboard cutters and ashore, including installation and repairs of command, control, computer, communications, cyber, intelligence, surveillance, and reconnaissance (C5ISR) systems. You’ll employ a deep knowledge of electrical theory, along with practical hands-on skills to maintain systems that keep Coast Guard units on the cutting edge. ETs are typically assigned to cutters and shoreside electronic support units.",
+		"duties": [],
+		"requirements": [
+			"Are you interested in electronic systems?",
+			"Are you good at math or problem solving?",
+			"Are you naturally curious about how things work?",
+			"Are you innovative and analytical?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"ETs receive a 20-week rating course in Petaluma, CA, with instruction in electronic systems, navigation systems, and network integrated control systems.",
+			"Advanced training in shipboard defense systems, radar systems, electronic fundamentals, and electronic technical and engineering skills.",
+			"Cyber certification.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Cyber Technology program is available to the ET rating."
+		],
+		"skills": [
+			"Electronics troubleshooting",
+			"Communications equipment maintenance",
+			"Electromagnetic signal fundamentals"
+		],
+		"civilianJobs": [
+			"Electronics Service Technician",
+			"Electronics Systems Specialist",
+			"Communications Equipment Technician",
+			"Electronics Installation Technician",
+			"Data and Satellite Communications Specialist"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "Communications"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/GuLHNinI5nQ"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/et"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/hs",
+		"branch": "coast-guard",
+		"slug": "hs",
+		"code": "HS",
+		"codeLabel": "Rating",
+		"title": "Health Services Technician",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "HSs provide emergency healthcare to those in distress and give medical care to Coast Guard crews.",
+		"overview": "HSs meet the urgent medical needs of those in distress and maintain the readiness of Coast Guard crews. You'll be trained in emergency medical care and specialties such as X-ray technician, diagnostic testing, pharmacy, and dental treatment. You may prescribe medications, administer immunizations, or perform minor surgical procedures. HSs are typically assigned to cutters or Coast Guard clinics ashore.",
+		"duties": [],
+		"requirements": [
+			"Are you detail-oriented?",
+			"Are you drawn to medicine or dental health?",
+			"Are you strong in STEM subjects?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"HSs receive a 22-week rating course in Petaluma, CA, with instruction in clinical laboratory procedures, sterilization techniques, preventative medicine, nursing, pharmacy, and wound treatment.",
+			"Advanced X-ray technician training, pharmacy technician training, behavioral health training, independent duty certification, and nationally registered emergency medical technician (EMT) training.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Health Care Administration and Physicians Assistant programs are available to the HS rating."
+		],
+		"skills": [
+			"Nursing",
+			"Laboratory procedures",
+			"Wound repair"
+		],
+		"civilianJobs": [
+			"Community Health Worker",
+			"EMT",
+			"X-ray Technician",
+			"Medical Laboratory Technician",
+			"Medical or Dental Assistant"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/c9ZX3ANwo8w"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/hs"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/is",
+		"branch": "coast-guard",
+		"slug": "is",
+		"code": "IS",
+		"codeLabel": "Rating",
+		"title": "Intelligence Specialist",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "ISs turn information into actionable intelligence that enables missions to succeed.",
+		"overview": "ISs connect the right information to the right person at the right time. You'll plan and execute intelligence operations to collect information from adversaries to ensure the success of Coast Guard missions. You'll use advanced technology and geospatial techniques to predict and communicate locations and actions of adversaries. ISs are typically assigned to shoreside sectors, districts, cutters, and major intelligence units.",
+		"duties": [],
+		"requirements": [
+			"Are you analytical with a critical thinking mindset?",
+			"Are you interested in a STEM-related career?",
+			"Are you interested in using computers and data to solve problems?",
+			"Are you comfortable keeping secrets?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"ISs receive a 12-week rating course in Yorktown, VA, with instruction in intelligence disciplines, intelligence analysis and briefing, and protecting classified information.",
+			"Advanced training in intelligence collection and analysis, counterintelligence analysis, and operations, as well as advanced training in human intelligence, signals intelligence, cyber intelligence, and geospatial intelligence.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Strategic Intelligence Program is available to the IS rating."
+		],
+		"skills": [
+			"Intelligence collection and analysis",
+			"Research techniques",
+			"Critical thinking"
+		],
+		"civilianJobs": [
+			"Intelligence Analyst",
+			"Intelligence Collection Manager",
+			"Intelligence Collector",
+			"Counterintelligence Specialist",
+			"Counterterrorism Specialist"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "Law Enforcement, Communications"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/QRPtRZTk0Ek"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/is"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/it",
+		"branch": "coast-guard",
+		"slug": "it",
+		"code": "IT",
+		"codeLabel": "Rating",
+		"title": "Information Systems Technician",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "ITs are system administrators that support the people and equipment required for every mission, including telephones, computers, and network systems.",
+		"overview": "ITs are responsible for computer and voice networks. You'll be a system administrator for unclassified and classified systems, and manage hardware, firmware, and software to keep units' IT resources online. Aboard a cutter, you'll use your skills to support tactical command, control, and communications systems. ITs are also assigned to electronics support units, providing critical support to computer systems at various units to keep them mission capable.",
+		"duties": [],
+		"requirements": [
+			"Are you interested in computers, networks, or technology?",
+			"Are you a go-to electronics fixer for friends or family?",
+			"Are you excited to solve challenging technical problems?",
+			"Are you interested in a STEM career?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"ITs receive a 28-week rating course in Petaluma, CA, with instruction in maintenance and management of computer servers and workstations, copper and fiber cable installation, network management, telephone system programming, IT system administration, and software and hardware installation.",
+			"Advanced training in telephone services such as voicemail, auto attendant, and telephone class of service modifications.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities leading to an associate or bachelor's degree or higher may be available. Specifically, the Cyber Technology program is available to the IT rating. Voluntary Cyber Security educational opportunities are available through Navy Community College."
+		],
+		"skills": [
+			"Network infrastructure",
+			"Telephone systems",
+			"Computers"
+		],
+		"civilianJobs": [
+			"Network and Computer Systems Administrator",
+			"Computer and Information Systems Technician",
+			"IT Customer Support Specialist",
+			"Information Technology Project Manager",
+			"Computer Programmer"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "Communications"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/vWqRwMt5nso"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/it"
+		},
+		"ai": null
+	},
+	{
+		"id": "coast-guard/mst",
+		"branch": "coast-guard",
+		"slug": "mst",
+		"code": "MST",
+		"codeLabel": "Rating",
+		"title": "Marine Science Technician",
+		"rank": "enlisted",
+		"category": "stem",
+		"subcategory": null,
+		"tagline": "MSTs inspect vessels and facilities, and respond to pollution incidents.",
+		"overview": "MSTs are specialists who enforce laws related to safety, security, and environmental protection. You'll board vessels, inspect commercial waterfront facilities, and respond to disasters that affect the environment or operation of a port. You may search containers or oversee handling of hazardous cargo to prevent disruptions to critical maritime commerce infrastructure. MSTs are typically assigned to shoreside sectors and specialized units.",
+		"duties": [],
+		"requirements": [
+			"Are you interested in emergency response?",
+			"Are you passionate about the environment?",
+			"Are you consistent and methodical?",
+			"Are you interested in a STEM career?"
+		],
+		"asvab": null,
+		"education": null,
+		"training": [
+			"MSTs receive a 12-week rating course in Yorktown, VA, with instruction in investigation of pollution incidents, pollution cleanup operations, and vessel and waterfront facility inspections.",
+			"Training in container inspections and explosives handling, as well as federal on-scene coordinator representative and other national incident management system certifications.",
+			"Both full-time and part-time Coast Guard-funded educational opportunities that lead to an associate degree, bachelor's degree, or higher may be available."
+		],
+		"skills": [
+			"Environmental safety requirements and regulations",
+			"Vessel inspections",
+			"Local port security threat response"
+		],
+		"civilianJobs": [
+			"Marine Environmental Specialist",
+			"Hazardous Materials Specialist",
+			"Facility Supervisor",
+			"Vessel Inspector",
+			"OSHA Response Trainer"
+		],
+		"components": [
+			"Active Duty",
+			"Reserve"
+		],
+		"bonus": null,
+		"stats": [
+			{
+				"label": "Also tagged",
+				"value": "First Response"
+			}
+		],
+		"extra": {
+			"Video": "https://youtu.be/NdFHiyoHOQM"
+		},
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers/enlisted/mst"
+		},
+		"ai": null
+	}
+]

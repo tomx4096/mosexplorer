@@ -1,0 +1,137 @@
+[
+	{
+		"slug": "army",
+		"name": "U.S. Army",
+		"short": "Army",
+		"department": "Department of the Army",
+		"established": "1775-06-14",
+		"motto": "This We'll Defend",
+		"members": "Soldiers",
+		"codeLabel": "MOS",
+		"codeMeaning": "Military Occupational Specialty",
+		"source": {
+			"name": "goarmy.com",
+			"url": "https://www.goarmy.com/careers-and-jobs"
+		},
+		"jobCount": 263,
+		"enlisted": 148,
+		"officer": 115,
+		"categoryCount": 6,
+		"fetchedAt": "2026-10-14",
+		"ai": {
+			"tagline": "The Army's 263 jobs, from infantry to avionics, explained plainly.",
+			"description": "The U.S. Army is the country's land force, raised in 1775 and responsible for everything from closing with an enemy on foot to running air traffic control towers and repairing helicopter gearboxes. Its work is sorted by MOS, or Military Occupational Specialty: a code like 11B (Infantryman) or 15T (UH-60 Helicopter Repairer), where the number marks the career field and the letter the particular trade, with officer and warrant officer codes running on the same system. The common misreading is that the Army is mostly infantry; in practice the great majority of Soldiers hold support, maintenance, logistics or technical specialties, and most people enlist into a job rather than simply into the service."
+		}
+	},
+	{
+		"slug": "marines",
+		"name": "U.S. Marine Corps",
+		"short": "Marines",
+		"department": "Department of the Navy",
+		"established": "1775-11-10",
+		"motto": "Semper Fidelis",
+		"members": "Marines",
+		"codeLabel": "MOS",
+		"codeMeaning": "Military Occupational Specialty",
+		"source": {
+			"name": "NAVMC 1200.1M, the Marine Corps MOS Manual",
+			"url": "https://www.marines.mil/News/Publications/MCPEL/Electronic-Library-Display/Article/4429151/navmc-12001m/"
+		},
+		"jobCount": 320,
+		"enlisted": 208,
+		"officer": 112,
+		"categoryCount": 41,
+		"fetchedAt": "2026-10-14",
+		"ai": {
+			"tagline": "The smallest of the big services, with its own numbering system",
+			"description": "The Marine Corps is the naval expeditionary force, organised to deploy from ships and fight as combined air-ground task forces, with jobs covering everything from riflemen and reconnaissance to postal clerks, intelligence analysts and cyber network operators. Jobs are labelled by MOS (Military Occupational Specialty), a four-digit code where the first two digits mark the occupational field \"— 03 for infantry, 02 for intelligence, 04 for logistics — and officer specialties typically end in 02 or higher, often with a Roman numeral grade in brackets. The common misconception is that everyone in the Corps is a rifleman by trade; the saying \"every Marine a rifleman\" refers to shared basic combat training, not to the MOS you will actually work in, which is far more likely to involve a maintenance log than a machine gun."
+		}
+	},
+	{
+		"slug": "navy",
+		"name": "U.S. Navy",
+		"short": "Navy",
+		"department": "Department of the Navy",
+		"established": "1775-10-13",
+		"motto": "Semper Fortis",
+		"members": "Sailors",
+		"codeLabel": "Rating",
+		"codeMeaning": "Enlisted rating (officers carry a designator instead)",
+		"source": {
+			"name": "navy.com",
+			"url": "https://www.navy.com/careers-benefits/careers"
+		},
+		"jobCount": 128,
+		"enlisted": 77,
+		"officer": 51,
+		"categoryCount": 13,
+		"fetchedAt": "2026-10-14",
+		"ai": null
+	},
+	{
+		"slug": "air-force",
+		"name": "U.S. Air Force",
+		"short": "Air Force",
+		"department": "Department of the Air Force",
+		"established": "1947-09-18",
+		"motto": "Aim High … Fly-Fight-Win",
+		"members": "Airmen",
+		"codeLabel": "AFSC",
+		"codeMeaning": "Air Force Specialty Code",
+		"source": {
+			"name": "airforce.com",
+			"url": "https://www.airforce.com/careers"
+		},
+		"jobCount": 237,
+		"enlisted": 126,
+		"officer": 111,
+		"categoryCount": 8,
+		"fetchedAt": "2026-10-14",
+		"ai": null
+	},
+	{
+		"slug": "space-force",
+		"name": "U.S. Space Force",
+		"short": "Space Force",
+		"department": "Department of the Air Force",
+		"established": "2019-12-20",
+		"motto": "Semper Supra",
+		"members": "Guardians",
+		"codeLabel": "SFSC",
+		"codeMeaning": "Space Force Specialty Code",
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/careers"
+		},
+		"jobCount": 17,
+		"enlisted": 7,
+		"officer": 10,
+		"categoryCount": 2,
+		"fetchedAt": "2026-10-14",
+		"ai": {
+			"tagline": "The newest service, mostly desks, screens and orbital mechanics",
+			"description": "The Space Force operates and defends the satellites, ground stations and networks that the rest of the US military quietly depends on for navigation, communications, missile warning and intelligence. Its jobs are sorted by Space Force Specialty Code (SFSC), and the roughly seventeen listed careers skew heavily toward intelligence analysis, cyber operations, engineering and space systems operations rather than anything you'd call general labour. The common misconception is that Guardians go to space; nobody does, and the work is done from consoles and operations floors on the ground, which is less cinematic but genuinely technical."
+		}
+	},
+	{
+		"slug": "coast-guard",
+		"name": "U.S. Coast Guard",
+		"short": "Coast Guard",
+		"department": "Department of Homeland Security",
+		"established": "1790-08-04",
+		"motto": "Semper Paratus",
+		"members": "Coast Guardsmen",
+		"codeLabel": "Rating",
+		"codeMeaning": "Enlisted rating",
+		"source": {
+			"name": "gocoastguard.com",
+			"url": "https://www.gocoastguard.com/careers"
+		},
+		"jobCount": 28,
+		"enlisted": 21,
+		"officer": 7,
+		"categoryCount": 6,
+		"fetchedAt": "2026-10-14",
+		"ai": null
+	}
+]

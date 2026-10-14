@@ -1,0 +1,1214 @@
+[
+	{
+		"branch": "army",
+		"slug": "aviation",
+		"name": "Aviation & Aerial Defense",
+		"description": "",
+		"subcategories": [
+			"Detecting Aerial Threats",
+			"Managing Piloting Aircraft",
+			"Repairing Aircraft"
+		],
+		"jobCount": 29,
+		"enlisted": 25,
+		"officer": 4,
+		"ai": {
+			"description": "These are the Army jobs that deal with the sky — either putting Army aircraft into it, or stopping someone else's from staying there. On one side sit the aviation trades: pilots, crew chiefs, drone operators, air traffic controllers, and the large body of mechanics who keep helicopters and their engines, rotors, wiring and avionics airworthy; on the other sit air defense artillery, who crew Patriot and Avenger systems, watch radar feeds for incoming aircraft and missiles, and repair the equipment that does the watching.",
+			"funFact": "Most Army pilots are warrant officers rather than commissioned officers — a deliberate arrangement that lets them spend careers flying instead of being promoted away from the cockpit into command and staff work."
+		}
+	},
+	{
+		"branch": "army",
+		"slug": "ground-forces",
+		"name": "Ground Forces",
+		"description": "",
+		"subcategories": [
+			"Explosives Artillery",
+			"Firearms Ammunition",
+			"Languages Code",
+			"Tanks Machinery"
+		],
+		"jobCount": 26,
+		"enlisted": 18,
+		"officer": 8,
+		"ai": {
+			"description": "These are the jobs that close with an enemy on the ground and the ones that directly support doing so: infantry, tanks and scouts, artillery and rocket crews, plus the specialists who clear bombs, handle chemical hazards, talk to civilian populations, or operate in small Special Forces teams. The common thread is that the work happens at or near the point of contact, usually outdoors, usually carrying a great deal of equipment, and almost always as part of a crew or squad rather than alone.",
+			"funFact": "The Army traditionally calls the infantry the \"Queen of Battle\" and the field artillery the \"King of Battle\" — a chess metaphor that dates to an era when the queen was the most mobile piece on the board."
+		}
+	},
+	{
+		"branch": "army",
+		"slug": "mechanics-engineering",
+		"name": "Mechanics & Engineering",
+		"description": "",
+		"subcategories": [
+			"Design Develop",
+			"Test Repair"
+		],
+		"jobCount": 32,
+		"enlisted": 31,
+		"officer": 1,
+		"ai": {
+			"description": "These are the soldiers who build things, blow things up, and keep everything else running — from bridges and airfields and power grids to tanks, trucks, howitzers and missile launchers. Some of the work is civilian trade work done in worse conditions (plumbing, carpentry, welding, diesel repair); some of it, like combat engineering and military diving, has no real civilian equivalent.",
+			"funFact": "Combat engineers are still called \"sappers,\" a term borrowed from the French saper — to dig — after the trenches siege engineers once dug toward enemy fortifications, and the Army runs a demanding Sapper Leader Course where graduates earn the Sapper tab."
+		}
+	},
+	{
+		"branch": "army",
+		"slug": "science-medicine",
+		"name": "Science & Medicine",
+		"description": "",
+		"subcategories": [
+			"General Care",
+			"Intensive Care",
+			"Physical Mental Health",
+			"Research"
+		],
+		"jobCount": 105,
+		"enlisted": 23,
+		"officer": 82,
+		"ai": {
+			"description": "These are the Army's clinicians, scientists and technicians \ninstalled everywhere from garrison hospitals to field aid stations: surgeons and nurses, dentists and vets, pharmacists and lab techs, plus the specialists who inspect food, test water, control mosquitoes and keep the equipment calibrated. The point is to keep soldiers healthy enough to do their jobs, treat them when they are not, and return them to duty or get them home alive.",
+			"funFact": "Army veterinarians (the 64-series) are responsible not only for military working dogs but also for inspecting food destined for troops across the Department of Defense — a role that has made the Veterinary Corps the military's main food-safety authority since it was established in 1916."
+		}
+	},
+	{
+		"branch": "army",
+		"slug": "signal-intelligence",
+		"name": "Signal & Intelligence",
+		"description": "",
+		"subcategories": [
+			"Languages Code",
+			"Locations Stats Frequencies"
+		],
+		"jobCount": 29,
+		"enlisted": 22,
+		"officer": 7,
+		"ai": {
+			"description": "These are the Army's jobs about information: moving it, protecting it, collecting it, making sense of it, and occasionally denying it to someone else. They range from running satellite links and fixing radar sets to analysing imagery, interrogating sources, defending networks, and writing press releases — all of it in service of commanders knowing more than the other side does.",
+			"funFact": "Army signals intelligence and cryptologic work is largely conducted under the National Security Agency, so soldiers in careers like 35N and 35P often spend tours at NSA sites alongside civilians and personnel from the other services."
+		}
+	},
+	{
+		"branch": "army",
+		"slug": "support-logistics",
+		"name": "Support & Logistics",
+		"description": "",
+		"subcategories": [
+			"Admin Financial Support",
+			"Creative",
+			"Safety Order Legal",
+			"Transportation Inventory"
+		],
+		"jobCount": 42,
+		"enlisted": 29,
+		"officer": 13,
+		"ai": {
+			"description": "This is the half of the Army that keeps the other half fed, fuelled, paid, supplied, defended in court, buried with honours and occasionally played out by a brass band. The jobs range from truck drivers and fuel handlers to lawyers, chaplains, cooks, military police, dog handlers and the clerks who make sure ammunition and medical stock are where they are supposed to be — unglamorous work that armies lose wars without.",
+			"funFact": "Army parachute riggers (92R) traditionally jump using parachutes they have packed themselves, which is one way of enforcing quality control."
+		}
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-01",
+		"name": "01 Manpower and Administration",
+		"description": "",
+		"programs": [
+			{
+				"code": "CB",
+				"name": "Administrative and Data Specialists",
+				"headline": "Using data to support command decisions",
+				"blurb": "Administrative and Data Specialists keep Marine Corps operations running smoothly. They manage personnel records, handle critical data, and support command decisions with accuracy and efficiency."
+			}
+		],
+		"jobCount": 5,
+		"enlisted": 2,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-02",
+		"name": "02 Intelligence",
+		"description": "",
+		"programs": [
+			{
+				"code": "DD",
+				"name": "Intel and Planning",
+				"headline": "Staying one step ahead",
+				"blurb": "Marines in Intel and Planning gather and analyze critical information to guide mission decisions. They provide the insights that keep Marines a step ahead of the enemy and ready for any challenge."
+			}
+		],
+		"jobCount": 7,
+		"enlisted": 4,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-03",
+		"name": "03 Infantry",
+		"description": "",
+		"programs": [
+			{
+				"code": "HZ",
+				"name": "Reconnaissance",
+				"headline": "See what others can't",
+				"blurb": "Recon Marines are the eyes and ears of the battlefield. Trained in stealth, surveillance, and deep infiltration, they gather critical intel behind enemy lines to shape missions and save lives."
+			},
+			{
+				"code": "MG",
+				"name": "Marine Guard",
+				"headline": "Provide protection wherever it's needed",
+				"blurb": "Marine Guards protect vital assets at home and abroad. Specially trained in close-quarters combat and anti-terrorism, they defend naval bases, nuclear weapons, and high-value installations around the world."
+			},
+			{
+				"code": "UH",
+				"name": "Infantry",
+				"headline": "Be at the heart of the fight",
+				"blurb": ""
+			}
+		],
+		"jobCount": 14,
+		"enlisted": 11,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-04",
+		"name": "04 Logistics",
+		"description": "",
+		"programs": [
+			{
+				"code": "CJ",
+				"name": "Logistics",
+				"headline": "Be the backbone of the mission",
+				"blurb": ""
+			},
+			{
+				"code": "PR",
+				"name": "Parachute Rigger",
+				"headline": "Ensuring everything lands on target",
+				"blurb": "Parachute Riggers pack, maintain, and inspect parachutes and aerial delivery systems with absolute precision. Marines count on them to ensure every drop—whether gear or personnel—lands safely."
+			}
+		],
+		"jobCount": 10,
+		"enlisted": 7,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-05",
+		"name": "05 Marine Air Ground Task Force (MAGTF) Plans",
+		"description": "",
+		"programs": [
+			{
+				"code": "DD",
+				"name": "Intel and Planning",
+				"headline": "Staying one step ahead",
+				"blurb": "Marines in Intel and Planning gather and analyze critical information to guide mission decisions. They provide the insights that keep Marines a step ahead of the enemy and ready for any challenge."
+			}
+		],
+		"jobCount": 1,
+		"enlisted": 1,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-06",
+		"name": "06 Communications",
+		"description": "",
+		"programs": [
+			{
+				"code": "DB",
+				"name": "Information & Communications Technology",
+				"headline": "Keeping Marines connected",
+				"blurb": ""
+			}
+		],
+		"jobCount": 16,
+		"enlisted": 10,
+		"officer": 6,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-08",
+		"name": "08 Field Artillery",
+		"description": "",
+		"programs": [
+			{
+				"code": "CE",
+				"name": "Combat Support",
+				"headline": "Keeping the mission moving",
+				"blurb": ""
+			},
+			{
+				"code": "CK",
+				"name": "Fire Direction/Control Specialist",
+				"headline": "Ensuring the mission stays on target",
+				"blurb": ""
+			}
+		],
+		"jobCount": 10,
+		"enlisted": 8,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-09",
+		"name": "09 Training",
+		"description": "",
+		"programs": [],
+		"jobCount": 1,
+		"enlisted": 0,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-11",
+		"name": "11 Utilities",
+		"description": "",
+		"programs": [
+			{
+				"code": "CO",
+				"name": "Utilities Technician",
+				"headline": "Keeping systems running wherever Marines operate",
+				"blurb": "Utilities Technicians install, maintain, and repair power, water, heating, and air systems—ensuring mission readiness in any environment."
+			},
+			{
+				"code": "CP",
+				"name": "General Engineering",
+				"headline": "Giving Marines the ability to fight anywhere",
+				"blurb": ""
+			}
+		],
+		"jobCount": 5,
+		"enlisted": 4,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-13",
+		"name": "13 Engineer, Construction, Facilities, and Equipment",
+		"description": "",
+		"programs": [
+			{
+				"code": "CE",
+				"name": "Combat Support",
+				"headline": "Keeping the mission moving",
+				"blurb": ""
+			},
+			{
+				"code": "CP",
+				"name": "General Engineering",
+				"headline": "Giving Marines the ability to fight anywhere",
+				"blurb": ""
+			},
+			{
+				"code": "CX",
+				"name": "Vehicle Mechanic",
+				"headline": "Keeping the Corps moving",
+				"blurb": "Vehicle Mechanics inspect, repair, and maintain vehicles—from infantry fighting vehicles to light tactical vehicles, ensuring Marines can operate anywhere, anytime."
+			},
+			{
+				"code": "MA",
+				"name": "Machinist",
+				"headline": "Keeping gear mission-ready",
+				"blurb": "Marine Machinists create and repair precision metal parts for weapons, vehicles, and equipment. Using lathes, mills, and advanced tools, they keep the Corps’ gear running strong."
+			}
+		],
+		"jobCount": 11,
+		"enlisted": 8,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-17",
+		"name": "17 Information Maneuver",
+		"description": "",
+		"programs": [],
+		"jobCount": 11,
+		"enlisted": 5,
+		"officer": 6,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-18",
+		"name": "18 Tank, Assault Amphibious Vehicle and Amphibious Combat Vehicle",
+		"description": "",
+		"programs": [
+			{
+				"code": "CE",
+				"name": "Combat Support",
+				"headline": "Keeping the mission moving",
+				"blurb": ""
+			}
+		],
+		"jobCount": 6,
+		"enlisted": 4,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-21",
+		"name": "21 Ground Ordnance Maintenance",
+		"description": "",
+		"programs": [
+			{
+				"code": "CX",
+				"name": "Vehicle Mechanic",
+				"headline": "Keeping the Corps moving",
+				"blurb": "Vehicle Mechanics inspect, repair, and maintain vehicles—from infantry fighting vehicles to light tactical vehicles, ensuring Marines can operate anywhere, anytime."
+			},
+			{
+				"code": "MA",
+				"name": "Machinist",
+				"headline": "Keeping gear mission-ready",
+				"blurb": "Marine Machinists create and repair precision metal parts for weapons, vehicles, and equipment. Using lathes, mills, and advanced tools, they keep the Corps’ gear running strong."
+			}
+		],
+		"jobCount": 12,
+		"enlisted": 9,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-23",
+		"name": "23 Ammunition and Explosive Ordnance Disposal",
+		"description": "",
+		"programs": [
+			{
+				"code": "CJ",
+				"name": "Logistics",
+				"headline": "Be the backbone of the mission",
+				"blurb": ""
+			}
+		],
+		"jobCount": 4,
+		"enlisted": 2,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-26",
+		"name": "26 Signals Intelligence/Electronic Warfare/Cyberspace Operations",
+		"description": "",
+		"programs": [],
+		"jobCount": 8,
+		"enlisted": 7,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-28",
+		"name": "28 Ground Electronics Maintenance",
+		"description": "",
+		"programs": [],
+		"jobCount": 10,
+		"enlisted": 8,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-30",
+		"name": "30 Supply Chain Material Management",
+		"description": "",
+		"programs": [
+			{
+				"code": "CJ",
+				"name": "Logistics",
+				"headline": "Be the backbone of the mission",
+				"blurb": ""
+			}
+		],
+		"jobCount": 6,
+		"enlisted": 4,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-31",
+		"name": "31 Distribution Management",
+		"description": "",
+		"programs": [
+			{
+				"code": "CJ",
+				"name": "Logistics",
+				"headline": "Be the backbone of the mission",
+				"blurb": ""
+			}
+		],
+		"jobCount": 2,
+		"enlisted": 1,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-33",
+		"name": "33 Food Service",
+		"description": "",
+		"programs": [],
+		"jobCount": 2,
+		"enlisted": 1,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-34",
+		"name": "34 Financial Management",
+		"description": "",
+		"programs": [
+			{
+				"code": "CC",
+				"name": "Accounting and Legal",
+				"headline": "Supporting the mission with precision",
+				"blurb": ""
+			}
+		],
+		"jobCount": 5,
+		"enlisted": 2,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-35",
+		"name": "35 Motor Transport",
+		"description": "",
+		"programs": [
+			{
+				"code": "CX",
+				"name": "Vehicle Mechanic",
+				"headline": "Keeping the Corps moving",
+				"blurb": "Vehicle Mechanics inspect, repair, and maintain vehicles—from infantry fighting vehicles to light tactical vehicles, ensuring Marines can operate anywhere, anytime."
+			},
+			{
+				"code": "MT",
+				"name": "Motor Transport Operator",
+				"headline": "Making the mission move",
+				"blurb": ""
+			}
+		],
+		"jobCount": 5,
+		"enlisted": 4,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-41",
+		"name": "41 Marine Corps Community Services",
+		"description": "",
+		"programs": [],
+		"jobCount": 2,
+		"enlisted": 1,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-44",
+		"name": "44 Legal Support",
+		"description": "",
+		"programs": [
+			{
+				"code": "CC",
+				"name": "Accounting and Legal",
+				"headline": "Supporting the mission with precision",
+				"blurb": ""
+			}
+		],
+		"jobCount": 3,
+		"enlisted": 1,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-45",
+		"name": "45 Communication Strategy and Operations",
+		"description": "",
+		"programs": [
+			{
+				"code": "CH",
+				"name": "Combat Imagery & Multimedia Operations",
+				"headline": "Telling the story on and off the battlefield",
+				"blurb": ""
+			}
+		],
+		"jobCount": 6,
+		"enlisted": 4,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-48",
+		"name": "48 Recruiting and Retention",
+		"description": "",
+		"programs": [],
+		"jobCount": 2,
+		"enlisted": 1,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-55",
+		"name": "55 Music",
+		"description": "",
+		"programs": [],
+		"jobCount": 11,
+		"enlisted": 7,
+		"officer": 4,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-57",
+		"name": "57 Chemical, Biological, Radiological and Nuclear",
+		"description": "",
+		"programs": [
+			{
+				"code": "UJ",
+				"name": "Chemical, Biological, Radiological, Nuclear (CBRN)",
+				"headline": "Confronting hidden threats",
+				"blurb": "CBRN Marines are trained to detect, identify, and respond to hazardous threats. They protect forces from chemical, biological, radiological, and nuclear dangers—ensuring mission success in the most extreme conditions."
+			}
+		],
+		"jobCount": 3,
+		"enlisted": 2,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-58",
+		"name": "58 Military Police, Investigations, and Corrections",
+		"description": "",
+		"programs": [
+			{
+				"code": "UT",
+				"name": "Military Police & Corrections",
+				"headline": "Upholding Marine justice",
+				"blurb": ""
+			}
+		],
+		"jobCount": 6,
+		"enlisted": 3,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-59",
+		"name": "59 Aviation Command and Control (C2) Electronics Maintenance",
+		"description": "",
+		"programs": [
+			{
+				"code": "BA",
+				"name": "Aviation Electronics Technician",
+				"headline": "Maintaining the most advanced air systems",
+				"blurb": ""
+			}
+		],
+		"jobCount": 16,
+		"enlisted": 11,
+		"officer": 5,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-60",
+		"name": "60 Aircraft Maintenance",
+		"description": "",
+		"programs": [
+			{
+				"code": "AF",
+				"name": "Aviation Mechanic",
+				"headline": "Keeping Marine aircraft in top fighting condition.",
+				"blurb": ""
+			},
+			{
+				"code": "AJ",
+				"name": "Aviation Support Systems and Ordnance",
+				"headline": "Ensuring Marines are always ready to fight from the air",
+				"blurb": ""
+			},
+			{
+				"code": "CJ",
+				"name": "Logistics",
+				"headline": "Be the backbone of the mission",
+				"blurb": ""
+			},
+			{
+				"code": "CB",
+				"name": "Administrative and Data Specialists",
+				"headline": "Using data to support command decisions",
+				"blurb": "Administrative and Data Specialists keep Marine Corps operations running smoothly. They manage personnel records, handle critical data, and support command decisions with accuracy and efficiency."
+			}
+		],
+		"jobCount": 10,
+		"enlisted": 8,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-61",
+		"name": "61 Aircraft Maintenance (Rotary-Wing)",
+		"description": "",
+		"programs": [
+			{
+				"code": "AG",
+				"name": "Aircrew",
+				"headline": "Keeping the Corps' aircraft mission-ready",
+				"blurb": "Aircrew Marines keep the Corps' aircraft mission-ready. From inspecting engines to repairing advanced avionics, they ensure every jet, helicopter, and tiltrotor is ready to fly—anywhere, anytime."
+			},
+			{
+				"code": "AF",
+				"name": "Aviation Mechanic",
+				"headline": "Keeping Marine aircraft in top fighting condition.",
+				"blurb": ""
+			}
+		],
+		"jobCount": 13,
+		"enlisted": 13,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-62",
+		"name": "62 Aircraft Maintenance (Fixed-Wing)",
+		"description": "",
+		"programs": [
+			{
+				"code": "AG",
+				"name": "Aircrew",
+				"headline": "Keeping the Corps' aircraft mission-ready",
+				"blurb": "Aircrew Marines keep the Corps' aircraft mission-ready. From inspecting engines to repairing advanced avionics, they ensure every jet, helicopter, and tiltrotor is ready to fly—anywhere, anytime."
+			},
+			{
+				"code": "AF",
+				"name": "Aviation Mechanic",
+				"headline": "Keeping Marine aircraft in top fighting condition.",
+				"blurb": ""
+			},
+			{
+				"code": "AJ",
+				"name": "Aviation Support Systems and Ordnance",
+				"headline": "Ensuring Marines are always ready to fight from the air",
+				"blurb": ""
+			}
+		],
+		"jobCount": 17,
+		"enlisted": 17,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-63",
+		"name": "63 Organizational Avionics Maintenance",
+		"description": "",
+		"programs": [
+			{
+				"code": "BA",
+				"name": "Aviation Electronics Technician",
+				"headline": "Maintaining the most advanced air systems",
+				"blurb": ""
+			}
+		],
+		"jobCount": 15,
+		"enlisted": 14,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-64",
+		"name": "64 Intermediate Avionics Maintenance",
+		"description": "",
+		"programs": [
+			{
+				"code": "BA",
+				"name": "Aviation Electronics Technician",
+				"headline": "Maintaining the most advanced air systems",
+				"blurb": ""
+			}
+		],
+		"jobCount": 6,
+		"enlisted": 6,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-65",
+		"name": "65 Aviation Ordnance",
+		"description": "",
+		"programs": [
+			{
+				"code": "AJ",
+				"name": "Aviation Support Systems and Ordnance",
+				"headline": "Ensuring Marines are always ready to fight from the air",
+				"blurb": ""
+			}
+		],
+		"jobCount": 4,
+		"enlisted": 3,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-66",
+		"name": "66 Aviation Logistics",
+		"description": "",
+		"programs": [
+			{
+				"code": "BA",
+				"name": "Aviation Electronics Technician",
+				"headline": "Maintaining the most advanced air systems",
+				"blurb": ""
+			},
+			{
+				"code": "CJ",
+				"name": "Logistics",
+				"headline": "Be the backbone of the mission",
+				"blurb": ""
+			}
+		],
+		"jobCount": 4,
+		"enlisted": 2,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-68",
+		"name": "68 Meteorological and Oceanographic (METOC) Services",
+		"description": "",
+		"programs": [
+			{
+				"code": "DD",
+				"name": "Intel and Planning",
+				"headline": "Staying one step ahead",
+				"blurb": "Marines in Intel and Planning gather and analyze critical information to guide mission decisions. They provide the insights that keep Marines a step ahead of the enemy and ready for any challenge."
+			}
+		],
+		"jobCount": 2,
+		"enlisted": 1,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-70",
+		"name": "70 Airfield Services",
+		"description": "",
+		"programs": [
+			{
+				"code": "AE",
+				"name": "Aircraft Rescue and Firefighting",
+				"headline": "First responders on the flight line",
+				"blurb": "Aircraft Rescue and Firefighting Marines are first responders on the flight line. Trained to handle aircraft emergencies, fires, and hazardous situations, they protect pilots, crews, and equipment during both combat and peacetime operations. Their quick action can mean the difference between life and death when seconds count."
+			},
+			{
+				"code": "CP",
+				"name": "General Engineering",
+				"headline": "Giving Marines the ability to fight anywhere",
+				"blurb": ""
+			},
+			{
+				"code": "CB",
+				"name": "Administrative and Data Specialists",
+				"headline": "Using data to support command decisions",
+				"blurb": "Administrative and Data Specialists keep Marine Corps operations running smoothly. They manage personnel records, handle critical data, and support command decisions with accuracy and efficiency."
+			}
+		],
+		"jobCount": 4,
+		"enlisted": 3,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-72",
+		"name": "72 Aviation Command and Control Operations",
+		"description": "",
+		"programs": [
+			{
+				"code": "AN",
+				"name": "Air Control/Navigation and UAS",
+				"headline": "Managing the skies",
+				"blurb": ""
+			},
+			{
+				"code": "CE",
+				"name": "Combat Support",
+				"headline": "Keeping the mission moving",
+				"blurb": ""
+			},
+			{
+				"code": "AJ",
+				"name": "Aviation Support Systems and Ordnance",
+				"headline": "Ensuring Marines are always ready to fight from the air",
+				"blurb": ""
+			}
+		],
+		"jobCount": 13,
+		"enlisted": 6,
+		"officer": 7,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-73",
+		"name": "73 Navigators and Unmanned Aircraft System Officers/Operators",
+		"description": "",
+		"programs": [
+			{
+				"code": "AN",
+				"name": "Air Control/Navigation and UAS",
+				"headline": "Managing the skies",
+				"blurb": ""
+			},
+			{
+				"code": "DD",
+				"name": "Intel and Planning",
+				"headline": "Staying one step ahead",
+				"blurb": "Marines in Intel and Planning gather and analyze critical information to guide mission decisions. They provide the insights that keep Marines a step ahead of the enemy and ready for any challenge."
+			}
+		],
+		"jobCount": 6,
+		"enlisted": 3,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "marines",
+		"slug": "occfld-75",
+		"name": "75 Pilots/Naval Flight Officers",
+		"description": "",
+		"programs": [],
+		"jobCount": 26,
+		"enlisted": 0,
+		"officer": 26,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "arts-communications",
+		"name": "Arts & Communications",
+		"description": "Navy communication jobs are responsible for managing the Navy’s public perception and uplifting Sailors, civilians and foreign dignitaries. See opportunities.",
+		"jobCount": 3,
+		"enlisted": 2,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "aviation",
+		"name": "Aviation",
+		"description": "Flying Navy means seamless teamwork and an endless determination to dominate the skies. Learn more about aviation careers in the Navy.",
+		"jobCount": 18,
+		"enlisted": 11,
+		"officer": 7,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "business-logistics-administration",
+		"name": "Business, Logistics & Administration",
+		"description": "Sailors in business, logistics and administrative jobs in the Navy ensure jets can fly and Sailors are taken care of, abroad or stateside. Learn more.",
+		"jobCount": 8,
+		"enlisted": 6,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "construction",
+		"name": "Construction",
+		"description": "Whether you’re working in Navy construction management or on-site at projects, you’re the Sailor behind the success of the Navy’s building projects.",
+		"jobCount": 8,
+		"enlisted": 7,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "electronics-technology",
+		"name": "Electronics & Technology",
+		"description": "Tech jobs in the military are among the most important in the world—without Sailors in these jobs, Naval warfare technology comes to a halt. Learn more.",
+		"jobCount": 8,
+		"enlisted": 8,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "first-responder",
+		"name": "First Responder",
+		"description": "As a Naval first responder, you’ll be responsible for protecting the lives of your fellow Sailors and the safety of the fleet. See career opportunities.",
+		"jobCount": 2,
+		"enlisted": 2,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "industrial-mechanical",
+		"name": "Industrial & Mechanical",
+		"description": "Navy mechanic jobs require a flawless understanding of every engine, gear and motor, inside and out. See what career opportunities are a fit for you.",
+		"jobCount": 17,
+		"enlisted": 17,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "intelligence-information-cryptology",
+		"name": "Intelligence, Information & Cryptology",
+		"description": "Navy intelligence jobs are some of the most skillful in the fleet and each one is a critical component of operational success. See career opportunities.",
+		"jobCount": 15,
+		"enlisted": 9,
+		"officer": 6,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "legal",
+		"name": "Legal",
+		"description": "As a Navy attorney, you’ll set yourself apart by working all over the world and across every type of law. Learn more about career opportunities.",
+		"jobCount": 2,
+		"enlisted": 1,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "medical",
+		"name": "Medical",
+		"description": "Whether you’re stateside at a hospital or abroad on a warship, Sailors in Navy medical jobs are the backbone of the fleet. See career opportunities.",
+		"jobCount": 26,
+		"enlisted": 3,
+		"officer": 23,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "religious-services",
+		"name": "Religious Services",
+		"description": "Becoming a military Chaplain or Religious Program Specialist means helping Sailors through moments of crisis. Learn how you can be part of this important team.",
+		"jobCount": 2,
+		"enlisted": 1,
+		"officer": 1,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "science-engineering",
+		"name": "Science, Engineering & Nuclear",
+		"description": "Working with the most advanced tech around the world, Sailors in science and military engineering jobs ensure the fleet has the most up-to-date information.",
+		"jobCount": 14,
+		"enlisted": 5,
+		"officer": 9,
+		"ai": null
+	},
+	{
+		"branch": "navy",
+		"slug": "special-operations",
+		"name": "Special Operations",
+		"description": "While their missions are closely guarded secrets, it’s common knowledge that Navy Special Operations teams are the best in the world. Learn about careers.",
+		"jobCount": 5,
+		"enlisted": 5,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "air-force",
+		"slug": "aviation-and-flight",
+		"name": "Aviation & Flight",
+		"description": "With multiple opportunities available worldwide, discover roles like Flight Engineering and Mobility Force Aviation and start your journey today.",
+		"jobCount": 38,
+		"enlisted": 25,
+		"officer": 13,
+		"ai": null
+	},
+	{
+		"branch": "air-force",
+		"slug": "healthcare",
+		"name": "Healthcare",
+		"description": "From nursing and medical technology to dental and mental health, discover your path to serving your country while making an impact on the lives of others.",
+		"jobCount": 82,
+		"enlisted": 16,
+		"officer": 66,
+		"ai": null
+	},
+	{
+		"branch": "air-force",
+		"slug": "intelligence",
+		"name": "Intelligence",
+		"description": "To accomplish each mission, it takes the world's most advanced tech and a team of dedicated people to ensure our information is secure and our technology remains steps ahead of the enemy. To learn more about careers, view the links below or contact us for information about availability and where to start.",
+		"jobCount": 22,
+		"enlisted": 18,
+		"officer": 4,
+		"ai": null
+	},
+	{
+		"branch": "air-force",
+		"slug": "law-and-order",
+		"name": "Law & Order",
+		"description": "Discover how the U.S. Air Force defends justice and safety worldwide. Explore career opportunities and contact us for more information on availability.",
+		"jobCount": 9,
+		"enlisted": 6,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "air-force",
+		"slug": "logistics-and-administration",
+		"name": "Logistics & Administration",
+		"description": "Join our team of Logistics and Administration professionals and help us keep the Air Force running smoothly. Learn more today.",
+		"jobCount": 37,
+		"enlisted": 23,
+		"officer": 14,
+		"ai": null
+	},
+	{
+		"branch": "air-force",
+		"slug": "maintenance-and-repair",
+		"name": "Maintenance & Repair",
+		"description": "Explore career opportunities in aircraft maintenance and repair. Join our team of specialized mechanics and help us take on any mission at a moment's notice.",
+		"jobCount": 28,
+		"enlisted": 26,
+		"officer": 2,
+		"ai": null
+	},
+	{
+		"branch": "air-force",
+		"slug": "science-and-technology",
+		"name": "Science & Technology",
+		"description": "Using the world's most advanced tech to complete our missions requires a committed team to keep it secure and operating properly. Learn more about our roles.",
+		"jobCount": 16,
+		"enlisted": 10,
+		"officer": 6,
+		"ai": null
+	},
+	{
+		"branch": "air-force",
+		"slug": "special-warfare-and-combat-support",
+		"name": "Special Warfare & Combat Support",
+		"description": "Discover exciting opportunities to join our team of skilled Airmen, who manage every aspect of combat from surveillance to fire support. Apply today.",
+		"jobCount": 5,
+		"enlisted": 2,
+		"officer": 3,
+		"ai": null
+	},
+	{
+		"branch": "space-force",
+		"slug": "enlisted",
+		"name": "Enlisted Guardians",
+		"description": "Enlisted specialties open to high-school graduates — the operators and analysts who run the Space Force day to day.",
+		"jobCount": 7,
+		"enlisted": 7,
+		"officer": 0,
+		"ai": {
+			"description": "These are the Space Force's enlisted career fields, open to high-school graduates: people who sit at consoles flying satellites, watching the radio spectrum, defending networks, and turning raw collection into intelligence someone can act on. The common thread is that the work is done from a ground station or operations floor rather than in orbit — the satellites and sensors are the equipment, and these Guardians are the ones operating and interpreting them.",
+			"funFact": "The Space Force is by far the smallest US armed service, and its junior enlisted ranks are unique: instead of Airman or Private, new Guardians are Specialist 1 through Specialist 4."
+		}
+	},
+	{
+		"branch": "space-force",
+		"slug": "officer",
+		"name": "Officer Careers",
+		"description": "Commissioned roles requiring a bachelor's degree: space operations, cyber, intelligence, engineering and acquisition.",
+		"jobCount": 10,
+		"enlisted": 0,
+		"officer": 10,
+		"ai": {
+			"description": "These are the commissioned jobs in the Space Force: you need a bachelor's degree, and often a technical one. The work runs from flying satellites and watching for threats in orbit, to cyber operations, intelligence analysis, and the long unglamorous business of designing and buying the hardware and software everyone else depends on.",
+			"funFact": "The Space Force is by far the smallest US military service, and its members — officers and enlisted alike — have been called Guardians since the name was announced in December 2020."
+		}
+	},
+	{
+		"branch": "coast-guard",
+		"slug": "aviation",
+		"name": "Aviation ratings",
+		"description": "",
+		"jobCount": 3,
+		"enlisted": 3,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "coast-guard",
+		"slug": "business",
+		"name": "Business ratings",
+		"description": "",
+		"jobCount": 7,
+		"enlisted": 7,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "coast-guard",
+		"slug": "communications",
+		"name": "Communications ratings",
+		"description": "",
+		"jobCount": 1,
+		"enlisted": 1,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "coast-guard",
+		"slug": "law-enforcement",
+		"name": "Law Enforcement ratings",
+		"description": "",
+		"jobCount": 1,
+		"enlisted": 1,
+		"officer": 0,
+		"ai": null
+	},
+	{
+		"branch": "coast-guard",
+		"slug": "officer",
+		"name": "Officer specialties",
+		"description": "The seven career fields Coast Guard officers serve in after commissioning.",
+		"jobCount": 7,
+		"enlisted": 0,
+		"officer": 7,
+		"ai": null
+	},
+	{
+		"branch": "coast-guard",
+		"slug": "stem",
+		"name": "STEM ratings",
+		"description": "",
+		"jobCount": 9,
+		"enlisted": 9,
+		"officer": 0,
+		"ai": null
+	}
+]

@@ -1,0 +1,33 @@
+{
+	"name": "mosexplorer",
+	"private": true,
+	"version": "0.1.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"data:fetch": "node scripts/fetch-jobs.js",
+		"data:enrich": "node scripts/enrich-jobs.js",
+		"data:all": "npm run data:fetch && npm run data:enrich"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-static": "^3.0.10",
+		"@sveltejs/kit": "^2.50.2",
+		"@sveltejs/vite-plugin-svelte": "^6.2.4",
+		"@tailwindcss/vite": "^4.2.0",
+		"svelte": "^5.51.0",
+		"svelte-check": "^4.3.6",
+		"tailwindcss": "^4.2.0",
+		"typescript": "^5.9.3",
+		"vite": "^7.3.1"
+	},
+	"dependencies": {
+		"@anthropic-ai/sdk": "^0.133.0",
+		"cheerio": "^1.0.0",
+		"jsonrepair": "^3.13.2",
+		"zod": "^4.6.7"
+	}
+}

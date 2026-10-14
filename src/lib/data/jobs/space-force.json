@@ -1,0 +1,863 @@
+[
+	{
+		"id": "space-force/all-source-analyst",
+		"branch": "space-force",
+		"slug": "all-source-analyst",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "All Source Analyst",
+		"rank": "enlisted",
+		"category": "enlisted",
+		"subcategory": null,
+		"tagline": "With any mission, there are many moving parts and information coming from dozens (if not hundreds) of sources across the globe and stratosphere. The All-source Analyst’s duty is to discover, develop and dissect raw data, and assess viable intelligence across these various sources. They evaluate and ensure all intelligence activities are accurate and optimized to enable Space Force acquisitions, tests and operations.",
+		"overview": "With any mission, there are many moving parts and information coming from dozens (if not hundreds) of sources across the globe and stratosphere. The All-source Analyst’s duty is to discover, develop and dissect raw data, and assess viable intelligence across these various sources. They evaluate and ensure all intelligence activities are accurate and optimized to enable Space Force acquisitions, tests and operations.",
+		"duties": [
+			"Produces all-source intelligence using multiple disciplines including Signals Intelligence (SIGINT), Geospatial Intelligence (GEOINT), Human Intelligence (HUMINT), and Open-Source Intelligence (OSINT)",
+			"Produces situation estimates and adversary assessments",
+			"Trains military personnel on collecting and reporting requirements, recognition and procedures",
+			"Assesses offensive and defensive weapon system capabilities",
+			"Prepares, maintains and presents intelligence reports to leadership"
+		],
+		"requirements": [
+			"Obtain a qualifying ASVAB score: general minimum score of 46"
+		],
+		"asvab": "Obtain a qualifying ASVAB score: general minimum score of 46",
+		"education": "High School Student or Graduate",
+		"training": [
+			"7.5 WEEKS OF BASIC MILITARY TRAINING",
+			"3 MONTHS AT GOODFELLOW AFB, TX",
+			"After training: Enlisted Guardians will earn credits toward an Intelligence Studies and Technology associate’s degree through the Community College of the Air Force. | 7.5 | 3 | | ---------- | ---------- | | WEEKS OF BASIC MILITARY TRAINING | MONTHS AT GOODFELLOW AFB, TX |"
+		],
+		"skills": [
+			"Intelligence",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/enlisted-careers/all-source-analyst"
+		},
+		"ai": {
+			"blurb": "Pulls together intelligence from satellites, intercepts, people and public sources, then tells commanders what it means.",
+			"dayToDay": "Most of the work happens at a desk inside a secure facility, reading reports, cross-checking sources and writing assessments nobody outside the room will ever see. You'll work alongside other analysts and brief officers who want clear answers fast, often about adversary weapon systems and what they can do. Expect long stretches of careful reading punctuated by deadlines, and a fair amount of teaching others what to collect and how to report it.",
+			"funFact": "Goodfellow Air Force Base in San Angelo, Texas, is the military's main intelligence training hub, teaching students from all services — it's the common starting point for Space Force all-source analysts.",
+			"goodFitIf": [
+				"enjoy piecing together incomplete information",
+				"write clearly under deadline",
+				"can keep secrets indefinitely",
+				"like reading more than lifting"
+			],
+			"tags": [
+				"intelligence",
+				"analysis",
+				"clearance required",
+				"desk-based"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
+	},
+	{
+		"id": "space-force/cryptologic-analyst",
+		"branch": "space-force",
+		"slug": "cryptologic-analyst",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Cryptologic Analyst",
+		"rank": "enlisted",
+		"category": "enlisted",
+		"subcategory": null,
+		"tagline": "Many of our country’s greatest threats reside in cyberspace as bad actors try to extract critical information invisible to the untrained eye. Cryptologic Analysts are expertly trained to identify, analyze and report on these complex problems to ensure intelligence operations are accurate, efficient and secure from outside threats. Their critical thinking is vital in deciphering time-sensitive information to support our global operations and key decision-makers.",
+		"overview": "Many of our country’s greatest threats reside in cyberspace as bad actors try to extract critical information invisible to the untrained eye. Cryptologic Analysts are expertly trained to identify, analyze and report on these complex problems to ensure intelligence operations are accurate, efficient and secure from outside threats. Their critical thinking is vital in deciphering time-sensitive information to support our global operations and key decision-makers.",
+		"duties": [
+			"Process, exploit and disseminate intelligence and cyber products across Cyber Network Operations (CNO) and Signals Intelligence (SIGINT)",
+			"Analyze threats and/or targets of interest",
+			"Operate electronic equipment and computer systems to exploit signals intelligence production efforts",
+			"Author and present time-sensitive intelligence reports to commanders and national leaders",
+			"Influence tactical, operational and strategic decision-making in joint force operations"
+		],
+		"requirements": [
+			"Obtain a qualifying ASVAB score: general minimum score of 46"
+		],
+		"asvab": "Obtain a qualifying ASVAB score: general minimum score of 46",
+		"education": "High School Student or Graduate",
+		"training": [
+			"7.5 weeks of Basic Military Training",
+			"4 months at Goodfellow AFB, TX",
+			"After training: Enlisted Guardians will earn credits toward an Intelligence Studies and Technology associate’s degree through the Community College of the Air Force. | 7.5 | 4 | | ---------- | ---------- | | weeks of Basic Military Training | months at Goodfellow AFB, TX |"
+		],
+		"skills": [
+			"Intelligence",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/enlisted-careers/cryptologic-analyst"
+		},
+		"ai": {
+			"blurb": "Sifts through intercepted signals and network data to find threats, then writes up what it means for commanders.",
+			"dayToDay": "Most of the work happens indoors at a desk, inside a secure facility you can't bring your phone into, often on shift work because signals don't keep office hours. You'll be on classified computer systems and specialised electronic equipment, picking apart signals intelligence and cyber data, then writing reports — some of which go to very senior people on short deadlines. It's a team environment, usually joint, with analysts from other services sitting nearby.",
+			"funFact": "Goodfellow AFB in San Angelo, Texas, is the joint training home for cryptologic and intelligence students from every service branch, so your classmates will include sailors, soldiers and Marines.",
+			"goodFitIf": [
+				"enjoy puzzles and patterns",
+				"can write clearly under deadline",
+				"are comfortable keeping secrets",
+				"prefer analysis to physical work"
+			],
+			"tags": [
+				"intelligence",
+				"cyber",
+				"clearance required",
+				"desk-based"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
+	},
+	{
+		"id": "space-force/cyber-operations",
+		"branch": "space-force",
+		"slug": "cyber-operations",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Cyber Operations",
+		"rank": "enlisted",
+		"category": "enlisted",
+		"subcategory": null,
+		"tagline": "Our defense relies on cybersecurity across a multitude of advanced computers and softwares. Military satellites, missile guidance and ground combat — it’s all connected and must be secured from every angle possible. It’s our Cyber Operations specialist’s job to protect our cyber operations across four key specialties: defense, radio frequency and satellite communications, systems, and networks. They assess and report vulnerabilities, repair and install client systems, and protect our network infrastructure to ensure missions and communications run efficiently.",
+		"overview": "Our defense relies on cybersecurity across a multitude of advanced computers and softwares. Military satellites, missile guidance and ground combat — it’s all connected and must be secured from every angle possible. It’s our Cyber Operations specialist’s job to protect our cyber operations across four key specialties: defense, radio frequency and satellite communications, systems, and networks. They assess and report vulnerabilities, repair and install client systems, and protect our network infrastructure to ensure missions and communications run efficiently.",
+		"duties": [
+			"Install ground radio, satellite and telemetry communication systems",
+			"Support specialized utility programs to collect systems and network data",
+			"Conduct and support cyber mission planning, briefing, execution and debriefing",
+			"Assess, report and deter threats to space assets",
+			"Troubleshoot, repair and deploy ground level and orbital networks and devices to support warfighter",
+			"Troubleshoot, install and upgrade network systems and circuits",
+			"Deter threats to space assets by way of defensive cyber operations",
+			"Perform wireless radio and satellite systems and equipment maintenance"
+		],
+		"requirements": [
+			"Courses in science, technology, engineering and mathematics (STEM) are desirable. An associate’s degree or higher in relevant fields and/or information technology (IT) certifications are also beneficial.",
+			"Obtain a qualifying ASVAB score: general minimum score of 60–64 based on specialty"
+		],
+		"asvab": "Obtain a qualifying ASVAB score: general minimum score of 60–64 based on specialty",
+		"education": "High School Student or Graduate",
+		"training": [
+			"7.5 weeks of Basic Military Training",
+			"2-4 months at Keesler AFB, MS based on speciality.",
+			"After training: Based on specialty, enlisted Guardians will earn credits toward Electronic Systems Technology or Information Systems Technology associate’s degrees through the Community College of the Air Force. | 7.5 | 2-4 | | ---------- | ---------- | | weeks of Basic Military Training | months at Keesler AFB, MS based on speciality. |"
+		],
+		"skills": [
+			"Technology",
+			"Intelligence",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/enlisted-careers/cyber-operations"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/geospatial-intelligence-analyst",
+		"branch": "space-force",
+		"slug": "geospatial-intelligence-analyst",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Geospatial Intelligence Analyst",
+		"rank": "enlisted",
+		"category": "enlisted",
+		"subcategory": null,
+		"tagline": "Analyzes satellite imagery to identify unusual activity and deter threats.",
+		"overview": "Some of our most critical intelligence requires spotting miniscule details in aerial imagery. Responsible for analyzing imagery from satellites, remotely driven vehicles and more, Geospatial Intelligence specialists identify unusual activity and possible threats. They manage and perform a wide range of activities to exploit, develop and disseminate multi-sensor equipment to achieve commander objectives.",
+		"duties": [
+			"Exploit and analyze multi-sensor imagery and geospatial data",
+			"Analyze terrain and structures to determine usability and possible threats",
+			"Utilize maps to determine location and distance from target",
+			"Prepare and present intelligence reports",
+			"Compile and maintain imagery and target folders",
+			"Research and analyze multi-sensor imagery, geospatial data and products",
+			"Perform targeting support for development and combat assessment"
+		],
+		"requirements": [
+			"Obtain a qualifying ASVAB score: general minimum score of 66"
+		],
+		"asvab": "Obtain a qualifying ASVAB score: general minimum score of 66",
+		"education": "High School Student or Graduate",
+		"training": [
+			"7.5 weeks of Basic Military Training",
+			"4.5 months at Goodfellow AFB, TX, followed by Space Warfighter ISR Formal Training at Peterson SFB, CO",
+			"After training: Enlisted Guardians will earn credits toward an Intelligence Studies and Technology associate’s degree through the Community College of the Air Force. | 7.5 | 4.5 | | ---------- | ---------- | | weeks of Basic Military Training | months at Goodfellow AFB, TX, followed by Space Warfighter ISR Formal Training at Peterson SFB, CO |"
+		],
+		"skills": [
+			"Engineering",
+			"Intelligence"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/enlisted-careers/geospatial-intelligence-analyst"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/signals-intelligence-analyst",
+		"branch": "space-force",
+		"slug": "signals-intelligence-analyst",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Signals Intelligence Analyst",
+		"rank": "enlisted",
+		"category": "enlisted",
+		"subcategory": null,
+		"tagline": "Extracts and analyzes foreign communications through electromagnetic emissions.",
+		"overview": "As technology rapidly evolves, our methods of gathering and deciphering information must always stay steps ahead. Signals Intelligence Analysts work at the forefront of this endeavor, extracting and analyzing foreign communication and activity through electromagnetic emissions. They report their findings to appropriate commanders to promptly combat unusual activity and critical situations.",
+		"duties": [
+			"Operate equipment and computer systems to exploit signal intelligence",
+			"Manipulate and extract intelligence data from electromagnetic emissions",
+			"Use classified reference materials to interpret and analyze signals",
+			"Update national databases with findings",
+			"Exploit signals to support electronic warfare (EW) and information technology operations",
+			"Use graphic and electronic analyses to distinguish communications structures, extract intelligence and determine usage",
+			"Produce tactical, strategic and combat intelligence reports"
+		],
+		"requirements": [
+			"Obtain a qualifying ASVAB score: general minimum score of 72"
+		],
+		"asvab": "Obtain a qualifying ASVAB score: general minimum score of 72",
+		"education": "High School Student or Graduate",
+		"training": [
+			"7.5 weeks of Basic Military Training",
+			"5 months at Goodfellow AFB, TX, followed by Space Warfighter ISR Formal Training at Peterson SFB, CO",
+			"After training: Enlisted Guardians will earn credits toward an Intelligence Studies and Technology associate’s degree through the Community College of the Air Force. | 7.5 | 5 | | ---------- | ---------- | | weeks of Basic Military Training | months at Goodfellow AFB, TX, followed by Space Warfighter ISR Formal Training at Peterson SFB, CO |"
+		],
+		"skills": [
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/enlisted-careers/signals-intelligence-analyst"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/space-systems-operator",
+		"branch": "space-force",
+		"slug": "space-systems-operator",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Space Systems Operator",
+		"rank": "enlisted",
+		"category": "enlisted",
+		"subcategory": null,
+		"tagline": "Performs vital tasks to assist in rocket launches and space flight operations.",
+		"overview": "Operating the largest space program in the world takes the combined efforts and skills of thousands of Guardians. It’s the responsibility of a Space Systems Operations specialist to do everything from detecting sea-launched ballistic missiles and tracking satellites to assisting in rocket launches and space flight operations. These highly trained experts must be able to stay calm under pressure and utilize an incredible amount of skill to effectively perform the multiple tasks vital to Space Force missions.",
+		"duties": [
+			"Detect, identify and maintain orbital parameters on Earth satellite vehicles",
+			"Operate defensive and offensive space control systems",
+			"Detect and track missile launches",
+			"Perform launch and on-orbit operations for military satellites",
+			"Perform range operations in support of ballistic missile and space launches",
+			"Ensure operational effectiveness and suitability of space capabilities through operational testing and evaluation"
+		],
+		"requirements": [
+			"Obtain a qualifying ASVAB score: electronics minimum score of 60",
+			"Pass color vision requirements",
+			"Completion of a current National Agency Check with Local Agency Checks and Credit Check",
+			"Successful completion of a Single Scope Background Investigation (SSBI)",
+			"Completion of Basic Military Training",
+			"Must be a U.S. citizen",
+			"Must be between the ages of 17 and 42"
+		],
+		"asvab": "Obtain a qualifying ASVAB score: electronics minimum score of 60",
+		"education": "High School Student or Graduate",
+		"training": [
+			"7.5 weeks of Basic Military Training",
+			"75 days at Vandenberg SFB, CA, for Enlisted Undergraduate Space Training",
+			"After training: Enlisted Guardians will earn credits toward an Intelligence Studies and Technology associate’s degree through the Community College of the Air Force. | 7.5 | 75 | | ---------- | ---------- | | weeks of Basic Military Training | days at Vandenberg SFB, CA, for Enlisted Undergraduate Space Training |"
+		],
+		"skills": [
+			"Technology",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/enlisted-careers/space-systems-operator"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/targeting-analyst",
+		"branch": "space-force",
+		"slug": "targeting-analyst",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Targeting Analyst",
+		"rank": "enlisted",
+		"category": "enlisted",
+		"subcategory": null,
+		"tagline": "Supervises and develops intelligence to analyze targets and assess threats.",
+		"overview": "Clear vision is crucial—on land or in space. Our Targeting Analysts manage, supervise and develop targeting intelligence to analyze targets and defend against potential threats. They also build, plan and evaluate targeting solutions to achieve commander objectives and meet precise strike recommendations and battle damage assessments.",
+		"duties": [
+			"Support, vet and validate target development and system analysis",
+			"Conduct target-list management and priorities",
+			"Support multi-domain mission planning",
+			"Utilize targeting intelligence to analyze potential targets",
+			"Conduct threat vulnerability assessments",
+			"Assess interdependencies, vulnerabilities and infrastructure dependencies",
+			"Develop products and database information",
+			"Perform Battle Damage Assessment (BDA) and Munitions Effectiveness Assessment (MEA)",
+			"Reattack recommendations"
+		],
+		"requirements": [
+			"Obtain a qualifying ASVAB score: general minimum score of 64"
+		],
+		"asvab": "Obtain a qualifying ASVAB score: general minimum score of 64",
+		"education": "High School Student or Graduate",
+		"training": [
+			"7.5 weeks of Basic Military Training",
+			"6.5 months months at Goodfellow AFB, TX, followed by Space Warfighter ISR Formal Training at Peterson SFB, CO.",
+			"After training: Enlisted Guardians will earn credits toward an Intelligence Studies and Technology associate’s degree through the Community College of the Air Force. | 7.5 | 6.5 | | ---------- | ---------- | | weeks of Basic Military Training | months months at Goodfellow AFB, TX, followed by Space Warfighter ISR Formal Training at Peterson SFB, CO. |"
+		],
+		"skills": [
+			"Technology",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/enlisted-careers/targeting-analyst"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/acquisition-manager",
+		"branch": "space-force",
+		"slug": "acquisition-manager",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Acquisition Manager",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Facilitates the logistics needed to ensure a successful launch.",
+		"overview": "The safety and success of our Guardians depend upon having what they need when they need it. And it’s up to Acquisition Managers to develop the structures and train their staff to make it all happen. From implementing engineering to securing final shipping, they oversee all aspects of the process to ensure the necessary equipment and supplies get where they need to be anywhere in the world.",
+		"duties": [
+			"Manage and administer defense acquisition programs",
+			"Plan and develop program management techniques and training programs",
+			"Coordinate with commanders and staff to develop proper acquisition plans and schedules",
+			"Ensure quality assurance and support for all systems and equipment"
+		],
+		"requirements": [
+			"Bachelor’s degree"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Leadership",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/acquisition-manager"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/aeronautical-engineer",
+		"branch": "space-force",
+		"slug": "aeronautical-engineer",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Aeronautical Engineer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from astronautical and computer systems to flight test and mechanical, Aeronautical Engineers provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"overview": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from astronautical and computer systems to flight test and mechanical, Aeronautical Engineers provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"duties": [
+			"Plan, organize and implement systems engineering processes",
+			"Conduct design studies and manage studies contracted to industries",
+			"Coordinate engineering and technical management activities",
+			"Continuously analyze technical policies and procedures, products, and services to improve customer support",
+			"Identify and incorporate new technologies and subsystems"
+		],
+		"requirements": [
+			"Bachelor’s degree in engineering related to one of the following specialties: aerospace, aeronautical, astronautical, computer, electrical, electronics, communication or mechanical",
+			"Completion of the Defense Acquisition University",
+			"Fundamentals of Systems Acquisition Management course or Acquisition Fundamentals course",
+			"Completion of the Air Force Flight Test Engineer course or comparable",
+			"Minimum of 24 months of experience in qualified position or a master’s degree in a specified discipline and 12 months’ experience or a Doctor of Philosophy degree in a specified discipline",
+			"Completion of Officer Training School (OTS), Air Force Academy (USAFA) or Air Force Reserve Officer Training Corps (AFROTC)",
+			"Must be between the ages of 18 and 42"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Leadership",
+			"Engineering"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/aeronautical-engineer"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/astronautical-engineer",
+		"branch": "space-force",
+		"slug": "astronautical-engineer",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Astronautical Engineer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from aeronautical and computer systems to flight test and mechanical, Astronautical Engineers provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"overview": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from aeronautical and computer systems to flight test and mechanical, Astronautical Engineers provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"duties": [
+			"Plan, organize and implement systems engineering processes",
+			"Conduct design studies and manage studies contracted to industries",
+			"Coordinate engineering and technical management activities",
+			"Continuously analyze technical policies and procedures, products, and services to improve customer support",
+			"Identify and incorporate new technologies and subsystems."
+		],
+		"requirements": [
+			"Bachelor’s degree in engineering related to one of the following specialties: aerospace, aeronautical, astronautical, computer, electrical, electronics, communication or mechanical",
+			"Completion of the Defense Acquisition University",
+			"Fundamentals of Systems Acquisition Management course or Acquisition Fundamentals course",
+			"Completion of the Air Force Flight Test Engineer course or comparable",
+			"Minimum of 24 months of experience in qualified position or a master’s degree in a specified discipline and 12 months’ experience or a Doctor of Philosophy degree in a specified discipline",
+			"Completion of Officer Training School (OTS), Air Force Academy (USAFA) or Air Force Reserve Officer Training Corps (AFROTC)",
+			"Must be between the ages of 18 and 42"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Leadership",
+			"Engineering"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/astronautical-engineer"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/computer-systems-engineer",
+		"branch": "space-force",
+		"slug": "computer-systems-engineer",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Computer Systems Engineer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from aeronautical and computer systems to flight test and mechanical, Computer Systems Engineers provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"overview": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from aeronautical and computer systems to flight test and mechanical, Computer Systems Engineers provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"duties": [
+			"Plan, organize and implement systems engineering processes",
+			"Conduct design studies and manage studies contracted to industries",
+			"Coordinate engineering and technical management activities",
+			"Continuously analyze technical policies and procedures, products, and services to improve customer support",
+			"Identify and incorporate new technologies and subsystems."
+		],
+		"requirements": [
+			"Bachelor’s degree in engineering related to one of the following specialties: aerospace, aeronautical, astronautical, computer, electrical, electronics, communication or mechanical",
+			"Completion of the Defense Acquisition University",
+			"Fundamentals of Systems Acquisition Management course or Acquisition Fundamentals course",
+			"Completion of the Air Force Flight Test Engineer course or comparable",
+			"Minimum of 24 months of experience in qualified position or a master’s degree in a specified discipline and 12 months’ experience or a Doctor of Philosophy degree in a specified discipline",
+			"Completion of Officer Training School (OTS), Air Force Academy (USAFA) or Air Force Reserve Officer Training Corps (AFROTC)",
+			"Must be between the ages of 18 and 42"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Technology",
+			"Leadership",
+			"Engineering"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/computer-systems-engineer"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/cyberspace-effects-operations-officer",
+		"branch": "space-force",
+		"slug": "cyberspace-effects-operations-officer",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Cyberspace Effects Operations Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Ensures the effectiveness of cyberspace operations, from planning missions to supervising satellite communications.",
+		"overview": "With the constant evolution of today’s technology, information and communications can be optimized like never before. Responsible for a wide range of weaponry, training and intelligence efficiencies, Cyberspace Effects Operations Officers are the foremost experts on the vast world of cyberspace. From computerized, satellite and airborne communications to postal operations and tracking systems, these irreplaceable assets play a critical role in planning missions and ensuring the effectiveness of our cyberspace capabilities.",
+		"duties": [
+			"Review mission tasking, intelligence, terrain and weather information",
+			"Operate weapons systems and command crew",
+			"Conduct or supervise training to ensure operational readiness of crewmembers",
+			"Advise commanders on associated risks and mitigation factors in conjunction with utilized technologies",
+			"Direct employment of cyberspace capabilities in both deliberate and crisis action scenarios"
+		],
+		"requirements": [
+			"Bachelor’s degree with a focus in computer and information sciences, engineering, mathematics, computer science, management information systems or other related disciplines"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Leadership",
+			"Technology",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/cyberspace-effects-operations-officer"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/electrical-electronic-engineer",
+		"branch": "space-force",
+		"slug": "electrical-electronic-engineer",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Electrical/Electronic Engineer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Become a pioneer in the protection of our planeta In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from astronautical and computer systems to flight test and mechanical, Project/General Engineer provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"overview": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from astronautical and computer systems to flight test and mechanical, Project/General Engineer provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"duties": [
+			"Plan, organize and implement systems engineering processes",
+			"Conduct design studies and manage studies contracted to industries",
+			"Coordinate engineering and technical management activities",
+			"Continuously analyze technical policies and procedures, products, and services to improve customer support",
+			"Identify and incorporate new technologies and subsystems."
+		],
+		"requirements": [
+			"Bachelor’s degree in engineering related to one of the following specialties: aerospace, aeronautical, astronautical, computer, electrical, electronics, communication or mechanical",
+			"Completion of the Defense Acquisition University",
+			"Fundamentals of Systems Acquisition Management course or Acquisition Fundamentals course",
+			"Completion of the Air Force Flight Test Engineer course or comparable",
+			"Minimum of 24 months of experience in qualified position or a master’s degree in a specified discipline and 12 months’ experience or a Doctor of Philosophy degree in a specified discipline",
+			"Completion of Officer Training School (OTS), Air Force Academy (USAFA) or Air Force Reserve Officer Training Corps (AFROTC)",
+			"Must be between the ages of 18 and 42"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Leadership",
+			"Engineering",
+			"Technology"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/electrical-electronic-engineer"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/human-factors-engineer-human-systems-integration",
+		"branch": "space-force",
+		"slug": "human-factors-engineer-human-systems-integration",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Human Factors Engineer/Human Systems Integration",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from astronautical and computer systems to flight test and mechanical, Human Factors Engineer/Human Systems Integration provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"overview": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from astronautical and computer systems to flight test and mechanical, Human Factors Engineer/Human Systems Integration provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"duties": [
+			"Plan, organize and implement systems engineering processes",
+			"Conduct design studies and manage studies contracted to industries",
+			"Coordinate engineering and technical management activities",
+			"Continuously analyze technical policies and procedures, products, and services to improve customer support",
+			"Identify and incorporate new technologies and subsystems"
+		],
+		"requirements": [
+			"Bachelor’s degree in engineering related to one of the following specialties: aerospace, aeronautical, astronautical, computer, electrical, electronics, communication or mechanical",
+			"Completion of the Defense Acquisition University",
+			"Fundamentals of Systems Acquisition Management course or Acquisition Fundamentals course",
+			"Completion of the Air Force Flight Test Engineer course or comparable",
+			"Minimum of 24 months of experience in qualified position or a master’s degree in a specified discipline and 12 months’ experience or a Doctor of Philosophy degree in a specified discipline",
+			"Completion of Officer Training School (OTS), Air Force Academy (USAFA) or Air Force Reserve Officer Training Corps (AFROTC)",
+			"Must be between the ages of 18 and 42"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Engineering",
+			"Leadership",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/human-factors-engineer-human-systems-integration"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/intelligence-officer",
+		"branch": "space-force",
+		"slug": "intelligence-officer",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Intelligence Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Protects our intelligence across the full spectrum of military operations.",
+		"overview": "One of our most valuable assets on any mission or action is information. Responsible for both protecting our information as well as collecting data from external threats, Intelligence Officers are essential to operational planning and ultimate success. From analyzing data to coordinating with other services or determining the capabilities and vulnerabilities of an adversary, these highly trained officers provide indispensable knowledge pivotal to Guardians successfully completing their missions.",
+		"duties": [
+			"Lead and perform intelligence activities across the full range of military operations",
+			"Oversee the analysis and merging of collected intelligence",
+			"Develop intelligence plans and policies",
+			"Produce accurate intelligence analysis",
+			"Exchange intelligence with other services, agencies and governments",
+			"Integrate intelligence with combat operations"
+		],
+		"requirements": [
+			"Bachelor’s degree in one of the following: science, humanities, social sciences, structured analysis, engineering or mathematics",
+			"Some level of foreign language study is highly desirable"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Intelligence",
+			"Leadership",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/intelligence-officer"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/mechanical-engineer",
+		"branch": "space-force",
+		"slug": "mechanical-engineer",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Mechanical Engineer Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from astronautical and computer systems to flight test and mechanical, Mechanical Engineers provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"overview": "In order for us to complete our missions, our technology simply cannot fail. Covering a wide range of specialties ranging from astronautical and computer systems to flight test and mechanical, Mechanical Engineers provide advanced skills and knowledge of their particular specialties. Responsible for everything from the planning to implementation of their projects, these experts are essential to the success of operations all over the world.",
+		"duties": [
+			"Plan, organize and implement systems engineering processes",
+			"Conduct design studies and manage studies contracted to industries",
+			"Coordinate engineering and technical management activities",
+			"Continuously analyze technical policies and procedures, products, and services to improve customer support",
+			"Identify and incorporate new technologies and subsystems"
+		],
+		"requirements": [
+			"Bachelor’s degree in engineering related to one of the following specialties: aerospace, aeronautical, astronautical, computer, electrical, electronics, communication or mechanical",
+			"Completion of the Defense Acquisition University",
+			"Fundamentals of Systems Acquisition Management course or Acquisition Fundamentals course",
+			"Completion of the Air Force Flight Test Engineer course or comparable",
+			"Minimum of 24 months of experience in qualified position or a master’s degree in a specified discipline and 12 months’ experience or a Doctor of Philosophy degree in a specified discipline",
+			"Completion of Officer Training School (OTS), Air Force Academy (USAFA) or Air Force Reserve Officer Training Corps (AFROTC)",
+			"Must be between the ages of 18 and 42"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"8.5 weeks of Officer Training"
+		],
+		"skills": [
+			"Leadership",
+			"Engineering"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/mechanical-engineer"
+		},
+		"ai": null
+	},
+	{
+		"id": "space-force/space-operations-officer",
+		"branch": "space-force",
+		"slug": "space-operations-officer",
+		"code": null,
+		"codeLabel": "SFSC",
+		"title": "Space Operations Officer",
+		"rank": "officer",
+		"category": "officer",
+		"subcategory": null,
+		"tagline": "Plans, organizes and directs space operations.",
+		"overview": "The possibilities of enhancing our military effectiveness through the use of space are virtually endless. Space Operations Officers direct the entire system utilizing satellites that enhance our communication and tracking. They oversee space surveillance, spacelift, space warning and satellite command and control. By assessing the effectiveness of all space operations and incorporating new technology as it becomes available, they develop future plans for systems, facilities and personnel in order to defend our nation.",
+		"duties": [
+			"Formulate space operations policies",
+			"Establish training requirements and performance standards for all systems",
+			"Coordinate space operations activities",
+			"Plan, organize and direct space operations programs",
+			"Provide guidance on proper use and care of sensitive materials"
+		],
+		"requirements": [
+			"Any Bachelor or Master of Science degree"
+		],
+		"asvab": null,
+		"education": "College Student or Graduate",
+		"training": [
+			"115 days of Officer Training",
+			"After training: | 115 | | ---------- | | days of Officer Training |"
+		],
+		"skills": [
+			"Leadership",
+			"Technology",
+			"Logistics"
+		],
+		"civilianJobs": [],
+		"components": [
+			"Active Duty"
+		],
+		"bonus": null,
+		"stats": [],
+		"extra": {},
+		"source": {
+			"name": "spaceforce.com",
+			"url": "https://www.spaceforce.com/officer-careers/space-operations-officer"
+		},
+		"ai": null
+	}
+]
