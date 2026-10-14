@@ -44,7 +44,7 @@
 			<a href="/{b.slug}/{c.slug}" class="panel corner hover-row p-4 flex flex-col">
 				<div class="flex items-baseline justify-between gap-2">
 					<h2 class="font-medium leading-snug branch-accent">{c.name}</h2>
-					<span class="label whitespace-nowrap">{c.jobCount} jobs</span>
+					<span class="label whitespace-nowrap">{c.jobCount} {c.jobCount === 1 ? 'job' : 'jobs'}</span>
 				</div>
 				<p class="text-xs mt-2 leading-relaxed flex-1 line-clamp-6" style="color: var(--fg-dim)">
 					{c.ai?.description ?? c.description ?? ''}

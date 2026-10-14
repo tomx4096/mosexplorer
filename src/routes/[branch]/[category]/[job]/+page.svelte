@@ -57,7 +57,7 @@
 			<dl class="shrink-0 text-[11px] grid grid-cols-2 sm:grid-cols-1 gap-x-6 gap-y-2 sm:text-right">
 				<div><dt class="label">{j.codeLabel ?? 'Code'}</dt><dd class="branch-accent font-medium">{j.code ?? 'not published'}</dd></div>
 				<div><dt class="label">Track</dt><dd>{RANK_LABEL[j.rank]}</dd></div>
-				<div><dt class="label">Field</dt><dd>{c.jobCount} jobs</dd></div>
+				<div><dt class="label">Field</dt><dd>{c.jobCount} {c.jobCount === 1 ? 'job' : 'jobs'}</dd></div>
 				<div><dt class="label">Record</dt><dd>{fmtDate(b.fetchedAt)}</dd></div>
 			</dl>
 		</div>

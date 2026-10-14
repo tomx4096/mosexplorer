@@ -124,7 +124,10 @@
 		"jobCount": 5,
 		"enlisted": 2,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "This is the Marine Corps' paperwork and people-tracking field: pay, promotions, orders, service records, leave, awards, and the mail. It exists because a rifle company that isn't paid, isn't promoted on time, or never gets its orders stops being much use, and somebody has to be accountable for every name on the roster.",
+			"funFact": "Marine Corps postal clerks are trained to U.S. Postal Service standards and run military post offices aboard ships and at deployed bases, so mail can reach Marines in places with no civilian postal service at all."
+		}
 	},
 	{
 		"branch": "marines",
@@ -142,7 +145,10 @@
 		"jobCount": 7,
 		"enlisted": 4,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "Marines in the 02 field collect, sort and interpret information — imagery, maps, intercepted signals, interrogations, conversations with locals — and turn it into something a commander can actually act on. The common thread is less action than patience: reading, cross-checking, briefing, and being willing to say what you don't know as clearly as what you do.",
+			"funFact": "Marine Corps intelligence doctrine stresses that intelligence exists to support the commander's decisions rather than to stand alone, which is why intelligence Marines are embedded in units down to the battalion level rather than kept in a separate agency."
+		}
 	},
 	{
 		"branch": "marines",
@@ -172,7 +178,10 @@
 		"jobCount": 14,
 		"enlisted": 11,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "Infantry is the Marine Corps' ground-combat core: the Marines who close with the enemy on foot, hold terrain, and do the unglamorous work of patrolling, digging in, and carrying heavy things a long way. The field spans riflemen, machine gunners, mortarmen and antitank gunners, the scouts in LAVs and reconnaissance teams who find the enemy first, the Raiders in special operations, and the officers and unit leaders who plan and run all of it.",
+			"funFact": "The Corps' long-standing line that \"every Marine is a rifleman\" is literal policy: regardless of eventual job, every enlisted Marine goes through recruit training with a rifle and then Marine Combat Training before touching their specialty."
+		}
 	},
 	{
 		"branch": "marines",
@@ -196,7 +205,10 @@
 		"jobCount": 10,
 		"enlisted": 7,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "Logistics Marines work out how people, gear, ammunition, fuel and vehicles get from where they are to where they're needed, and keep track of it all once it arrives. The field covers planning and embarkation aboard ships and aircraft, maintenance records, parachute rigging and aerial delivery, beach landing support, and — less comfortably but just as necessarily — the recovery and dignified handling of the dead.",
+			"funFact": "Parachute riggers follow a long-standing tradition across the US services of being willing to jump with a chute they packed themselves, which is one way of enforcing attention to detail."
+		}
 	},
 	{
 		"branch": "marines",
@@ -214,7 +226,10 @@
 		"jobCount": 1,
 		"enlisted": 1,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "MAGTF Plans is the small field that handles the staff work behind an operation: taking a commander's intent and turning it into a workable plan, with the units, timelines, logistics and contingencies all accounted for. Planning specialists support the staff sections that run the Marine Corps Planning Process, drafting orders and briefs and keeping track of what has actually been decided versus what is still an assumption.",
+			"funFact": "The 0511 MAGTF Planning Specialist is not an entry-level job assigned out of boot camp \ninstead it is filled by experienced Marines who already hold another MOS and move into planning billets, since the work depends on knowing how the pieces of a Marine Air Ground Task Force actually fit together."
+		}
 	},
 	{
 		"branch": "marines",
@@ -232,7 +247,10 @@
 		"jobCount": 16,
 		"enlisted": 10,
 		"officer": 6,
-		"ai": null
+		"ai": {
+			"description": "The 06 field keeps Marines talking to each other — radios, satellite links, tactical networks, servers and the slice of the electromagnetic spectrum all of it runs on. The work ranges from humping a radio and raising an antenna in the field to administering networks, securing them, and planning which frequencies a unit may use without stepping on anyone else's signal.",
+			"funFact": "Marine communications' best-known chapter is the Navajo Code Talkers of World War II, who passed messages in a code based on the Navajo language — it was never broken by Japanese cryptanalysts."
+		}
 	},
 	{
 		"branch": "marines",
@@ -256,7 +274,10 @@
 		"jobCount": 10,
 		"enlisted": 8,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "Field artillery is the Marine Corps' long-range firepower: howitzers and rocket systems that deliver shells and missiles onto targets Marines on the ground often cannot see. The field covers everyone in that chain \ninverted — the cannoneers who load and fire the gun, the fire direction crews who turn a request into firing data, the radar and sensor operators who locate enemy guns, and the forward observers and fire support coordinators who call it in and keep it off friendly heads.",
+			"funFact": "The Corps' towed M777 howitzer is built largely of titanium, which makes it light enough to be carried underslung by a helicopter or MV-22 \n— a significant consideration for a force that expects to arrive by air and sea."
+		}
 	},
 	{
 		"branch": "marines",
@@ -267,7 +288,10 @@
 		"jobCount": 1,
 		"enlisted": 0,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "This is the small field responsible for running the places where Marines shoot: rifle and pistol ranges, the qualification courses, and the safety rules that keep live-fire training from going wrong. A Range Officer manages the firing line, the scoring and coaching staff, the schedule of units cycling through, and the surface danger zones that dictate where rounds are allowed to land.",
+			"funFact": "Marine Corps marksmanship training is built around the idea that every Marine qualifies annually with a rifle regardless of job, which is why range staff spend much of the year processing units that have nothing to do with the infantry."
+		}
 	},
 	{
 		"branch": "marines",
@@ -291,7 +315,10 @@
 		"jobCount": 5,
 		"enlisted": 4,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Utilities Marines supply the unglamorous things a base or a camp cannot run without: electrical power, drinking water, refrigeration, heating and air conditioning. They wire generators and buildings, purify water from whatever source is available, and keep environmental control units alive so that radios, field hospitals and food stores stay within the temperatures they need.",
+			"funFact": "Marine water support technicians operate reverse-osmosis purification equipment that can turn seawater or contaminated fresh water into potable water in the field — a capability the Corps has relied on in desert deployments where no local supply existed."
+		}
 	},
 	{
 		"branch": "marines",
@@ -327,7 +354,10 @@
 		"jobCount": 11,
 		"enlisted": 8,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who build things, break things, and keep the machinery running — runways and bunkers, bulldozers and generators, fuel farms, welded brackets, maps and terrain data. The work ranges from blowing a breach through a wire obstacle under fire to keeping a fuel bladder farm supplying an expeditionary airfield, and it is mostly about making ground usable for everyone else.",
+			"funFact": "Combat engineers are trained both to construct and to demolish — obstacle emplacement and breaching, demolitions, and bridging — and most of the field's schooling runs through the Marine Corps Engineer School at Courthouse Bay, Camp Lejeune."
+		}
 	},
 	{
 		"branch": "marines",
@@ -338,7 +368,10 @@
 		"jobCount": 11,
 		"enlisted": 5,
 		"officer": 6,
-		"ai": null
+		"ai": {
+			"description": "Occupational Field 17 covers the Marine Corps' work in the information environment: offensive and defensive cyberspace operations, space support, civil affairs, and influence \"psychological operations\" by another name. The common thread is affecting what an adversary knows, believes, or can do with their networks and systems, rather than closing with them physically.",
+			"funFact": "The field is new by Marine standards \"cyberspace MOSs were stood up in the late 2010s, and the broader Information Maneuver designation later folded in civil affairs and influence specialties under one occupational field.\""
+		}
 	},
 	{
 		"branch": "marines",
@@ -356,7 +389,10 @@
 		"jobCount": 6,
 		"enlisted": 4,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who fight from inside armoured vehicles — crewing, maintaining and commanding tracked and wheeled machines that carry infantry from ship to shore and then inland under fire. The work is part mechanic, part gunner, part driver: long hours of maintenance punctuated by moving people and firepower across water and terrain that would stop a truck.",
+			"funFact": "The Marine Corps divested its tank battalions beginning in 2020 as part of Force Design, and the Amphibious Combat Vehicle — an eight-wheeled design — has been replacing the tracked AAV that had served in various forms since the 1970s."
+		}
 	},
 	{
 		"branch": "marines",
@@ -380,7 +416,10 @@
 		"jobCount": 12,
 		"enlisted": 9,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "Ground Ordnance Maintenance Marines keep the Corps' weapons and armoured vehicles working — rifles and machine guns, artillery pieces, amphibious and light armoured vehicles, and the optics and night sights bolted to them. It is inspection, diagnosis, repair and rebuild work, often in field conditions, on the theory that a weapon that doesn't fire is just an awkward lump of metal.",
+			"funFact": "The field includes machinists (MOS 2161) who cut replacement parts on lathes and mills — useful when the supply chain is long and the part you need is not in it."
+		}
 	},
 	{
 		"branch": "marines",
@@ -398,7 +437,10 @@
 		"jobCount": 4,
 		"enlisted": 2,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "This field covers everything to do with the military's explosives after they leave the factory: storing, accounting for, inspecting and issuing ammunition, and — at the other end — finding, identifying and disposing of ordnance that has been fired, dropped, buried or built by someone else. Ammunition technicians and officers keep the supply chain safe and auditable; EOD technicians and officers handle the items nobody else is allowed to touch, from unexploded shells on a range to improvised devices downrange.",
+			"funFact": "Marine EOD technicians train alongside their Army, Navy and Air Force counterparts at the joint Naval School Explosive Ordnance Disposal at Eglin Air Force Base in Florida, one of the few schools where all four services learn the same trade in the same classrooms."
+		}
 	},
 	{
 		"branch": "marines",
@@ -409,7 +451,10 @@
 		"jobCount": 8,
 		"enlisted": 7,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who listen to the electromagnetic spectrum rather than talk on it: intercepting and analyzing enemy radio, radar and other emissions, locating where they came from, and jamming or otherwise interfering with them when ordered. The field runs from operators and linguists at the collection position through analysts, systems engineers and the staff chiefs and officers who decide what gets collected, and the point of it all is to tell a commander what the other side is doing before the shooting starts.",
+			"funFact": "Much of this work is done by Marine Radio Battalions, whose lineage goes back to the radio intelligence platoons of the Second World War, and many Marines in the field spend tours at National Security Agency cryptologic centers alongside their Army, Navy and Air Force counterparts."
+		}
 	},
 	{
 		"branch": "marines",
@@ -420,7 +465,10 @@
 		"jobCount": 10,
 		"enlisted": 8,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who keep the Corps' ground electronics working: radios and transmitters, wideband data links, artillery fire-control gear, and the test equipment used to check all of it. The work is mostly diagnostic — tracing faults to a board or a component, repairing or swapping it, and verifying that the kit actually performs to specification before it goes back into the field.",
+			"funFact": "The calibration and metrology side of the field (2871 and 2874) maintains measurement standards traceable to the National Institute of Standards and Technology, so a torque wrench or signal generator checked in a Marine Corps lab is measured against the same references as civilian industry."
+		}
 	},
 	{
 		"branch": "marines",
@@ -438,7 +486,10 @@
 		"jobCount": 6,
 		"enlisted": 4,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who keep track of everything the Corps owns and make sure it reaches the people who need it \ninclusive of rations, rifle parts, tyres and tent pegs. The work runs from counting and auditing stock in a warehouse to writing contracts for goods and services in an overseas theatre, and from entry-level inventory clerks to officers running supply for an entire unit.",
+			"funFact": "Marine supply is built around the idea that the Corps deploys as a self-contained air-ground task force, so supply Marines are expected to go forward with the unit rather than stay behind at a depot."
+		}
 	},
 	{
 		"branch": "marines",
@@ -456,7 +507,10 @@
 		"jobCount": 2,
 		"enlisted": 1,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Distribution Management is the Marine Corps' business of moving things and people from where they are to where they're needed — by truck, ship, aircraft or rail — and keeping track of them the whole way. Marines in this field book the lift, build and document the loads, handle hazardous cargo paperwork, and run the distribution centers that keep supplies flowing to units in garrison and deployed.",
+			"funFact": "The field grew out of what the Corps long called traffic management, and its specialists still work closely with the embarkation community and with joint agencies like U.S. Transportation Command, since almost nothing the Marine Corps deploys moves without someone's documentation attached to it."
+		}
 	},
 	{
 		"branch": "marines",
@@ -467,7 +521,10 @@
 		"jobCount": 2,
 		"enlisted": 1,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Food Service Marines feed everyone else — planning menus, ordering and accounting for rations, running garrison mess halls and setting up field kitchens that work out of tents and trailers when there's no building to cook in. The officers handle the budgets, contracts, inspections and sanitation standards; the enlisted specialists do the cooking, baking and serving, often starting hours before the rest of the unit is awake.",
+			"funFact": "The Marine Corps hands out the Major General W.P.T. Hill Memorial Award each year for the best mess halls and field messes in the Corps, and Marine teams regularly compete at the inter-service Military Culinary Arts Competition."
+		}
 	},
 	{
 		"branch": "marines",
@@ -485,7 +542,10 @@
 		"jobCount": 5,
 		"enlisted": 2,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "Financial Management Marines handle the money side of the Corps: paying Marines correctly and on time, tracking appropriated funds, building and defending budgets, and keeping the books in a state that will survive an audit. The work ranges from fixing a sergeant's pay problem at the unit level to advising a commander on what a planned operation will actually cost and whether the funding exists to do it.",
+			"funFact": "Because federal money can usually only be spent on what Congress said it was for, a large part of the job is less about counting dollars than about knowing which pot of money may legally be touched for a given purpose."
+		}
 	},
 	{
 		"branch": "marines",
@@ -509,7 +569,10 @@
 		"jobCount": 5,
 		"enlisted": 4,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Motor Transport is the Marine Corps' trucking and vehicle-maintenance field: driving, dispatching, and fixing the trucks and tactical vehicles that move Marines, ammunition, water, fuel, and everything else an operation runs on. The jobs range from operators behind the wheel of a 7-ton to mechanics in the shop and chiefs managing convoys, licences, and maintenance schedules.",
+			"funFact": "Marines universally shorten the field to \"Motor T,\" and its workhorse is the MTVR 7-ton truck, whose independent suspension lets it go well off the hard road rather than sticking to supply routes."
+		}
 	},
 	{
 		"branch": "marines",
@@ -520,7 +583,10 @@
 		"jobCount": 2,
 		"enlisted": 1,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Marine Corps Community Services runs the non-combat side of base life: fitness centres and pools, family programmes, single Marine recreation, retail and food operations, clubs, and the welfare and morale funds that pay for them. Marines in this field handle budgets, contracts, staffing and events, on the theory that a unit's readiness depends partly on whether the people in it have somewhere to live, eat and unwind.",
+			"funFact": "MCCS was formed in the 1990s by merging the Corps' separate exchange, morale-welfare-recreation and family service organisations into one command, and much of its funding comes from the profits of its own retail and food operations rather than from appropriated tax dollars."
+		}
 	},
 	{
 		"branch": "marines",
@@ -538,7 +604,10 @@
 		"jobCount": 3,
 		"enlisted": 1,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "The 44 field is the Marine Corps' in-house law practice: judge advocates who prosecute and defend courts-martial and advise commanders, legal services specialists who run the paperwork and records that keep a case legally sound, and legal administrative officers who manage the offices themselves. The work covers military justice, administrative separations, claims, and legal assistance for Marines and their families — real law, practiced on a military calendar, often for clients who are 19 and in trouble.",
+			"funFact": "Marine judge advocates are Marine officers first — they complete The Basic School alongside every other newly commissioned lieutenant before they ever set foot in a courtroom."
+		}
 	},
 	{
 		"branch": "marines",
@@ -556,7 +625,10 @@
 		"jobCount": 6,
 		"enlisted": 4,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who document and explain what the Corps is doing \"\" with cameras, microphones, graphics software and press releases \"\" for audiences ranging from the American public to a commander trying to see his own battlefield. The work mixes journalism and photography skills with military communication planning: shooting and editing imagery in the field, producing graphics and video, and advising officers on what to say publicly and how.",
+			"funFact": "The 45xx field is fairly new as a single entity: in 2019 the Marine Corps merged its separate public affairs and combat camera communities into one Communication Strategy and Operations field, usually shortened to COMMSTRAT."
+		}
 	},
 	{
 		"branch": "marines",
@@ -567,7 +639,10 @@
 		"jobCount": 2,
 		"enlisted": 1,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines whose job is to keep the Corps staffed — on one end persuading civilians to enlist, on the other end persuading good Marines already in uniform to stay. It is largely administrative and interpersonal work: screening applicants, explaining contracts and bonuses, tracking reenlistment eligibility, and sitting down with Marines who are deciding whether to sign again.",
+			"funFact": "Most Marines on recruiting duty are pulled from other specialties for a fixed tour, but the 48 field is for those who make it a career — career recruiters and career counselors are selected into it and keep doing it rather than returning to their original MOS."
+		}
 	},
 	{
 		"branch": "marines",
@@ -578,7 +653,10 @@
 		"jobCount": 11,
 		"enlisted": 7,
 		"officer": 4,
-		"ai": null
+		"ai": {
+			"description": "Marines in the 55 field are professional musicians in uniform: they audition in on instrument, then spend their careers playing ceremonies, parades, troop morale concerts and official functions, from a battalion change of command to a state visit. The field also covers the people who keep the music running \ninstrument repair technicians, production managers, ensemble leaders and the officers who direct bands \n because a band that cannot move its gear or fix a cracked valve stops being useful quickly.",
+			"funFact": "\"The President's Own\" United States Marine Band was established by act of Congress in 1798 and has played for every president since John Adams; John Philip Sousa was its director from 1880 to 1892, and its members are recruited specifically for the band rather than going through standard recruit training."
+		}
 	},
 	{
 		"branch": "marines",
@@ -596,7 +674,10 @@
 		"jobCount": 3,
 		"enlisted": 2,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "CBRN Marines deal with the hazards nobody wants to meet: chemical agents, biological material, radiological contamination and the aftermath of nuclear events. The work is mostly detection, identification, decontamination and training everyone else to survive in protective gear — unglamorous, procedural, and entirely dependent on getting the details right.",
+			"funFact": "Marine CBRN specialists train alongside soldiers at the U.S. Army Chemical, Biological, Radiological and Nuclear School at Fort Leonard Wood, Missouri, and they are the Marines who run the gas chamber that every recruit goes through in boot camp."
+		}
 	},
 	{
 		"branch": "marines",
@@ -614,7 +695,10 @@
 		"jobCount": 6,
 		"enlisted": 3,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "This field covers the Marine Corps' own police force: patrolling bases, directing traffic, responding to calls, controlling access at the gate, investigating crimes, and running the brigs where Marines serve confinement. The work is law enforcement inside a military community, with the added wrinkle that the people you are policing are also Marines, and that military police deploy to handle detainees, convoy security, and host-nation police training.",
+			"funFact": "Marine Corps Criminal Investigation Division agents routinely work alongside the Naval Criminal Investigative Service, the civilian agency that handles felony investigations for both the Navy and the Marine Corps."
+		}
 	},
 	{
 		"branch": "marines",
@@ -632,7 +716,10 @@
 		"jobCount": 16,
 		"enlisted": 11,
 		"officer": 5,
-		"ai": null
+		"ai": {
+			"description": "These Marines keep the gear that watches and directs the sky working: radars, air traffic control equipment, tactical data systems, ground control stations for unmanned aircraft, navigational aids, radios and weather sensors. The aircraft get the attention, but none of it flies safely or on purpose without the ground-side electronics these technicians install, troubleshoot and repair, often from expeditionary sites rather than fixed airfields.",
+			"funFact": "Marine Corps aviation command and control is built to be packed up and moved — the radars and control facilities these technicians maintain are designed to deploy with an expeditionary force and run from austere sites, not just from established air bases."
+		}
 	},
 	{
 		"branch": "marines",
@@ -668,7 +755,10 @@
 		"jobCount": 10,
 		"enlisted": 8,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "Aircraft Maintenance Marines keep the squadron's aircraft airworthy and the gear that supports them working — airframes and hydraulics, flight equipment, support equipment, liquid oxygen and nitrogen, and the maintenance records that prove a jet is safe to fly. The field spans officers who run maintenance departments, chiefs who run the shop floor, and technicians who do the repairs, with much of the work done at the intermediate level, meaning components pulled from aircraft are fixed in a shop rather than thrown away.",
+			"funFact": "Marine Corps aviation traces back to 1912, when First Lieutenant Alfred Cunningham reported for flight training — and from the beginning the Corps has insisted that its aviation exists to support Marines on the ground, which is why maintenance units are built to deploy forward with the squadrons rather than stay behind at a fixed base."
+		}
 	},
 	{
 		"branch": "marines",
@@ -692,7 +782,10 @@
 		"jobCount": 13,
 		"enlisted": 13,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These Marines keep rotary-wing and tiltrotor aircraft flying: CH-53 heavy-lift helicopters, the UH-1 and AH-1 Huey/Cobra pair, and the MV-22 Osprey. The work splits roughly into specialists who own a system — engines, airframes, rotor heads and gearboxes — and crew chiefs, who maintain a specific aircraft and then fly on it, handling the cabin, the cargo, the guns and the eyes outside the cockpit.",
+			"funFact": "The Marine Corps was the first service to field the tiltrotor operationally, with the MV-22 Osprey replacing the CH-46 Sea Knight — the old helicopter its crews had nicknamed the \"Phrog.\""
+		}
 	},
 	{
 		"branch": "marines",
@@ -722,7 +815,10 @@
 		"jobCount": 17,
 		"enlisted": 17,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who keep fixed-wing aircraft flying: Harriers, Hornets, F-35s, KC-130 tankers and the MQ-9 drone. The work splits into specialties — engines (power plants), structures and hydraulics (airframes), ejection seats and survival gear (safety equipment), plus loadmasters who manage cargo and refuelling on the KC-130 — and almost all of it is inspection, troubleshooting and repair on a flight line, often outdoors and often at odd hours.",
+			"funFact": "The Marine Corps was the only US service to fly the AV-8B Harrier II, the jump jet that takes off from short decks and lands vertically; it is being retired as F-35B squadrons take over, so the 6212 and 6252 ranks are shrinking while the F-35 ones grow."
+		}
 	},
 	{
 		"branch": "marines",
@@ -740,7 +836,10 @@
 		"jobCount": 15,
 		"enlisted": 14,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Organizational avionics Marines look after the electronic side of aircraft: the radios, navigation sets, radar, electrical systems and countermeasures gear that make a helicopter or jet more than an airframe with engines. They work at the squadron level, which means troubleshooting faults between flights, swapping out boxes, running test equipment and signing the paperwork that says the aircraft is safe to fly, usually on one specific type such as the F/A-18, V-22, CH-53 or KC-130.",
+			"funFact": "The field's MOSs are tied to particular aircraft, so retiring a type retires jobs with it — the EA-6B Prowler specialties, including the electronic countermeasures technician, belong to an aircraft the Marine Corps flew until 2019."
+		}
 	},
 	{
 		"branch": "marines",
@@ -758,7 +857,10 @@
 		"jobCount": 6,
 		"enlisted": 6,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These Marines work at the Intermediate Maintenance Activity — the shop behind the flight line that repairs the boxes and components squadrons pull out of aircraft, rather than working on the aircraft itself. The jobs range from soldering microscopic circuit-board repairs and testing navigation, radio and countermeasures gear on automated test benches, to calibrating the measuring instruments everyone else relies on and maintaining the mobile shelters the whole operation deploys inside.",
+			"funFact": "Much of this work happens inside mobile facilities — climate-controlled shipping-container-style shelters that let a full electronics repair shop be flown or trucked to an expeditionary airfield and set up far from any permanent base."
+		}
 	},
 	{
 		"branch": "marines",
@@ -776,7 +878,10 @@
 		"jobCount": 4,
 		"enlisted": 3,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Aviation ordnance Marines are the people who put weapons on aircraft and make sure they work: assembling, testing, loading and unloading bombs, missiles, rockets, gun ammunition and the release and firing systems that carry them. The field runs from technicians working on the flight line and in magazines, through the chiefs who supervise them, to officers managing ordnance handling, safety and supply for a squadron or wing.",
+			"funFact": "On carrier and amphibious flight decks, ordnance crews wear red jerseys — the colour-coded shirt system tells everyone at a glance who does what in an environment far too loud for conversation."
+		}
 	},
 	{
 		"branch": "marines",
@@ -800,7 +905,10 @@
 		"jobCount": 4,
 		"enlisted": 2,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "Aviation logistics Marines are the people who make sure a squadron has the right part, in the right place, before the aircraft is grounded waiting for it. The work is supply accounting, inventory, requisitioning and the computer systems that track it all — unglamorous, heavily audited, and the difference between an aircraft that flies and one that sits.",
+			"funFact": "Marine aviation supply has long run on the Navy's aviation supply systems rather than the ground side's, so these Marines work in a world of Navy stock numbers, allowance lists and inventory accounting that looks quite different from a ground supply warehouse."
+		}
 	},
 	{
 		"branch": "marines",
@@ -818,7 +926,10 @@
 		"jobCount": 2,
 		"enlisted": 1,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "METOC Marines forecast the weather, sea state, surf, and visibility conditions that decide whether an aircraft flies, a landing craft hits the beach, or an artillery round lands where it was meant to. The officers (6802) run the section and brief commanders; the analyst forecasters (6842) collect and interpret the raw observations and build the actual forecasts, often from a field site with limited data.",
+			"funFact": "Surf forecasting became a Marine and Navy preoccupation after amphibious landings in the Second World War, where breaker height and beach gradient could matter as much as enemy fire — which is why METOC still covers oceanography, not just weather."
+		}
 	},
 	{
 		"branch": "marines",
@@ -848,7 +959,10 @@
 		"jobCount": 4,
 		"enlisted": 3,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Airfield Services Marines build, run and protect the places aircraft operate from — which, in the Marine Corps, often means a strip of matting laid over dirt rather than a permanent runway. The field covers laying and maintaining expeditionary airfield surfaces, lighting and arresting gear, scheduling and tracking flights from operations, and standing by in crash trucks to pull aircrew out when something goes wrong.",
+			"funFact": "Marine expeditionary airfields are assembled from AM-2 matting — interlocking aluminium planks that can be laid over prepared ground to make a usable runway, a system the Corps has used since the Vietnam era."
+		}
 	},
 	{
 		"branch": "marines",
@@ -878,7 +992,10 @@
 		"jobCount": 13,
 		"enlisted": 6,
 		"officer": 7,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who direct aircraft rather than fly them: tracking what is in the air, deciding where it goes, and keeping friendly aircraft, ground units and air defences from working at cross purposes. The work runs from air traffic control at an airfield or expeditionary strip, to radar surveillance and intercept control, to shoulder-fired Stinger teams defending bases and manoeuvre units from low-flying threats.",
+			"funFact": "Marine air traffic controllers are trained to set up and run control facilities at austere expeditionary airfields, not just fixed towers, which is why their equipment is designed to be hauled in and operating quickly."
+		}
 	},
 	{
 		"branch": "marines",
@@ -902,7 +1019,10 @@
 		"jobCount": 6,
 		"enlisted": 3,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "These are the Marines who work the back end of an aircraft rather than the stick \ninding targets, running sensors, managing mission systems, and flying remotely piloted aircraft from a ground control station. The field spans everything from a lance corporal launching a small quadcopter over the next ridgeline to officers and operators running an MQ-9 on a long surveillance orbit, and the point of all of it is to see, hear and understand things before anyone has to walk into them.",
+			"funFact": "The Marine Corps retired its RQ-7B Shadow and rebuilt its unmanned squadrons (VMUs) around the much larger MQ-9A Reaper, a shift that turned a tactical, battalion-support asset into something with range enough to matter at the theatre level."
+		}
 	},
 	{
 		"branch": "marines",
@@ -913,7 +1033,10 @@
 		"jobCount": 26,
 		"enlisted": 0,
 		"officer": 26,
-		"ai": null
+		"ai": {
+			"description": "These are the Marine Corps' officer flying jobs: pilots and Naval Flight Officers who fly fighters, attack jets, tilt-rotors, transports, tankers and helicopters, plus the student and training-squadron stages they pass through on the way. The point of nearly all of it is supporting Marines on the ground \ninsert\n\nclose air support, moving troops and cargo, refuelling, scouting and electronic warfare \ninsert\n\nrather than air power as an end in itself.",
+			"funFact": "Every Marine pilot is an officer who first completes The Basic School as a provisional rifle platoon commander, so they learn the infantry's job before they ever learn to support it from the air."
+		}
 	},
 	{
 		"branch": "navy",
@@ -923,7 +1046,10 @@
 		"jobCount": 3,
 		"enlisted": 2,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "These are the Navy's storytellers and performers: people who photograph, film, write about and explain what the fleet is doing, and people who play at ceremonies, funerals and diplomatic events. The work is aimed outward at the public, the press and foreign hosts, and inward at Sailors and their families, who otherwise might never see what the rest of the Navy does.",
+			"funFact": "The Mass Communication Specialist rating is relatively new, created in 2006 by merging several older ratings including Journalist, Photographer's Mate, Illustrator Draftsman and Lithographer into one."
+		}
 	},
 	{
 		"branch": "navy",
@@ -933,7 +1059,10 @@
 		"jobCount": 18,
 		"enlisted": 11,
 		"officer": 7,
-		"ai": null
+		"ai": {
+			"description": "Navy aviation covers everyone who gets aircraft into the air and back down again safely — pilots and flight officers, aircrewmen who run sensors and hoists in the back, and the far larger group on deck who fuel, arm, handle, launch and recover the aircraft. Most of this happens from ships, which means doing maintenance and air traffic control on a moving runway a few hundred feet long, usually in a hurry.",
+			"funFact": "Flight deck crews wear coloured jerseys to show their job at a glance — purple for fuel (hence \"grapes\"), yellow for aircraft directors, red for ordnance and crash crew, green for catapults and arresting gear — because the deck is far too loud for talking."
+		}
 	},
 	{
 		"branch": "navy",
@@ -943,7 +1072,10 @@
 		"jobCount": 8,
 		"enlisted": 6,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "These are the jobs that keep the paperwork, parts, food and pay moving — ordering aircraft components, tracking maintenance records, running the ship's galley and store, and sorting out orders, leave and personnel files. It is unglamorous work with real consequences: an aircraft that is missing a logged inspection doesn't fly, and a crew that isn't fed or paid doesn't function.",
+			"funFact": "The Navy Supply Corps traces its origins to 1795, making it one of the oldest staff corps in the service, and Navy Culinary Specialists have long been the ones who run the mess at Camp David."
+		}
 	},
 	{
 		"branch": "navy",
@@ -953,7 +1085,10 @@
 		"jobCount": 8,
 		"enlisted": 7,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "These are the Navy's builders — carpenters, electricians, heavy equipment operators, welders, plumbers, surveyors and the mechanics who keep the machinery running. They put up airfields, roads, camps, piers and utilities, often in places where there is nothing yet, and often in conditions where the work has to be defended as well as done.",
+			"funFact": "Most of these ratings belong to the Seabees, whose name comes from the initials of \"Construction Battalion\" (CB); the force was established in 1942 and adopted the motto \"Can Do.\""
+		}
 	},
 	{
 		"branch": "navy",
@@ -963,7 +1098,10 @@
 		"jobCount": 8,
 		"enlisted": 8,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These are the Sailors who keep the ship's nervous system working: radars, radios, fire control computers, navigation gear, shipboard networks and the systems that aim and launch weapons. The work is mostly diagnosis and repair \ntracing faults through circuit diagrams, swapping modules, calibrating equipment and keeping classified systems running at sea, where no one is coming to help.",
+			"funFact": "Several of these ratings are submarine-specific \ntwo of them, Electronics Technician Navigation and Missile Technician, exist only in the submarine force, with MTs handling the Trident missile systems aboard ballistic missile boats."
+		}
 	},
 	{
 		"branch": "navy",
@@ -973,7 +1111,10 @@
 		"jobCount": 2,
 		"enlisted": 2,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These are the Sailors whose job begins at the moment something goes wrong — fire, flooding, a chemical release, a fight on the pier, an unauthorised visitor at the gate. Damage Controlmen keep the ship afloat and the crew breathing; Masters-at-Arms handle law enforcement, antiterrorism and physical security, afloat and ashore.",
+			"funFact": "Shipboard firefighting is one of the few jobs with nowhere to evacuate to, which is why every Sailor gets basic damage control training — but it's the Damage Controlmen who train them and lead the repair lockers when the alarm sounds."
+		}
 	},
 	{
 		"branch": "navy",
@@ -983,7 +1124,10 @@
 		"jobCount": 17,
 		"enlisted": 17,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These are the ratings that keep the Navy's machinery turning: engines, generators, gas turbines, hydraulics, pumps, weapons mounts, aircraft structures and the hull itself. The work is hands-on maintenance and repair, often in hot, loud, cramped spaces at sea, where there is no one else to call when something breaks.",
+			"funFact": "Boatswain's Mate is the oldest rating in the U.S. Navy, dating to 1775, and BMs still handle seamanship tasks like anchoring, mooring, small boats and underway replenishment."
+		}
 	},
 	{
 		"branch": "navy",
@@ -993,7 +1137,10 @@
 		"jobCount": 15,
 		"enlisted": 9,
 		"officer": 6,
-		"ai": null
+		"ai": {
+			"description": "These are the jobs that work out what's going on beyond the horizon and keep the other side from doing the same. The work ranges from listening to foreign signals and translating them, to maintaining the gear that collects them, to tracking contacts on sonar and radar, to briefing a captain or an admiral on what it all means before a decision gets made.",
+			"funFact": "Navy cryptology traces back to OP-20-G, the code-breaking unit whose work on the Japanese naval code JN-25 helped set up the ambush at Midway in 1942; today's Cryptologic Technician Interpretive sailors still learn their languages at the Defense Language Institute in Monterey, California, on courses that can run well over a year."
+		}
 	},
 	{
 		"branch": "navy",
@@ -1003,7 +1150,10 @@
 		"jobCount": 2,
 		"enlisted": 1,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Navy legal jobs cover the law as it actually gets practiced at sea and on shore: courts-martial, administrative hearings, contracts, environmental and international law, and advising commanders on what they can and can't lawfully order. Judge advocates are commissioned officers who are also licensed attorneys; Legalmen are enlisted paralegals who run the legal office, prepare documents, and keep the machinery of military justice moving.",
+			"funFact": "The Office of the Judge Advocate General of the Navy was established by statute in 1880, though the JAG Corps itself wasn't formally created as a staff corps until 1967."
+		}
 	},
 	{
 		"branch": "navy",
@@ -1013,7 +1163,10 @@
 		"jobCount": 26,
 		"enlisted": 3,
 		"officer": 23,
-		"ai": null
+		"ai": {
+			"description": "Navy medicine covers everything a civilian health system does — surgery, dentistry, pharmacy, physical therapy, mental health, lab work — plus the odder problems that come with ships, submarines and aircraft: pressure, radiation, shipboard sanitation, and treating casualties a long way from a hospital. The point is to keep sailors and Marines healthy enough to do their jobs, and to put care within reach when they are nowhere near one.",
+			"funFact": "Hospital Corpsman is the Navy's largest rating, and corpsmen serve alongside Marine Corps units because the Marine Corps has no medical personnel of its own."
+		}
 	},
 	{
 		"branch": "navy",
@@ -1023,7 +1176,10 @@
 		"jobCount": 2,
 		"enlisted": 1,
 		"officer": 1,
-		"ai": null
+		"ai": {
+			"description": "Religious Services covers the Navy's chaplains — ordained clergy who serve as commissioned officers — and the enlisted Religious Program Specialists who make their work possible. Between them they run worship services, counsel Sailors through bereavement, deployment strain and family trouble, and manage the chapel's budget, supplies and schedule, often aboard ship or in the field with Marines.",
+			"funFact": "Navy chaplains are noncombatants and do not carry weapons, so one of the Religious Program Specialist's long-standing duties in a combat zone is to provide security for the chaplain they support."
+		}
 	},
 	{
 		"branch": "navy",
@@ -1033,7 +1189,10 @@
 		"jobCount": 14,
 		"enlisted": 5,
 		"officer": 9,
-		"ai": null
+		"ai": {
+			"description": "This field covers the Navy's technical core: the enlisted Sailors and officers who run shipboard nuclear reactors, the meteorologists and oceanographers who tell the fleet what the weather and water are about to do, and the engineers, entomologists and microbiologists who build the bases and keep people from getting sick. The common thread is applied science in service of a fleet that has to operate for months at a time without calling for help.",
+			"funFact": "The Navy's nuclear propulsion program was shaped by Admiral Hyman Rickover, who personally interviewed candidate officers for decades and was famous for unnerving interview tactics; its training pipeline, including Nuclear Power School in Charleston, South Carolina, remains one of the most demanding technical courses in the US military."
+		}
 	},
 	{
 		"branch": "navy",
@@ -1043,7 +1202,10 @@
 		"jobCount": 5,
 		"enlisted": 5,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These are the Navy's small-team jobs that put people in the water, under it, or out of a helicopter into it — rescuing downed aircrew, defusing bombs, running salvage and underwater repair work, or conducting direct-action and reconnaissance missions ashore. What they share is a long, deliberately brutal selection pipeline, a high attrition rate, and the expectation that you will keep working while cold, wet and tired.",
+			"funFact": "The Navy SEALs trace their lineage to the Second World War Underwater Demolition Teams, the 'frogmen' who swam in ahead of amphibious landings to survey beaches and blow up obstacles."
+		}
 	},
 	{
 		"branch": "air-force",
@@ -1053,7 +1215,10 @@
 		"jobCount": 38,
 		"enlisted": 25,
 		"officer": 13,
-		"ai": null
+		"ai": {
+			"description": "These are the jobs that put aircraft in the air and keep track of them once they're there — pilots and remotely piloted aircraft crews, combat systems officers navigating and running sensors, loadmasters and gunners in the back, plus the air traffic controllers, weather forecasters, battle managers and avionics technicians on the ground who make the flying possible. Most of the field is not flying: for every person at the controls there are others reading radar, writing forecasts, managing an airfield, or troubleshooting the electronics in a fighter's nose.",
+			"funFact": "Officer flying jobs such as pilot and combat systems officer require a commission and a degree, so they're not entry points for enlistment — but enlisted aircrew roles like Special Missions Aviator and RPA Sensor Operator do fly, and the Air Force briefly ran an enlisted pilot programme for the RQ-4 Global Hawk starting in 2016."
+		}
 	},
 	{
 		"branch": "air-force",
@@ -1063,7 +1228,10 @@
 		"jobCount": 82,
 		"enlisted": 16,
 		"officer": 66,
-		"ai": null
+		"ai": {
+			"description": "The Air Force runs its own health system, and these are the people who staff it: physicians, nurses, dentists, therapists, pharmacists, lab and imaging technicians, public health and environmental specialists, and the administrators who keep the paperwork and supplies moving. The work looks much like civilian medicine, with the added job of keeping aircrew and other airmen medically fit to do things the human body doesn't especially enjoy, and of moving patients by air when needed.",
+			"funFact": "The Air Force pioneered aeromedical evacuation, and flight nurses still work aboard transport aircraft such as the C-17 and C-130, where altitude, noise and limited space change how routine care has to be delivered."
+		}
 	},
 	{
 		"branch": "air-force",
@@ -1073,7 +1241,10 @@
 		"jobCount": 22,
 		"enlisted": 18,
 		"officer": 4,
-		"ai": null
+		"ai": {
+			"description": "These are the jobs that turn raw material — satellite imagery, intercepted signals, foreign-language radio traffic, network logs — into something a commander can actually act on, and that keep the Air Force's own networks and data from being read by someone else. Some of the work is analytical and desk-bound, some of it happens in the back of an aircraft or on a watch floor at odd hours, and a good deal of it is classified enough that you won't be able to describe your day to your family in much detail.",
+			"funFact": "Air Force cryptologic language analysts are sent to the Defense Language Institute in Monterey, California, where the harder languages — Arabic, Chinese, Korean, Russian — take well over a year of full-time study before the job proper even begins."
+		}
 	},
 	{
 		"branch": "air-force",
@@ -1083,7 +1254,10 @@
 		"jobCount": 9,
 		"enlisted": 6,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "These are the people who guard the gates, put out the fires, investigate the crimes and argue the cases on an Air Force installation. The work ranges from standing a post in bad weather to writing legal briefs, but it all comes down to keeping the base, its aircraft and its people safe and within the law.",
+			"funFact": "Security Forces is the largest career field in the Air Force, and its members are known as 'Defenders' — a title that covers everything from nuclear missile field security to combat convoy duty downrange."
+		}
 	},
 	{
 		"branch": "air-force",
@@ -1093,7 +1267,10 @@
 		"jobCount": 37,
 		"enlisted": 23,
 		"officer": 14,
-		"ai": null
+		"ai": {
+			"description": "This is the part of the Air Force that makes everything else possible: ordering, storing, fuelling, moving, paying for, staffing and documenting the people and materiel that flying units depend on. It covers everyone from fuels and munitions handlers and air transportation loadmasters to contracting officers, chaplains, public affairs specialists and military musicians \ndash jobs that mostly happen on the ground, often unglamorously, and that stop very quickly being invisible when they go wrong.",
+			"funFact": "The Air Force keeps a 'premier' band in the Washington, D.C. area alongside its regional bands, and enlisted musicians have to pass a competitive audition on their instrument before they can hold the job."
+		}
 	},
 	{
 		"branch": "air-force",
@@ -1103,7 +1280,10 @@
 		"jobCount": 28,
 		"enlisted": 26,
 		"officer": 2,
-		"ai": null
+		"ai": {
+			"description": "These are the people who keep Air Force machinery working — aircraft above all, but also the generators, runways, vehicles, plumbing and air conditioning that let an air base function. The work ranges from turning wrenches on a fighter's engine between sorties to welding cracked parts, X-raying metal for hidden flaws, or wiring up a deployed camp's power grid.",
+			"funFact": "Aircraft maintenance is the largest enlisted career grouping in the Air Force, and the crew chief who signs off a jet as flight-ready traditionally has their name painted on its side alongside the pilot's."
+		}
 	},
 	{
 		"branch": "air-force",
@@ -1113,7 +1293,10 @@
 		"jobCount": 16,
 		"enlisted": 10,
 		"officer": 6,
-		"ai": null
+		"ai": {
+			"description": "These are the jobs that keep the Air Force's more technical hardware honest \ten\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t- missiles, satellites, radars, avionics, nuclear weapons and the test equipment used to check all of it. Some roles are hands-on maintenance in a hangar or a silo; others are analysts, chemists and physicists working with numbers, targets and laboratory instruments.",
+			"funFact": "Precision Measurement Equipment Laboratory (PMEL) technicians calibrate the instruments that everyone else relies on, with their standards traceable to the National Institute of Standards and Technology \ten\t- in effect, they are the people who check the checkers."
+		}
 	},
 	{
 		"branch": "air-force",
@@ -1123,7 +1306,10 @@
 		"jobCount": 5,
 		"enlisted": 2,
 		"officer": 3,
-		"ai": null
+		"ai": {
+			"description": "These are the Air Force jobs that put airmen on the ground, usually alongside Army or special operations units, rather than in an aircraft. The work ranges from calling in airstrikes and running assault zones to recovering downed aircrew, teaching survival and resistance to captured personnel, and taking apart bombs that someone else built badly on purpose.",
+			"funFact": "Air Force pararescuemen and the officers who lead them carry the motto \"That Others May Live,\" and their distinctive maroon berets mark one of several coloured berets used across the service's ground combat specialties."
+		}
 	},
 	{
 		"branch": "space-force",
@@ -1159,7 +1345,10 @@
 		"jobCount": 3,
 		"enlisted": 3,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These are the three enlisted ratings that keep Coast Guard helicopters and fixed-wing aircraft flying and put crews in the water when someone needs pulling out of it. AETs look after the electrical and avionics systems, AMTs handle engines, airframes and the rest of the mechanical side, and ASTs are the rescue swimmers — all three also fly as aircrew, so the person who fixed the aircraft is often the person aboard it.",
+			"funFact": "The Aviation Survival Technician rating is the Coast Guard's rescue swimmer job, and its motto is \"So Others May Live\"; the training school in Elizabeth City, North Carolina, is known for a high attrition rate."
+		}
 	},
 	{
 		"branch": "coast-guard",
@@ -1169,7 +1358,10 @@
 		"jobCount": 7,
 		"enlisted": 7,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These are the ratings that keep a Coast Guard unit running as an organisation rather than just a crew: the people who order the parts, cut the orders, cook the meals, handle the press, and — in this grouping — also run the deck, the guns and the engineering plant. The common thread is day-to-day operation and upkeep, afloat and ashore, so that cutters and stations can actually get underway and stay there.",
+			"funFact": "Boatswain's Mate is the Coast Guard's oldest rating and one of the few still open to serving as officer-in-charge of a small boat station, a job with a lineage going back to the keepers of the old U.S. Life-Saving Service."
+		}
 	},
 	{
 		"branch": "coast-guard",
@@ -1179,7 +1371,10 @@
 		"jobCount": 1,
 		"enlisted": 1,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "Coast Guard Operations Specialists are the people on the other end of the radio when someone calls for help at sea. They stand watch in command centers and aboard cutters, tracking vessels on radar, handling communications, and coordinating search and rescue, law enforcement, and navigation support \ninformation flows through them before anyone gets under way.",
+			"funFact": "The OS rating was created in the early 2000s by merging the old Radarman and Telecommunications Specialist ratings, which is why the job spans both the radar scope and the radio watch \nincluding VHF-FM Channel 16, the international distress and calling frequency."
+		}
 	},
 	{
 		"branch": "coast-guard",
@@ -1189,7 +1384,10 @@
 		"jobCount": 1,
 		"enlisted": 1,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "Maritime Enforcement Specialists are the Coast Guard's police and security specialists afloat and ashore: they board vessels, enforce US law and treaties at sea, run port and waterways security, handle weapons and tactics training, and work drug and migrant interdiction cases. The work exists because the Coast Guard is both a military service and a federal law enforcement agency, and someone has to do the searching, detaining, evidence-handling and paperwork that holds up in court.",
+			"funFact": "The ME rating is one of the Coast Guard's newest, created in 2010 to consolidate law enforcement and security work that had previously been done as a collateral duty by members of other ratings."
+		}
 	},
 	{
 		"branch": "coast-guard",
@@ -1199,7 +1397,10 @@
 		"jobCount": 7,
 		"enlisted": 0,
 		"officer": 7,
-		"ai": null
+		"ai": {
+			"description": "These are the seven broad fields a Coast Guard officer can end up in after commissioning \ninto everything from driving cutters and flying helicopters to inspecting ships, managing engineering and communications systems, practising medicine, or running the personnel and logistics side of the service. The common thread is that officers plan and direct Coast Guard work \nsearch and rescue, law enforcement, pollution response, waterways safety, marine inspection \nrather than specialising in a single trade for a career.",
+			"funFact": "The Coast Guard Academy in New London, Connecticut, is the only one of the federal service academies that admits students purely on merit, with no congressional nomination required."
+		}
 	},
 	{
 		"branch": "coast-guard",
@@ -1209,6 +1410,9 @@
 		"jobCount": 9,
 		"enlisted": 9,
 		"officer": 0,
-		"ai": null
+		"ai": {
+			"description": "These are the Coast Guard's technical trades — the people who keep electrical and electronic systems running, defend the service's networks, dive under hulls, treat patients, analyse intelligence, and inspect ships and spills for chemical and environmental hazards. The common thread is applied science and equipment: the Coast Guard operates cutters, aircraft, boats and shore facilities far from any convenient repair shop, and these ratings are the reason the gear works and the people on it stay alive.",
+			"funFact": "Coast Guard divers train at the Naval Diving and Salvage Training Center in Panama City, Florida, alongside Navy divers — the Diver rating is one of the service's smallest, and candidates come to it from other ratings rather than straight out of boot camp."
+		}
 	}
 ]

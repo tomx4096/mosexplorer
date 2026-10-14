@@ -33,7 +33,7 @@ export async function fetchAirForce() {
 			const $ = load(await get(url));
 			const parts = url.slice(BASE.length).split('/');
 			const category = parts[0];
-			const slug = parts.slice(1).join('-');
+			const slug = parts[parts.length - 1]; // pilot/bomber-pilot -> bomber-pilot
 			const info = {};
 			$('.information-nav-wrapper').each((_, el) => {
 				const k = line($(el).find('.information-title').text()).replace(/:$/, '').toLowerCase();

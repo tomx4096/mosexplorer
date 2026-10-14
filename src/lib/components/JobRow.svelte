@@ -8,7 +8,7 @@
 <a href={jobHref(job)} class="hover-row grid grid-cols-[4.5rem_1fr_auto] sm:grid-cols-[6rem_1fr_auto] gap-3 items-center border-b px-3 py-2.5" style="border-color: var(--line)">
 	<span class="font-display text-base leading-none" style="color: var(--c-{job.branch})">{job.code ?? '—'}</span>
 	<span class="min-w-0">
-		<span class="block truncate font-medium">{job.title}</span>
+		<span class="block font-medium line-clamp-2 sm:line-clamp-none sm:truncate leading-snug">{job.title}</span>
 		{#if job.ai?.blurb || job.tagline}
 			<span class="block truncate text-xs" style="color: var(--fg-dim)">{job.ai?.blurb || job.tagline}</span>
 		{/if}

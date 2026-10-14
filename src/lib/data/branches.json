@@ -44,7 +44,7 @@
 		"fetchedAt": "2026-10-14",
 		"ai": {
 			"tagline": "The smallest of the big services, with its own numbering system",
-			"description": "The Marine Corps is the naval expeditionary force, organised to deploy from ships and fight as combined air-ground task forces, with jobs covering everything from riflemen and reconnaissance to postal clerks, intelligence analysts and cyber network operators. Jobs are labelled by MOS (Military Occupational Specialty), a four-digit code where the first two digits mark the occupational field \"— 03 for infantry, 02 for intelligence, 04 for logistics — and officer specialties typically end in 02 or higher, often with a Roman numeral grade in brackets. The common misconception is that everyone in the Corps is a rifleman by trade; the saying \"every Marine a rifleman\" refers to shared basic combat training, not to the MOS you will actually work in, which is far more likely to involve a maintenance log than a machine gun."
+			"description": "The Marine Corps is the naval expeditionary force, organised to deploy from ships and fight as combined air-ground task forces, with jobs covering everything from riflemen and reconnaissance to postal clerks, intelligence analysts and cyber network operators. Jobs are labelled by MOS (Military Occupational Specialty), a four-digit code where the first two digits mark the occupational field — 03 for infantry, 02 for intelligence, 04 for logistics — and officer specialties typically end in 02 or higher, often with a Roman numeral grade in brackets. The common misconception is that everyone in the Corps is a rifleman by trade; the saying \"every Marine a rifleman\" refers to shared basic combat training, not to the MOS you will actually work in, which is far more likely to involve a maintenance log than a machine gun."
 		}
 	},
 	{
@@ -66,7 +66,10 @@
 		"officer": 51,
 		"categoryCount": 13,
 		"fetchedAt": "2026-10-14",
-		"ai": null
+		"ai": {
+			"tagline": "The sea service, plus everything that floats, flies or fixes things",
+			"description": "The U.S. Navy crews ships, submarines and aircraft, and keeps them supplied, repaired and fed wherever they happen to be, which is often a long way from anywhere. Enlisted Sailors hold a rating — a two- or three-letter code like ABH for Aviation Boatswain's Mate (Aircraft Handling) or YN for Yeoman — that defines their trade, while officers carry a numeric designator instead. The common mistake is assuming it's all deck work and salt spray: a great many ratings are construction, catering, logistics, electronics and administration jobs that happen to be done at sea, or sometimes not at sea at all."
+		}
 	},
 	{
 		"slug": "air-force",
@@ -87,7 +90,10 @@
 		"officer": 111,
 		"categoryCount": 8,
 		"fetchedAt": "2026-10-14",
-		"ai": null
+		"ai": {
+			"tagline": "The youngest service, and the one with the most paperwork about planes.",
+			"description": "The U.S. Air Force runs the country's air, space-adjacent and remotely piloted operations, from flying and air traffic control to weather forecasting, avionics repair and military medicine. Jobs are organised by Air Force Specialty Code, or AFSC, an alphanumeric string where the pattern tells you the career field, the specialty and how far along the training ladder someone is — 11FX is a fighter pilot, 1W0X1 a weather specialist. The common mistake is assuming most Airmen fly; the overwhelming majority of the 237 listed specialties are ground jobs keeping aircraft, airfields, networks and people functioning, and pilot slots are commissioned officer roles with their own separate route in."
+		}
 	},
 	{
 		"slug": "space-force",
@@ -132,6 +138,9 @@
 		"officer": 7,
 		"categoryCount": 6,
 		"fetchedAt": "2026-10-14",
-		"ai": null
+		"ai": {
+			"tagline": "The smallest armed service, mostly working close to home waters",
+			"description": "The Coast Guard runs search and rescue, law enforcement, pollution response, icebreaking and port security, which makes it both a military service and a federal regulatory agency at the same time. Enlisted jobs are organised as ratings, inherited from naval tradition and abbreviated to two or three letters — BM for Boatswain's Mate, MK for Machinery Technician, AST for Aviation Survival Technician — while officers work in broad career fields like Response, Prevention and Afloat. The common misconception is that it sits under the Department of Defense; it has been part of Homeland Security since 2003, though it can be transferred to the Navy in wartime and its members are full military personnel either way."
+		}
 	}
 ]

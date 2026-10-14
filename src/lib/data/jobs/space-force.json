@@ -176,7 +176,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/enlisted-careers/cyber-operations"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps military networks, satellites and radio links running and defends them from hostile cyber activity.",
+			"dayToDay": "Mostly indoors at a keyboard or a rack of equipment, though some specialties have you out installing and maintaining ground radio, satellite and telemetry gear. Expect a mix of routine work — patching, troubleshooting, upgrading circuits, checking logs — and busier spells when something breaks or a threat shows up. You'll work in small teams alongside operators who depend on the links you maintain, and shift work is common because networks don't sleep.",
+			"funFact": "Keesler Air Force Base in Mississippi, where this training happens, has been the military's electronics and communications schoolhouse since the Second World War.",
+			"goodFitIf": [
+				"you enjoy troubleshooting technical problems",
+				"you're patient with detailed, methodical work",
+				"you like computers and networks",
+				"you don't mind shift work"
+			],
+			"tags": [
+				"cyber",
+				"satellites",
+				"technology",
+				"networks"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/geospatial-intelligence-analyst",
@@ -224,7 +242,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/enlisted-careers/geospatial-intelligence-analyst"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Studies satellite and aerial imagery to spot unusual activity, map terrain and flag possible threats.",
+			"dayToDay": "Most of the work happens at a desk in a secure facility, staring at imagery on multiple screens and comparing what's there today with what was there last week. You'll analyse terrain and structures, pull measurements off maps, build target folders, and write up what you've found for commanders who need it in plain terms. It's patient, detail-heavy work done alongside other analysts, and the hardest part is usually noticing the small thing that changed.",
+			"funFact": "The trade's home schoolhouse, Goodfellow AFB in Texas, has trained military intelligence and imagery analysts for decades and teaches students from across the services.",
+			"goodFitIf": [
+				"You notice small details others miss",
+				"You like patterns and maps",
+				"You can write clearly under deadline",
+				"Sitting and concentrating suits you"
+			],
+			"tags": [
+				"intelligence",
+				"imagery analysis",
+				"clearance required",
+				"desk-based"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/signals-intelligence-analyst",
@@ -271,7 +307,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/enlisted-careers/signals-intelligence-analyst"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Picks apart foreign radio and electronic signals to work out who is transmitting, and what it means.",
+			"dayToDay": "Most of the work happens indoors, in a secure windowless facility, at a workstation surrounded by classified reference material and specialised software. You spend hours examining electromagnetic emissions, sorting signal from noise, logging findings into national databases and writing reports that commanders actually read. Shift work is common, you work alongside analysts from other services and agencies, and almost nothing you do can be discussed outside the building.",
+			"funFact": "Goodfellow Air Force Base in San Angelo, Texas, is the joint schoolhouse for intelligence and cryptologic training across all the services, so your classmates are likely to be soldiers, sailors and Marines as well as Guardians.",
+			"goodFitIf": [
+				"enjoy patient, detailed analysis",
+				"can keep secrets indefinitely",
+				"like puzzles with incomplete pieces",
+				"test well on the ASVAB"
+			],
+			"tags": [
+				"intelligence",
+				"clearance required",
+				"analysis",
+				"desk-based"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/space-systems-operator",
@@ -324,7 +378,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/enlisted-careers/space-systems-operator"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Tracks satellites and missile launches from a console, and helps run military spacecraft and launch ranges.",
+			"dayToDay": "Most of the work happens indoors, on an operations floor full of screens, running shifts around the clock — space doesn't keep office hours. You'll sit a console with a small crew, following detailed checklists to track objects in orbit, watch for missile launches, or support a rocket going up from a range. Long stretches of steady monitoring punctuated by moments where everyone needs to be precise and calm at once.",
+			"funFact": "All enlisted Space Systems Operators go through Enlisted Undergraduate Space Training at Vandenberg Space Force Base in California — a working launch site, so students share the place with actual rockets.",
+			"goodFitIf": [
+				"You stay calm when things get tense",
+				"You like technical systems and procedures",
+				"You don't mind shift work",
+				"You can hold a security clearance"
+			],
+			"tags": [
+				"space",
+				"clearance required",
+				"technology",
+				"shift work"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/targeting-analyst",
@@ -374,7 +446,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/enlisted-careers/targeting-analyst"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Studies potential targets and threats, builds target lists, and judges whether a strike actually achieved what was intended.",
+			"dayToDay": "Most of the work happens at a desk in a secure facility, reading intelligence, building target folders and feeding databases. You work alongside analysts and planners, supporting mission planning across air, cyber and space, and you spend a lot of time on detail: what a site does, what it depends on, what breaking it would actually accomplish. After an operation, you assess the damage and recommend whether it needs revisiting.",
+			"funFact": "Training runs through Goodfellow AFB in Texas, the military's joint intelligence training hub, before Space Warfighter ISR training at Peterson SFB in Colorado.",
+			"goodFitIf": [
+				"you like slow, careful research",
+				"you can hold a security clearance",
+				"detail matters more than speed to you",
+				"you want serious work with consequences"
+			],
+			"tags": [
+				"intelligence",
+				"clearance required",
+				"analysis",
+				"space force"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/acquisition-manager",
@@ -417,7 +507,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/acquisition-manager"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the buying and delivery side of Space Force programs, making sure kit and systems arrive where they're needed.",
+			"dayToDay": "Mostly offices, meetings and spreadsheets rather than launch pads — you're managing programmes, schedules and contracts, and the people who work on them. You'll coordinate with commanders, engineers and contractors, chase quality assurance issues, and build training for your own staff. The pace is deadline-driven: programmes have milestones, and someone has to keep them honest.",
+			"funFact": "Defence acquisition is its own professional discipline in the US military, with a formal certification system — officers in this field spend careers learning contracting and programme management rather than operating equipment.",
+			"goodFitIf": [
+				"You like untangling complicated schedules",
+				"You're comfortable leading a team",
+				"Paperwork doesn't frighten you",
+				"You enjoy negotiating with engineers and contractors"
+			],
+			"tags": [
+				"logistics",
+				"acquisition",
+				"leadership",
+				"office-based"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/aeronautical-engineer",
@@ -467,7 +575,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/aeronautical-engineer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Engineering officer who designs, tests and manages the aerospace systems the Space Force depends on.",
+			"dayToDay": "Mostly office, lab and test-facility work rather than field work: design studies, systems engineering reviews, and managing projects that industry contractors are actually building. You work alongside other engineers, programme managers and contractors, and much of the job is paperwork and meetings that decide whether a piece of hardware is sound. Deadlines and technical reviews set the pace more than anything dramatic.",
+			"funFact": "The Defense Acquisition University course in the requirements exists because buying complex military hardware is itself a discipline — engineers are formally taught how to manage contracts and programmes, not just design.",
+			"goodFitIf": [
+				"you enjoy engineering coursework",
+				"you like solving problems on paper",
+				"you can manage long projects",
+				"you don't mind meetings and documentation"
+			],
+			"tags": [
+				"engineering",
+				"acquisitions",
+				"degree required",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/astronautical-engineer",
@@ -517,7 +643,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/astronautical-engineer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Engineering officer who designs, tests and manages the spacecraft and systems the Space Force depends on.",
+			"dayToDay": "Mostly desk, lab and meeting-room work on a base or at a programme office, not a launch pad. You run design studies, write and review technical requirements, oversee work contracted out to aerospace companies, and argue about whether a subsystem is ready. Expect a mix of engineers, programme managers and industry contractors, with deadlines measured in years rather than hours.",
+			"funFact": "Astronautical engineering has its own Air Force Academy degree track, and much of the acquisition training comes from the Defense Acquisition University — the Pentagon's in-house school for people who buy and build complex systems.",
+			"goodFitIf": [
+				"You already want an engineering degree",
+				"Systems and requirements interest you",
+				"You can manage contractors and paperwork",
+				"You prefer long projects to quick wins"
+			],
+			"tags": [
+				"engineering",
+				"space systems",
+				"acquisitions",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/computer-systems-engineer",
@@ -568,7 +712,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/computer-systems-engineer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Engineering officer who plans, designs and oversees the computer and hardware systems the Space Force depends on.",
+			"dayToDay": "Mostly office and lab work on a base or at a programme office — design reviews, requirement documents, test data and a lot of meetings with contractors who are actually building the kit. You coordinate engineers, analyse whether a technical approach will hold up, and decide when new technology is worth folding into an existing system. Deadlines and acquisition paperwork shape the pace more than anything dramatic.",
+			"funFact": "Much of the work runs through Defense Acquisition University coursework — the military's own school for people who buy and build complex systems, which officers in this field are required to complete.",
+			"goodFitIf": [
+				"You enjoy systems-level problem solving",
+				"You finished an engineering degree",
+				"You can manage contractors and deadlines",
+				"You like detail over drama"
+			],
+			"tags": [
+				"engineering",
+				"space",
+				"acquisitions",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/cyberspace-effects-operations-officer",
@@ -613,7 +775,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/cyberspace-effects-operations-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Plans and directs military cyberspace operations, commanding crews who run cyber weapons systems and satellite communications.",
+			"dayToDay": "Most of the work happens in secure operations centres and briefing rooms rather than anywhere glamorous — reviewing mission tasking and intelligence, running crew training, and advising commanders on what a given cyber capability can and can't do, and what might go wrong. You lead a crew rather than sit alone at a keyboard, so a lot of the day is supervision, planning and explaining technical risk to people who aren't technical. Pace swings between steady deliberate planning and sudden crisis-action tasking.",
+			"funFact": "The job's remit is broader than hacking: official duties stretch from satellite and airborne communications to tracking systems and even postal operations.",
+			"goodFitIf": [
+				"You studied computing, engineering or maths",
+				"You like leading a technical crew",
+				"You can explain risk to non-experts",
+				"You stay calm under sudden tasking"
+			],
+			"tags": [
+				"cyber",
+				"space",
+				"leadership",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/electrical-electronic-engineer",
@@ -664,7 +844,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/electrical-electronic-engineer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Designs, tests and manages the electronic systems behind Space Force satellites, ground stations and the networks linking them.",
+			"dayToDay": "Mostly office and lab work on a base or at an acquisition centre: design reviews, test plans, requirements documents, and meetings with contractors building the hardware. You'll be the government's technical brain on a programme, sitting between engineers, operators and programme managers, and you'll spend real time on paperwork as well as circuits. Pace follows the programme schedule — quiet stretches, then long weeks before a milestone or a test campaign.",
+			"funFact": "Much of the Space Force's hardware is actually built by industry, so officer engineers often spend more time scrutinising contractors' designs than drawing their own — the job is as much technical judgement as technical creation.",
+			"goodFitIf": [
+				"You have an engineering degree",
+				"You like systems more than gadgets",
+				"You can argue a technical point calmly",
+				"You don't mind documentation"
+			],
+			"tags": [
+				"engineering",
+				"space",
+				"acquisition",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/human-factors-engineer-human-systems-integration",
@@ -715,7 +913,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/human-factors-engineer-human-systems-integration"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Engineering officer who makes sure Space Force systems actually work for the people operating them.",
+			"dayToDay": "Mostly desk, lab and programme-office work rather than field work: design studies, systems engineering processes, reviewing contractor proposals and managing technical activities. You'll spend a lot of time coordinating between engineers, operators and industry partners, and writing or reviewing documents that decide how a system gets built. Pace follows acquisition schedules and milestones rather than shift rotations.",
+			"funFact": "Human factors engineering grew out of WWII accident investigations, when analysts found that identical-looking cockpit levers were causing pilots to retract landing gear instead of flaps \ninstead of blaming the pilots, they redesigned the controls.",
+			"goodFitIf": [
+				"You have an engineering degree",
+				"You like designing for real users",
+				"You can manage contracts and schedules",
+				"Detail and documentation don't bore you"
+			],
+			"tags": [
+				"engineering",
+				"acquisitions",
+				"space systems",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/intelligence-officer",
@@ -762,7 +978,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/intelligence-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Leads teams that collect, analyse and share intelligence on adversaries, and protects the Space Force's own information.",
+			"dayToDay": "Most of the work happens indoors, in secure facilities where phones stay in a locker outside. You lead a small team of analysts turning raw collection into assessments people actually plan around, then brief those findings to operators and commanders — often on short notice. Expect a lot of reading, writing, and coordination with other services, agencies and allied partners.",
+			"funFact": "Intelligence work runs on a cycle that has barely changed in a century — plan, collect, process, analyse, disseminate — even as the collection methods moved from aircraft cameras to satellites.",
+			"goodFitIf": [
+				"You read widely and write clearly",
+				"You enjoy puzzles with missing pieces",
+				"You can brief senior people calmly",
+				"You hold secrets well"
+			],
+			"tags": [
+				"intelligence",
+				"analysis",
+				"clearance required",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/mechanical-engineer",
@@ -812,7 +1046,25 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/mechanical-engineer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Engineering officer who designs, tests and manages the hardware and systems Space Force missions depend on.",
+			"dayToDay": "Mostly office, lab and test-facility work rather than field work: design studies, systems engineering reviews, and managing contracts with aerospace companies building the kit. You spend a lot of time with contractors, programme managers and fellow engineers, chasing requirements, schedules and test results. The pace is project-driven, with quiet analytical stretches punctuated by deadlines and design reviews.",
+			"funFact": "A sizeable chunk of the job is acquisition work, which is why the training list includes Defense Acquisition University courses — much of military engineering is deciding what to buy and holding industry to its promises.",
+			"goodFitIf": [
+				"you enjoy engineering coursework",
+				"you like managing complex projects",
+				"you want technical work over field work",
+				"you're patient with paperwork and process"
+			],
+			"tags": [
+				"engineering",
+				"acquisitions",
+				"degree required",
+				"space systems"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "space-force/space-operations-officer",
@@ -858,6 +1110,24 @@
 			"name": "spaceforce.com",
 			"url": "https://www.spaceforce.com/officer-careers/space-operations-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs military satellite operations — command and control, space surveillance, launch support and missile warning.",
+			"dayToDay": "Most of the work happens in operations centres on the ground: consoles, screens, checklists and crews running satellite command and control, tracking objects in orbit, or supporting launches. As an officer you lead and supervise those crews rather than sit at a console all day, setting training standards, writing policy and coordinating with other units. Expect shift work in some assignments, plenty of briefings, and a security clearance.",
+			"funFact": "The Space Force is the smallest US military branch, and its members have been called Guardians since 2020 — a name borrowed from an old Air Force Space Command motto.",
+			"goodFitIf": [
+				"You like systems and procedures",
+				"You want to lead a crew",
+				"Science or engineering degree appeals",
+				"You're comfortable with shift work"
+			],
+			"tags": [
+				"space",
+				"satellites",
+				"clearance required",
+				"leadership"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	}
 ]

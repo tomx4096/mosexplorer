@@ -54,7 +54,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/aet"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Coast Guard aircraft electronics and electrical systems working, then flies on them as aircrew.",
+			"dayToDay": "Most of your time is at an air station hangar, with a multimeter and wiring diagrams, chasing faults in radios, radar, flight controls, generators and landing gear systems. When you're not on the hangar floor you may be flying as aircrew \ns\nnavigating, working sensors and radios, or running the rescue hoist. The pace follows the aircraft: routine inspections and paperwork, punctuated by launches that can't wait.",
+			"funFact": "The Aviation Technical Training Center at Elizabeth City, North Carolina, is the hub of Coast Guard aviation maintenance training, and AETs do on-the-job training across 26 air stations.",
+			"goodFitIf": [
+				"enjoy electrical troubleshooting",
+				"want to fly as aircrew",
+				"can meet aircrew vision standards",
+				"are comfortable with practical math"
+			],
+			"tags": [
+				"aviation",
+				"electronics",
+				"aircrew",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/amt",
@@ -112,7 +130,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/amt"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Coast Guard helicopters and planes flying — engines, hydraulics, airframes — and flies on them as aircrew.",
+			"dayToDay": "You're based at an air station, working in a hangar on engines, powertrains, hydraulics, rotor blades and control surfaces, with inspections and troubleshooting filling most shifts. The other half of the job is in the air: AMTs fly as aircrew, working the hoist as a helicopter flight mechanic or handling loads as a loadmaster or dropmaster. Pace swings between steady scheduled maintenance and getting an aircraft fixed and airborne because a case has come in.",
+			"funFact": "The Aviation Technical Training Center in Elizabeth City, North Carolina trains the whole fleet's aviation maintainers, and AMTs can go on to the Aviation Technology degree programme from there.",
+			"goodFitIf": [
+				"enjoy taking machines apart",
+				"are comfortable flying regularly",
+				"can meet aircrew vision standards",
+				"like practical maths and troubleshooting"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"aircrew",
+				"stem"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/ast",
@@ -169,7 +205,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/ast"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Jumps from Coast Guard helicopters to rescue people from the sea, floods and cliffs, and treats their injuries.",
+			"dayToDay": "Most days are spent at an air station: inspecting and repairing survival gear, parachutes and life rafts, training in the pool or gym, and standing duty waiting for a call. When the call comes, you're in the water or on a hoist cable with a flight crew, often in weather that made someone else need rescuing. Physical training isn't optional extra — it's a core part of the job, and you work closely with pilots, flight mechanics and other ASTs.",
+			"funFact": "ASTs earn a National Registry EMT certification during their 22-week rating course, so a rescue swimmer is also a qualified medic.",
+			"goodFitIf": [
+				"you're genuinely at home in water",
+				"you stay calm when things go wrong",
+				"you'll keep training hard for years",
+				"you like fixing gear as well as using it"
+			],
+			"tags": [
+				"aviation",
+				"search and rescue",
+				"first response",
+				"high fitness"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/bm",
@@ -227,7 +281,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/bm"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Drives Coast Guard boats, runs deck operations, and leads crews on search, rescue and law enforcement missions.",
+			"dayToDay": "Most of the work happens on or alongside the water — small boats, cutter decks, piers and station watchrooms. You'll handle lines and anchors, maintain gear, stand watch, and in time qualify as coxswain, meaning you command the boat and answer for the crew's safety. Many BMs also train as boarding officers, stopping and inspecting vessels at sea.",
+			"funFact": "Boatswain's Mate is one of the oldest ratings afloat, and the rating badge still shows crossed anchors — the trade predates the Coast Guard itself.",
+			"goodFitIf": [
+				"You want command responsibility early",
+				"You like being on the water",
+				"Law enforcement work appeals",
+				"You notice small details others miss"
+			],
+			"tags": [
+				"maritime",
+				"leadership",
+				"law enforcement",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/cs",
@@ -279,7 +351,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/cs"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Cooks for Coast Guard crews and runs the food budget, ordering and inventory behind every meal.",
+			"dayToDay": "Most of the work happens in a galley — on a cutter at sea, at a shore unit, or at a VIP facility — and it starts early, because breakfast doesn't wait. You plan menus, order and count stock, keep the accounts straight, then cook and serve for a crew that eats the same food three times a day and notices everything. On a small cutter you may be one of very few cooks, which means the quality of the meals, and a fair bit of the crew's mood, rests on you.",
+			"funFact": "Coast Guard culinary training runs 13 weeks in Petaluma, California, and advanced courses are certified by the American Culinary Federation — the same body that certifies civilian chefs.",
+			"goodFitIf": [
+				"You cook well under time pressure",
+				"Numbers and inventory don't scare you",
+				"You like feeding people properly",
+				"You can improvise with what's aboard"
+			],
+			"tags": [
+				"cooking",
+				"at sea",
+				"logistics",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/gm",
@@ -337,7 +427,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/gm"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Looks after every weapon in the Coast Guard, from sidearms to deck guns, and teaches others to shoot straight.",
+			"dayToDay": "Much of it is methodical bench work: stripping, inspecting and reassembling small arms, tracing faults in the electronics and hydraulics that drive shipboard mounts, and keeping careful account of ammunition and pyrotechnics. The rest is range time, running qualification shoots and coaching crews who need to stay current for boardings and law enforcement work. You could be aboard a cutter or in a shore armoury, working closely with boarding teams and the unit's gunner's mates.",
+			"funFact": "Gunner's mate is one of the oldest ratings at sea, dating back to the age of sail, when the gunner was responsible for the ship's powder as well as its cannon — today's GMs still answer for the magazine.",
+			"goodFitIf": [
+				"You like taking mechanisms apart",
+				"You are meticulous about safety and paperwork",
+				"Teaching others appeals to you",
+				"Law enforcement work interests you"
+			],
+			"tags": [
+				"firearms",
+				"hands-on",
+				"law enforcement",
+				"stem"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/mk",
@@ -395,7 +503,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/mk"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Coast Guard engines, hydraulics and ship systems running — and often helps board vessels for law enforcement.",
+			"dayToDay": "You work in engine rooms, machinery spaces and small-boat sheds: diesels, pumps, hydraulics, HVAC, basic electrical. Expect oily hands, troubleshooting against a schematic, and planned maintenance that has to be done whether or not the weather is cooperating. At a small station you may be the Engineering Petty Officer, running the whole engineering side, and many MKs also qualify for boarding teams.",
+			"funFact": "MKs are found at nearly every Coast Guard unit — cutters, small boat stations, shore facilities — which makes the rating one of the most widely spread in the service.",
+			"goodFitIf": [
+				"You like taking machines apart",
+				"You read schematics without flinching",
+				"You want engineering and law enforcement",
+				"You don't mind dirty, practical work"
+			],
+			"tags": [
+				"mechanical",
+				"maritime",
+				"law enforcement",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/pa",
@@ -453,7 +579,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/pa"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Writes the news releases, shoots the photos and video, and speaks to reporters about what the Coast Guard is doing.",
+			"dayToDay": "Most of the work happens at a district or large sector office, writing stories, editing imagery and keeping official social media and web pages current. When something big happens — a rescue, a spill, a storm — you're the one fielding press calls and standing in front of a camera, often with incomplete information and a deadline. The rest of the time is quieter: ride-alongs, interviews with crews, photo assignments, and a lot of editing.",
+			"funFact": "PA training happens at Fort Meade, Maryland, home of the Defense Information School, where the military's writers, photographers and broadcasters from every service learn the trade side by side.",
+			"goodFitIf": [
+				"you write clearly and fast",
+				"you stay calm on camera",
+				"you like photography and video",
+				"you can work without supervision"
+			],
+			"tags": [
+				"communications",
+				"media",
+				"photography",
+				"writing"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/sk",
@@ -506,7 +650,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/sk"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Buys and tracks everything the Coast Guard needs to operate, from laptops to spare parts for boats and aircraft.",
+			"dayToDay": "Mostly desk and storeroom work: raising purchase orders, checking deliveries against paperwork, keeping inventory straight and accounting for funds. You might be in a supply office ashore or squeezed into a storeroom aboard a cutter, dealing with crews who need a part today and vendors who say next month. Expect a lot of software, a lot of records, and a fair amount of chasing people.",
+			"funFact": "Storekeeper is one of the oldest job titles at sea — the term predates the Coast Guard itself, from the days when one person literally kept the ship's stores under lock and key.",
+			"goodFitIf": [
+				"You like order and paperwork done properly",
+				"You're comfortable with numbers and software",
+				"You can chase people politely but firmly",
+				"You want transferable business qualifications"
+			],
+			"tags": [
+				"logistics",
+				"finance",
+				"contracting",
+				"office-based"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/yn",
@@ -558,7 +720,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/yn"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Handles the Coast Guard's human resources — pay, orders, records, promotions and travel claims for everyone at the unit.",
+			"dayToDay": "Mostly office work at a cutter, air station, base or headquarters, in front of a computer and a counter where shipmates turn up with problems: a pay entitlement that didn't start, a move that needs orders, a new baby to enrol. The pace follows the calendar — transfer season, promotion cycles and payday bring surges. You deal with nearly everyone in the unit, often including the commanding officer, and you'll be expected to know the regulations well enough to give a straight answer.",
+			"funFact": "\"Yeoman\" is one of the oldest ratings afloat, borrowed from the Royal Navy, where the yeoman of the ship kept stores and records long before anyone had a computer to do it on.",
+			"goodFitIf": [
+				"You like order and paperwork done right",
+				"You're patient with people's problems",
+				"You're comfortable learning software and rules",
+				"You want transferable office skills"
+			],
+			"tags": [
+				"administration",
+				"human resources",
+				"office-based",
+				"paralegal"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/os",
@@ -616,7 +796,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/os"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Takes the distress call, works out where the boat is, and directs the rescue from a command centre.",
+			"dayToDay": "You work watches in a command centre ashore at a sector or district, or in the operations room of a cutter, surrounded by radios, radar and charts. Most of a shift is routine monitoring and logging; then a mayday comes in and you're questioning a frightened caller, plotting a search pattern and vectoring boats and helicopters onto it. You work closely with watch supervisors, boat crews, aircrews and other agencies, and you handle classified material.",
+			"funFact": "Search planning is a real science — drift models account for wind and current to work out where a person or boat has moved since they went missing, which is why OSs train for 13 weeks at Petaluma before standing watch.",
+			"goodFitIf": [
+				"You stay calm when others panic",
+				"You like radios, charts and radar",
+				"You can hold a detail-heavy watch",
+				"Shift work doesn't bother you"
+			],
+			"tags": [
+				"search and rescue",
+				"maritime",
+				"clearance required",
+				"command centre"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/me",
@@ -673,7 +871,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/me"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Coast Guard's law enforcement specialist — boards vessels, trains boarding teams and handles the highest-risk takedowns at sea.",
+			"dayToDay": "You'll be on cutters, at boat stations or with specialised units, running and training the boarding teams that stop and search vessels. A lot of the job is routine: maintaining weapons and law enforcement gear, drilling your crew, standing security watches. Then there are the boardings themselves, which can mean climbing onto a moving vessel, or for deployable units, fast-roping in from a helicopter.",
+			"funFact": "The ME rating is relatively young — it was created in the 2000s, when the Coast Guard decided its law enforcement and port security work had grown specialised enough to need a rating of its own.",
+			"goodFitIf": [
+				"You want a policing career",
+				"You stay calm under pressure",
+				"You like teaching and leading others",
+				"You're comfortable being physically tested"
+			],
+			"tags": [
+				"law enforcement",
+				"maritime",
+				"tactical",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/afloat",
@@ -712,7 +928,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/officer/afloat"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Commissioned officer who navigates Coast Guard cutters and leads their crews on law enforcement, buoy tending and icebreaking missions.",
+			"dayToDay": "You live aboard a ship for long stretches — standing watch on the bridge, navigating, and running a division of enlisted crew who do the actual deck, engineering and boarding work. Depending on the hull you draw, a day might mean chasing smugglers in the Caribbean, hauling a multi-tonne buoy onto the deck, or grinding through pack ice. Sea assignments usually run around two years with roughly a year of that actually underway; ashore, you build a second specialty and take further training.",
+			"funFact": "Coast Guard cutters are colour-coded by job: white hulls do law enforcement, black hulls tend buoys and break domestic ice, and red hulls are the polar icebreakers — the only ships in federal service able to work at both poles.",
+			"goodFitIf": [
+				"you don't mind months at sea",
+				"you like leading people early",
+				"navigation and ship handling appeal",
+				"cold, wet weather doesn't bother you"
+			],
+			"tags": [
+				"maritime",
+				"leadership",
+				"law enforcement",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/aviation",
@@ -759,7 +993,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/officer/aviation"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies Coast Guard helicopters and aeroplanes on search-and-rescue, law enforcement and patrol missions, often in foul weather.",
+			"dayToDay": "You're based at an air station, flying one airframe — the MH-60 Jayhawk, MH-65 Dolphin, HC-130 Hercules or HC-144 Ocean Sentry — with a small crew you train with constantly. Much of the work is briefings, maintenance checks, currency flights and duty standby; then a call comes in and you're launching over water in conditions most aircraft stay home for. You start as a co-pilot, build hours, and eventually qualify as aircraft commander, with command of an air station possible later.",
+			"funFact": "The Coast Guard has the highest percentage of officers who are pilots of any US military service, and its aviators train alongside the Navy at Naval Air Station Pensacola.",
+			"goodFitIf": [
+				"You want flying as the whole job",
+				"You stay calm in bad weather",
+				"You can commit to years of training",
+				"You like small, tight-knit crews"
+			],
+			"tags": [
+				"aviation",
+				"officer",
+				"search and rescue",
+				"college degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/engineering-c5i",
@@ -797,7 +1049,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/officer/engineering-c5i"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Coast Guard ships, shore bases and computer networks working, from engine rooms to cyber defence.",
+			"dayToDay": "Depending on your subspecialty, you might spend your first tour in a cutter's engineering department learning how the propulsion and systems actually behave at sea, or at a shore unit managing construction projects and maintenance contracts, or working cyber defence with a security clearance. Expect a mix of grease-under-the-fingernails troubleshooting early on and budget, contract and management work later. You'll work alongside enlisted machinery technicians, electricians, damage controlmen and IT specialists who know the equipment intimately.",
+			"funFact": "Naval engineering is one of the Coast Guard's largest programs, and it pairs so naturally with afloat operations that engineers can compete for cutter command.",
+			"goodFitIf": [
+				"you like systems and how they fail",
+				"a STEM degree appeals to you",
+				"you want graduate school funded",
+				"you'd mix sea time with shore projects"
+			],
+			"tags": [
+				"engineering",
+				"maritime",
+				"cyber",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/healthcare",
@@ -841,7 +1111,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/officer/healthcare"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Doctors, dentists, nurses, pharmacists and health administrators who keep Coast Guard members fit for duty.",
+			"dayToDay": "Most of the work happens in a Coast Guard base clinic, seeing a patient population that is almost entirely young, active-duty people — so a lot of primary care, dental work, mental health assessments and fitness-for-duty calls rather than running a business. You work alongside enlisted health services technicians, and depending on your specialty you might cover several clinics across a multi-state region, deploy temporarily, or support communities after a hurricane. Some providers go operational as flight surgeons, aviation PAs or hyperbaric medical officers.",
+			"funFact": "Many Coast Guard medical providers aren't Coast Guard at all — they're commissioned officers of the U.S. Public Health Service, one of the eight uniformed services, detailed to the Coast Guard.",
+			"goodFitIf": [
+				"You already hold clinical credentials",
+				"You'd rather treat patients than bill them",
+				"You want medicine with an operational edge",
+				"You like a young, healthy patient population"
+			],
+			"tags": [
+				"medical",
+				"clinical",
+				"licence required",
+				"public health"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/prevention",
@@ -882,7 +1170,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/officer/prevention"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Inspects ships and ports, investigates marine accidents, and enforces the safety, security and environmental rules that keep commercial shipping honest.",
+			"dayToDay": "Most of the work happens in ports — climbing through the engine rooms and cargo holds of commercial ships, walking waterfront facilities that handle hazardous cargo, or sitting in a vessel traffic centre watching movements on a busy harbour. You'll spend a good share of time on paperwork too: inspection reports, plan reviews, casualty investigations built from interviews and evidence. Colleagues include ship masters, port operators, engineers and Marine Science Technicians, many of whom know their vessels far better than you do at first.",
+			"funFact": "One possible assignment is the International Ice Patrol, founded after the Titanic sank and still tracking icebergs in the North Atlantic today.",
+			"goodFitIf": [
+				"You enjoy picking apart complex systems",
+				"Regulations and standards genuinely interest you",
+				"You like ships and commercial shipping",
+				"You can hold a line politely under pressure"
+			],
+			"tags": [
+				"maritime safety",
+				"inspection",
+				"investigation",
+				"ports"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/response",
@@ -924,7 +1230,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/officer/response"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs Coast Guard operations from shore — search and rescue, law enforcement, oil spills and disaster response.",
+			"dayToDay": "Much of the work happens in a Sector command centre or a small boat station rather than at sea for months: standing watch, taking distress calls, plotting search patterns, and deciding which boats and aircraft go where. Other days you're out on a shore-based small boat doing boardings, or managing an oil spill cleanup alongside state agencies and port industry. You work with Boatswain's Mates, Operations Specialists and Marine Science Technicians, and the pace swings from paperwork to all-hands-on-deck with little warning.",
+			"funFact": "Search planning is a genuine science — the Coast Guard uses computer models of wind and current drift to work out where a missing person is likely to have ended up, and the search area is reassessed as each hour passes.",
+			"goodFitIf": [
+				"stay calm when a call comes in",
+				"like planning as much as doing",
+				"want to lead teams early",
+				"are drawn to law and regulation"
+			],
+			"tags": [
+				"maritime",
+				"search and rescue",
+				"law enforcement",
+				"emergency management"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/support",
@@ -961,7 +1285,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/officer/support"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Coast Guard officer working in finance, intelligence, law, or reserve management—the staff work that keeps operations running.",
+			"dayToDay": "Mostly office work at headquarters, district staffs, bases and service centres rather than on a cutter. Depending on the specialty you might be building budgets and chasing audit readiness, writing intelligence assessments for operational commanders, advising on legal questions across every Coast Guard mission, or making sure reservists are trained and ready to be called up. You work alongside enlisted storekeepers, yeomen and intelligence specialists, and with other federal agencies.",
+			"funFact": "Coast Guard lawyers are part of the CGJAG programme, and you can commission directly as one through the Direct Commission Lawyer route—provided you've finished law school and passed a bar.",
+			"goodFitIf": [
+				"You already have a professional degree",
+				"You like analysis over deck work",
+				"You want a career with civilian parallels",
+				"Detail and paperwork don't scare you"
+			],
+			"tags": [
+				"intelligence",
+				"finance",
+				"law",
+				"office-based"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/cms",
@@ -1016,7 +1358,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/cms"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Defends Coast Guard networks and the maritime shipping system from hackers, spotting and shutting down intrusions.",
+			"dayToDay": "Work happens at dedicated cyber shore units rather than on ships — desks, screens and secure spaces, often on shift rotations because network threats don't keep office hours. You'll be sifting network traffic, chasing anomalies, writing up findings and working alongside analysts and network defenders. Plenty of the job is patient, detailed digging that leads nowhere, punctuated by the times it leads somewhere serious.",
+			"funFact": "CMS trainees go through the Navy's Joint Cyber Analysis Course in Pensacola — 27 weeks, one of the longest enlisted technical schools in the US military.",
+			"goodFitIf": [
+				"you enjoy picking apart technical puzzles",
+				"you notice small details others miss",
+				"you're already comfortable with computers",
+				"you can stay focused for long stretches"
+			],
+			"tags": [
+				"cybersecurity",
+				"shore duty",
+				"technical",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/dc",
@@ -1074,7 +1434,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/dc"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Welds, plumbs and builds aboard Coast Guard cutters, and leads the response when a ship catches fire or floods.",
+			"dayToDay": "Most days are maintenance and fabrication: patching pipework, welding brackets, repairing woodwork and checking that firefighting and dewatering gear actually works. On a cutter you also run damage control drills and train the rest of the crew, because everyone fights the fire but you're the one who knows how. Ashore, the same skills go into keeping base buildings and engineering support units in working order.",
+			"funFact": "Damage Controlmen also train in chemical, biological and radiological defence — on a ship there's nowhere to evacuate to, so the crew has to handle contamination themselves.",
+			"goodFitIf": [
+				"like working with your hands",
+				"stay calm in emergencies",
+				"enjoy welding, carpentry or plumbing",
+				"want a trade that transfers ashore"
+			],
+			"tags": [
+				"maritime",
+				"hands-on",
+				"firefighting",
+				"trades"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/dv",
@@ -1131,7 +1509,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/dv"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Works underwater for the Coast Guard — searching, salvaging, cutting, welding and repairing ships in everything from tropical water to under polar ice.",
+			"dayToDay": "Most DVs are posted to dedicated shoreside diving units, so the work comes in bursts: a recovery job, a hull inspection, clearing something out of a waterway. You dive in teams with a supervisor topside, using SCUBA or hard hat gear, side scan sonar, ROVs, hydraulic tools and exothermic cutting torches. Between jobs there's a great deal of gear maintenance, training and physical conditioning — the unglamorous part that keeps everyone alive.",
+			"funFact": "You can't join the rating straight out of boot camp: you have to advance to E-4 in another rating first, then earn a seat at the Navy Diving and Salvage Training Center in Panama City, Florida.",
+			"goodFitIf": [
+				"are completely at ease underwater",
+				"stay calm when things go wrong",
+				"are meticulous about equipment checks",
+				"want to earn a rating first"
+			],
+			"tags": [
+				"diving",
+				"hands-on",
+				"salvage",
+				"first response"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/em",
@@ -1184,7 +1580,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/em"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps the electrical systems running on Coast Guard ships and shore units — generators, propulsion motors, navigation gear and machinery controls.",
+			"dayToDay": "Much of the work happens in engine rooms, switchboard spaces and workshops, either aboard a cutter at sea or at a shore unit. You'll be troubleshooting circuits, servicing generators and motors, and working on programmable logic controllers and fibre optic runs, usually alongside other engineering-rate Coast Guardsmen. At a small unit you could end up as the Engineer Petty Officer, meaning the whole engineering department and its equipment is your problem.",
+			"funFact": "Training runs 16 weeks at Yorktown, Virginia, and covers everything from circuit analysis to gyrocompass systems — the spinning instrument that finds true north without relying on magnetism.",
+			"goodFitIf": [
+				"You like maths and problem solving",
+				"Circuits and machinery genuinely interest you",
+				"You want a STEM trade with civilian value",
+				"You don't mind cramped engine spaces"
+			],
+			"tags": [
+				"stem",
+				"hands-on",
+				"maritime",
+				"electrical"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/et",
@@ -1243,7 +1657,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/et"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Coast Guard radar, radios, navigation and computer systems working, aboard ships and at shore stations.",
+			"dayToDay": "You're the person called when a radar stops painting contacts or a radio goes quiet — often at sea, often at an awkward hour. Work splits between planned maintenance, installing new kit, and tracing faults with test gear and schematics until you find the one failed component. Assignments are typically on cutters or at shoreside electronic support units, working alongside the operators who depend on the gear.",
+			"funFact": "ET training happens at the Coast Guard's training centre in Petaluma, California — a 20-week course covering electronic, navigation and network control systems, plus a cyber certification.",
+			"goodFitIf": [
+				"enjoy tracing faults to their source",
+				"are comfortable with maths",
+				"like knowing how things work",
+				"don't mind fixing things at sea"
+			],
+			"tags": [
+				"electronics",
+				"maritime",
+				"cyber",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/hs",
@@ -1300,7 +1732,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/hs"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Coast Guard medic who treats rescued people in distress and keeps crews healthy, afloat and ashore.",
+			"dayToDay": "Most days look like a small clinic: immunisations, lab work, X-rays, dental chairs, pharmacy stock and a steady queue of Coast Guardsmen needing paperwork signed off before they can deploy. On a cutter you may be the only medical person aboard, which means handling anything from seasickness to a serious injury with no doctor down the passageway. The dramatic part — treating someone pulled out of the water or off a sinking boat — is real but occasional; the routine care is the job.",
+			"funFact": "Experienced HSs can earn independent duty certification, qualifying them to run a cutter's sick bay alone at sea, including prescribing medication and minor surgical procedures.",
+			"goodFitIf": [
+				"stay calm when others panic",
+				"like medicine and detail work",
+				"can work without a supervisor nearby",
+				"enjoy science and lab procedures"
+			],
+			"tags": [
+				"medical",
+				"first response",
+				"maritime",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/is",
@@ -1358,7 +1808,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/is"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Collects and analyses information about smugglers, traffickers and other threats, then gets it to the people who need it.",
+			"dayToDay": "Most of the work happens at a desk inside a secure space at a Coast Guard sector, district or intelligence unit, with some billets afloat on cutters. You'll be reading reports, cross-checking databases, plotting patterns on maps and writing or briefing what it all means for operators planning a boarding or patrol. The pace swings between long stretches of patient research and sudden urgency when something develops.",
+			"funFact": "Coast Guard ISs train at Yorktown, Virginia, and can go on to the Strategic Intelligence Program \ta funded route to a degree that few enlisted intelligence jobs offer.",
+			"goodFitIf": [
+				"you enjoy patient research",
+				"you can keep a secret indefinitely",
+				"maps and data interest you",
+				"you write and brief clearly"
+			],
+			"tags": [
+				"intelligence",
+				"security clearance",
+				"analysis",
+				"law enforcement"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/it",
@@ -1416,7 +1884,25 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/it"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Coast Guard computers, phones and networks running, ashore and aboard cutters.",
+			"dayToDay": "You're the system administrator: patching servers, swapping hardware, pulling copper and fibre cable, programming phone systems and fielding the \"my laptop won't connect\" calls. Work happens at shore units, electronics support units, or aboard a cutter supporting tactical command, control and communications gear. Expect a mix of planned projects and whatever breaks that morning, usually with someone waiting on you to fix it.",
+			"funFact": "IT training runs 28 weeks at Training Center Petaluma in California, and the rating has its own Cyber Technology degree pathway.",
+			"goodFitIf": [
+				"Friends call you to fix things",
+				"You like networks and servers",
+				"Methodical troubleshooting appeals to you",
+				"You want a STEM career path"
+			],
+			"tags": [
+				"information technology",
+				"networks",
+				"stem",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "coast-guard/mst",
@@ -1474,6 +1960,24 @@
 			"name": "gocoastguard.com",
 			"url": "https://www.gocoastguard.com/careers/enlisted/mst"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Inspects ships and waterfront facilities for safety and environmental compliance, and responds when oil or chemicals spill.",
+			"dayToDay": "Most of the work is shoreside, attached to a Coast Guard sector or a specialised unit in a port town. A normal day might mean climbing around a tank barge with a checklist, auditing how a terminal stores hazardous cargo, or writing up what you found; when something goes wrong, you're on scene coordinating a pollution response with federal and state agencies and contractors. It's paperwork and regulations as much as boots and coveralls, and both halves matter.",
+			"funFact": "MSTs can qualify as Federal On-Scene Coordinator Representatives, meaning a fairly junior enlisted person can hold real legal authority over a spill response.",
+			"goodFitIf": [
+				"you like rules and checklists",
+				"you care about the environment",
+				"you want science without a lab",
+				"you stay calm during messy incidents"
+			],
+			"tags": [
+				"environmental",
+				"inspections",
+				"emergency response",
+				"ports"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	}
 ]

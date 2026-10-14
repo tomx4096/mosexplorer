@@ -68,7 +68,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/arts-communications/mass-communication-specialist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy photographer, videographer, writer and press officer rolled into one, documenting what the fleet does and telling the public about it.",
+			"dayToDay": "You might spend a morning shooting flight-deck launches, an afternoon editing video or laying out a publication, and the next week escorting a reporter around a ship or prepping your commanding officer for an interview. Work ranges from an air-conditioned broadcast studio stateside to the field with a construction battalion, and you're often working alone or in a very small team with little supervision. The majority of it is creative and mental rather than physical, but you still have to keep your gear working in unglamorous places.",
+			"funFact": "Navy MCs who qualify can be selected for a master's programme in photojournalism or motion media at Syracuse University's Newhouse School — one of the better-regarded communications schools in the country.",
+			"goodFitIf": [
+				"Write and speak well under deadline",
+				"Like cameras and editing software",
+				"Can work alone without hand-holding",
+				"Are curious about people"
+			],
+			"tags": [
+				"photography",
+				"journalism",
+				"media",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/navy-musician",
@@ -120,7 +138,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/arts-communications/navy-musician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Plays in Navy bands — concert, parade, jazz, rock — at ceremonies, public concerts and events around the world.",
+			"dayToDay": "You rehearse a lot, in several ensembles at once: a concert band one morning, a marching block the next, a small combo or rock group by the weekend. Performances range from funerals and change-of-command ceremonies to school outreach, public concerts and diplomatic receptions, which means travel and irregular hours. You might also be asked to arrange or transcribe charts for your group, and you're in uniform with strict appearance standards throughout.",
+			"funFact": "You have to pass a formal audition before you can even enlist in this rating — musical skill is a precondition, not something taught later, though everyone still goes through the 21-week Naval School of Music in Virginia Beach.",
+			"goodFitIf": [
+				"already play at a serious level",
+				"like performing in many styles",
+				"don't mind constant travel",
+				"can take direction in uniform"
+			],
+			"tags": [
+				"music",
+				"performance",
+				"travel",
+				"audition required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/public-affairs-officer",
@@ -173,7 +209,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/arts-communications/public-affairs-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy officer who handles press, public messaging and media relations for a command, advising the commander on what to say and how.",
+			"dayToDay": "You might be on a carrier at sea, at a shore installation, or in an office at the Pentagon. A normal day mixes writing and approving press releases, prepping officers before interviews, running the command's websites and social media, and supervising enlisted Mass Communication Specialists — the writers, photographers and videographers who make the content. When something goes wrong publicly, you're the one in the room advising the commander, usually on a short clock.",
+			"funFact": "Navy PAOs train at the Defense Information School at Fort Meade, Maryland — 'DINFOS' — the joint schoolhouse where all the services' communicators, photographers and broadcasters learn the trade.",
+			"goodFitIf": [
+				"You write fast and clearly",
+				"You stay calm under press scrutiny",
+				"You hold a communications degree",
+				"You'd deploy to sea"
+			],
+			"tags": [
+				"media",
+				"writing",
+				"public relations",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-boatswains-mate-launch-and-recovery",
@@ -230,7 +284,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aviation-boatswains-mate-launch-and-recovery"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Operates and maintains the catapults and arresting gear that fling aircraft off carrier decks and drag them back down again.",
+			"dayToDay": "Most of your work happens outdoors on a carrier flight deck, in whatever weather the ocean throws at you, surrounded by jet noise and moving aircraft. You'll run catapults, jet blast deflectors and arresting gear from deck-edge control stations, then spend the quieter hours maintaining the hydraulics and engines that make it all work. It's loud, fast-paced team work with other aviation ratings, and shore rotations with a squadron break up the sea time.",
+			"funFact": "A carrier's landing area is roughly 300 feet long — a fraction of a normal airport runway — which is why the arresting gear exists at all.",
+			"goodFitIf": [
+				"like working outdoors in all weather",
+				"are mechanically handy with tools",
+				"thrive in loud, high-stakes teamwork",
+				"take safety procedures seriously"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"sea duty",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-boatswains-mate-fuel",
@@ -287,7 +359,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aviation-boatswains-mate-fuel"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Fuels Navy aircraft and runs the fuel systems that keep a carrier's jets flying.",
+			"dayToDay": "Most of the work happens outdoors on a carrier flight deck, in heat, cold, rain and jet noise, moving at the pace of flight operations. You drag hoses and fuel jets between launches, then go below to tend pumps, filters and fuel tanks, testing fuel for quality and water contamination. You work shoulder to shoulder with other flight deck ratings, and you'll train with firefighting and damage control crews, because fuel spaces are where fires start.",
+			"funFact": "Flight deck crews wear colour-coded jerseys, and fuel handlers wear purple — which is why ABFs are universally known as \"Grapes\".",
+			"goodFitIf": [
+				"you don't mind weather and noise",
+				"you're careful about safety rules",
+				"you like hands-on mechanical work",
+				"you work well in a tight team"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"shipboard",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-boatswains-mate-handling",
@@ -343,7 +433,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aviation-boatswains-mate-handling"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Directs the movement, parking and tie-down of aircraft on carrier flight decks, and fights fires when things go wrong.",
+			"dayToDay": "Your office is an open flight deck in whatever weather the ocean provides, with jet blast, spinning rotors and aircraft launching in quick succession. You spot and chain down aircraft, drive and maintain tow and handling gear, and talk constantly with the rest of the deck crew by hand signal and radio. You're also on the crash and salvage side of things, so firefighting and damage control are part of the job rather than someone else's.",
+			"funFact": "Flight deck crews wear colour-coded jerseys so everyone's role is readable at a glance in the noise — aircraft handlers wear yellow and blue.",
+			"goodFitIf": [
+				"you stay calm in loud chaos",
+				"you like working outdoors in any weather",
+				"you're careful about safety procedures",
+				"you want hands-on aviation work fast"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"sea duty",
+				"firefighting"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/air-traffic-controller",
@@ -402,7 +510,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/air-traffic-controller"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Directs Navy aircraft from towers and radar rooms, ashore and on carriers where the runway itself is moving.",
+			"dayToDay": "You work in a control tower, a darkened radar room, or a carrier's air traffic control centre, talking pilots through departures, approaches and recoveries. Shifts run around the clock and the pace swings from quiet watches to very busy ones during flight operations. Expect roughly a third of your assignments at sea, and constant teamwork with pilots, flight deck crews and other controllers.",
+			"funFact": "Air traffic control is one of the most directly transferable Navy ratings — the radar and communications training maps closely onto civilian controller work.",
+			"goodFitIf": [
+				"you stay calm when things stack up",
+				"you do mental maths quickly",
+				"you speak clearly under pressure",
+				"you like maps, charts and screens"
+			],
+			"tags": [
+				"aviation",
+				"air traffic control",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/air-vehicle-pilot",
@@ -450,7 +576,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/air-vehicle-pilot"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies the Navy's MQ-25 Stingray refuelling drone from an aircraft carrier, keeping fighters airborne longer.",
+			"dayToDay": "You work from a control station aboard a carrier or at a shore command, launching and recovering an unmanned tanker and passing fuel to Super Hornets, Growlers and F-35Cs. It's flight-deck pace during operations and a lot of planning, briefing and debriefing around it, alongside maintainers, air boss staff and manned-aircraft aircrews. Ashore you may instruct, help write the tactics nobody has written yet, or work on UAV development staffs.",
+			"funFact": "The MQ-25 Stingray is the first carrier-based unmanned aircraft built for aerial refuelling — this role is the Navy's attempt to create a dedicated warrant-officer pilot track for it.",
+			"goodFitIf": [
+				"You like aviation but not cockpits",
+				"You want to write the rulebook",
+				"You handle pressure and precision work",
+				"You can get a security clearance"
+			],
+			"tags": [
+				"aviation",
+				"drones",
+				"clearance required",
+				"warrant officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aircraft-handling-officer",
@@ -503,7 +647,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aircraft-handling-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the flight deck of an aircraft carrier, deciding where every aircraft goes and when it launches or lands.",
+			"dayToDay": "You work from the carrier's flight deck control, famously tracking aircraft positions on a scale model of the deck, while directing the flight deck and hangar deck officers below you. The pace is relentless: launch sequences, elevator moves between decks, recoveries, and the occasional crash or fire to be handled fast and calmly. You also run the training that keeps hundreds of deck crew alive in one of the most dangerous workplaces anywhere.",
+			"funFact": "The job carries the nickname \"the Handler,\" and the deck model used to plan aircraft movement — with small cutouts representing each aircraft — is known as the Ouija board.",
+			"goodFitIf": [
+				"You think clearly under constant noise",
+				"You like spatial puzzles in motion",
+				"You can hold responsibility for others' safety",
+				"You want years at sea"
+			],
+			"tags": [
+				"aviation",
+				"aircraft carrier",
+				"officer",
+				"leadership"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-ordnanceman",
@@ -560,7 +722,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aviation-ordnanceman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Loads, maintains and tracks every bomb, missile and round of ammunition carried by Navy aircraft.",
+			"dayToDay": "You work on flight decks at sea or on flight lines and in shops ashore, hauling, assembling and loading weapons onto jets and helicopters, then inspecting the electrical and mechanical systems that release them. Much of it is heavy, physical team work in noise and weather, done to strict procedure and with careful paperwork, since nobody loses track of a missile. Ashore you may spend more time in the armoury, magazine or ordnance shop maintaining gear and keeping records straight.",
+			"funFact": "Aviation Ordnancemen are known across the fleet as \"Ordies\", and on carrier flight decks they're the ones in red jerseys.",
+			"goodFitIf": [
+				"you don't mind heavy physical work",
+				"you're meticulous with records",
+				"you work well in a tight team",
+				"you like tools and machinery"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"weapons",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-maintenance-duty-officer",
@@ -611,7 +791,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aviation-maintenance-duty-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs aircraft maintenance for a Navy squadron or air wing — the people, parts and paperwork that keep jets flying.",
+			"dayToDay": "You work out of hangars, maintenance control offices and carrier decks, overseeing dozens of aircraft and the hundreds of enlisted technicians who fix them. Much of the job is logistics and leadership rather than turning wrenches yourself: tracking parts, scheduling inspections, signing off that work was done correctly, and sorting out why a jet is still down. Expect sea tours, shore tours at air stations worldwide, and a pace set by the flight schedule.",
+			"funFact": "AMDOs are the Navy's maintenance specialists rather than pilots — but they also get a say in how new aircraft are designed, pushing for systems that are simpler and cheaper to maintain in the first place.",
+			"goodFitIf": [
+				"You like organising complex systems",
+				"You'd rather lead than fly",
+				"Details and paperwork don't bore you",
+				"You want an engineering-adjacent career"
+			],
+			"tags": [
+				"aviation",
+				"maintenance",
+				"leadership",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aircrewman-mechanical",
@@ -673,7 +871,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aircrewman-mechanical"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies aboard Navy transport and patrol aircraft as flight engineer or loadmaster, running the systems and the cargo.",
+			"dayToDay": "You're part of a fixed-wing crew on aircraft like the C-130, C-2 or P-3 — monitoring engines and systems in flight, calculating weight and balance, loading cargo and passengers, and fixing what breaks when you're back on the ground. One week it's hauling parts out to a carrier at sea, the next a medical evacuation or a long maritime patrol. Expect a lot of time away: roughly 60% of assignments are sea duty, and you'll work everywhere from hangar decks to flight lines overseas.",
+			"funFact": "The C-2 Greyhound's carrier delivery mission is known as COD — Carrier Onboard Delivery — and arriving aboard means an arrested landing, tailhook and all.",
+			"goodFitIf": [
+				"like tools and machinery",
+				"can swim and stay calm",
+				"want to fly, not just fix",
+				"don't mind long deployments"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aircrewman-operator",
@@ -735,7 +951,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aircrewman-operator"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies aboard Navy aircraft hunting submarines, using sonar, radar and other sensors to find, track and classify what's under the water.",
+			"dayToDay": "You fly as part of a small crew, sitting at an acoustic or sensor station listening to sonobuoys and watching radar returns for hours at a stretch. Between flights there's mission planning, handling classified material and ordnance, inspecting equipment and a steady diet of ground and flight training. Expect roughly half your assignments at sea, working off carriers and from air stations around the world.",
+			"funFact": "Anti-submarine aircrew still use the Magnetic Anomaly Detector, a sensor that picks up the tiny distortion a steel submarine makes in the Earth's magnetic field \ngenerally only usable at very low altitude.",
+			"goodFitIf": [
+				"You can concentrate for long stretches",
+				"You like puzzles and pattern-spotting",
+				"You're comfortable flying and swimming",
+				"You keep secrets without fuss"
+			],
+			"tags": [
+				"aviation",
+				"anti-submarine warfare",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aircrewman-tactical-romeo-helicopter",
@@ -796,7 +1030,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aircrewman-tactical-romeo-helicopter"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies in MH-60R helicopters hunting submarines with sonar and sonobuoys, and jumps into the sea as a rescue swimmer.",
+			"dayToDay": "You're part of a small helicopter crew operating from carriers, destroyers and air stations, with roughly 60% of assignments at sea. A shift might mean dropping sonobuoys and listening for a submarine's signature over open ocean, manning a door gun, running cargo between ships, or going into the water on a rescue. Between flights there's briefing, training, gear checks and squadron paperwork, and the flight schedule rules your day rather than the clock.",
+			"funFact": "Navy rescue swimmers train under the motto \"So Others May Live\" — AWRs qualify as both submarine hunters and rescue swimmers, which is why Rescue Swimmer School in Pensacola is five weeks of deliberately arduous water work.",
+			"goodFitIf": [
+				"You're a strong, confident swimmer",
+				"You can concentrate for hours on faint signals",
+				"You want to fly, not sit still",
+				"You don't mind long stretches at sea"
+			],
+			"tags": [
+				"aviation",
+				"rescue swimmer",
+				"anti-submarine warfare",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aircrewman-helicopter",
@@ -859,7 +1111,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/aircrewman-helicopter"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies in the back of Navy helicopters as a door gunner, rescue swimmer, cargo handler and extra set of eyes for the pilots.",
+			"dayToDay": "You work out of squadrons ashore and at sea — hangar decks, flight lines and the back of a helicopter, with roughly 60% of assignments afloat. A day might mean slinging cargo between ships, scanning for hazards on approach, running a medical evacuation, or operating a weapon from the cabin door. It's team work in a cramped, loud space, with a lot of maintenance, checklists and training between the flying.",
+			"funFact": "Aircrew candidates spend 11 weeks in Pensacola on water and land survival before they ever fly operationally — a decent chunk of it in a pool, learning to get out of a sinking aircraft.",
+			"goodFitIf": [
+				"You're a strong, confident swimmer",
+				"You don't mind long sea deployments",
+				"You're calm in loud, cramped spaces",
+				"You like tools and machinery"
+			],
+			"tags": [
+				"aviation",
+				"search and rescue",
+				"sea duty",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/naval-aircrewman-avionics",
@@ -923,7 +1193,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/naval-aircrewman-avionics"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies on Navy patrol aircraft hunting submarines with sonar, sonobuoys and cameras, then reports what's down there.",
+			"dayToDay": "You fly long missions on fixed-wing aircraft over open ocean, listening to sonobuoy returns, classifying contacts and passing what you find to ships and joint teams. Between flights there's aircraft systems work, ordnance handling, briefs, training and the usual squadron admin. Expect noise, flight decks and hangars, and postings to sea or shore squadrons more or less anywhere.",
+			"funFact": "Aircrew training includes a mile swim in a flight suit and jumping from a 12-foot tower to swim 15 yards underwater in boots — the Navy takes the possibility of ending up in the water seriously.",
+			"goodFitIf": [
+				"You're a strong, confident swimmer",
+				"Patterns in data interest you",
+				"Long flights don't bother you",
+				"You like tools and machinery"
+			],
+			"tags": [
+				"aviation",
+				"anti-submarine warfare",
+				"clearance required",
+				"flight crew"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/catapult-officer",
@@ -978,7 +1266,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/catapult-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the catapults and arresting gear on an aircraft carrier's flight deck, giving the final signal to launch jets.",
+			"dayToDay": "Work happens on the deck of a carrier at sea — loud, hot, windy, and genuinely dangerous — plus the maintenance spaces below where the catapults and arresting gear are kept running. You're checking equipment, working out wind-over-deck requirements, supervising the catapult crew and spotters, and then giving the signal that sends a fighter off the bow. Between flight operations there's maintenance to plan and record, spare parts to account for, and a crew of Sailors to lead.",
+			"funFact": "Catapult Officers are universally known as \"Shooters\" — and the job is often described as conducting an orchestra, except the baton glows in the dark and the instruments are fighter jets in afterburner.",
+			"goodFitIf": [
+				"Stay calm when things are loud",
+				"Like being responsible for other people",
+				"Want to go to sea",
+				"Enjoy machinery and maintenance detail"
+			],
+			"tags": [
+				"aviation",
+				"aircraft carrier",
+				"leadership",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/fighter-pilot",
@@ -1024,7 +1330,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/fighter-pilot"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies Navy strike fighters off aircraft carriers, dropping ordnance, gathering intelligence and defending the fleet.",
+			"dayToDay": "Life splits between deployments on a carrier and shore time at a Naval Air Station. Flying is only part of it: briefings, planning, debriefs, simulator work and collateral duties in the squadron fill most of the day, and you live and work closely with the same small group of aviators and maintainers for months at a time. When you do fly the F/A-18 or F-35C, you're catapulted off a moving ship and expected to land back on a 300-foot strip of deck.",
+			"funFact": "Naval aviators get their \"wings of gold\" only after years of training, and carrier landings are graded every single time by a Landing Signal Officer — the scores are posted in the ready room for everyone to see.",
+			"goodFitIf": [
+				"You handle pressure without rattling",
+				"You can take blunt criticism daily",
+				"Long sea deployments don't deter you",
+				"You already hold a technical degree"
+			],
+			"tags": [
+				"aviation",
+				"officer",
+				"carrier duty",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/fixed-wing-pilot",
@@ -1080,7 +1404,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/fixed-wing-pilot"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies Navy fixed-wing aircraft — hunting submarines, running airborne command and control, or hauling cargo and people out to carriers at sea.",
+			"dayToDay": "You're based at a naval air station or deployed with a carrier group, and the aircraft you fly decides the rhythm: long patrols over open ocean listening for submarines, orbiting as the airborne radar picture for a strike group, or shuttling parts, mail and passengers out to a ship. Days mix actual flying with briefings, debriefings, mission planning and the paperwork of being a junior officer in a squadron. You work closely with your aircrew and maintainers, and deployments mean months away.",
+			"funFact": "Navy aviators earn their 'wings of gold', a tradition dating back to the early days of naval aviation — and the C-2 Greyhound's carrier delivery run is known across the fleet simply as the COD, for Carrier Onboard Delivery.",
+			"goodFitIf": [
+				"You have a four-year degree",
+				"Long deployments at sea appeal",
+				"You want to fly for a living",
+				"You handle pressure methodically"
+			],
+			"tags": [
+				"aviation",
+				"officer",
+				"sea duty",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/helicopter-pilot",
@@ -1136,7 +1478,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/helicopter-pilot"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies Navy MH-60 helicopters off ships and shore bases for search and rescue, submarine hunting, attack and resupply missions.",
+			"dayToDay": "Much of your flying happens from the deck of a carrier or a small surface ship, which means landing on a moving, pitching platform, sometimes at night. A day might mean hovering ten feet above the water to drop a rescue swimmer, dragging a sonar array to hunt submarines, or hauling cargo between ships. Between flights you're briefing, debriefing, doing paperwork and leading the Sailors in your squadron \ninstead of flying.",
+			"funFact": "Navy pilots earn their \"wings of gold\" only after primary, intermediate and advanced flight training \ninstead of a single course \ninstead and even then head straight to a Fleet Replacement Squadron to learn their specific aircraft.",
+			"goodFitIf": [
+				"You want a four-year degree first",
+				"Ships at sea don't faze you",
+				"You stay calm under heavy workload",
+				"You like precise, technical flying"
+			],
+			"tags": [
+				"aviation",
+				"officer",
+				"search and rescue",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/naval-flight-officer",
@@ -1186,7 +1546,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/aviation/naval-flight-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Flies in Navy aircraft as the navigator and weapons or sensor operator, running the mission while someone else flies.",
+			"dayToDay": "You're aircrew, but not at the controls — you work the radar, sensors, weapons and navigation from another seat, on aircraft like the P-8 Poseidon, E-2 Hawkeye or EA-18G Growler. Days split between briefings, flight planning, the flight itself and the debrief afterwards, either from a carrier at sea or a naval air station ashore. You work in a tight crew where everyone depends on everyone else getting the details right.",
+			"funFact": "NFOs earn the same \"wings of gold\" as pilots, and in the F/A-18F and EA-18G they fly in the back seat running the electronic warfare and weapons systems.",
+			"goodFitIf": [
+				"enjoy systems and problem-solving under pressure",
+				"want to fly without piloting",
+				"can handle long deployments at sea",
+				"have a technical degree"
+			],
+			"tags": [
+				"aviation",
+				"officer",
+				"carrier duty",
+				"technical degree"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-maintenance-administrationman",
@@ -1245,7 +1623,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/business-logistics-administration/aviation-maintenance-administrationman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps the paperwork and records behind Navy aircraft maintenance accurate, so nothing flies without a proper logbook.",
+			"dayToDay": "Most of the work happens at a desk in a squadron maintenance office — on a shore base or aboard a carrier — scheduling inspections, issuing work orders, updating engine logbooks and chasing down technical publications. You're the link between the mechanics on the flight line and the records that prove an aircraft is safe to fly. Expect databases, reports, deadlines tied to flight schedules, and a lot of people asking you where a particular form went.",
+			"funFact": "AZ \"A\" School is in Meridian, Mississippi, and runs about eight weeks — short by Navy standards, but the records you learn to keep follow an aircraft for its entire service life.",
+			"goodFitIf": [
+				"You're fussy about details",
+				"You like aviation but prefer records to wrenches",
+				"You're comfortable with databases and forms",
+				"You can work steadily under deadline"
+			],
+			"tags": [
+				"aviation",
+				"administration",
+				"sea duty",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/culinary-specialist",
@@ -1313,7 +1709,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/business-logistics-administration/culinary-specialist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Cooks and runs the galley aboard Navy ships, submarines and shore bases, feeding crews and managing food supplies and budgets.",
+			"dayToDay": "You work in hot kitchens, serving lines, storerooms and dining areas, as part of a team on a shift schedule that starts well before breakfast and keeps going until the last meal is cleared. Between cooking you're counting stock, placing food orders, keeping financial records and enforcing food safety rules. Some Culinary Specialists also look after berthing and base lodging, or cook for commanding officers, admirals and visiting dignitaries.",
+			"funFact": "The Navy staffs the White House Mess, so some Culinary Specialists end up cooking for the President.",
+			"goodFitIf": [
+				"You like cooking for large groups",
+				"You can keep tidy records and inventories",
+				"You cope well with early starts",
+				"You enjoy working closely with people"
+			],
+			"tags": [
+				"cooking",
+				"hospitality",
+				"shipboard",
+				"submarines"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/human-resources-officer",
@@ -1368,7 +1782,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/business-logistics-administration/human-resources-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Manages Navy careers from the office side — counselling Sailors, handling records, transfers, promotions and personal hardship cases.",
+			"dayToDay": "Mostly office work on one of the Navy's major bases: interviews, service records, career counselling sessions, and a steady flow of paperwork for transfers, separations and retirements. You'll deal with Sailors at every stage — someone wanting a new rating, someone facing a family crisis, someone retiring after twenty years — and act as the link between your command and Navy Personnel Command. Some assignments are close supervision, others leave you largely on your own.",
+			"funFact": "Human Resources Officers go through Officer Development School in Newport, Rhode Island — a five-week course for Staff Corps officers covering Navy structure, traditions and etiquette, rather than the longer line-officer pipeline.",
+			"goodFitIf": [
+				"people trust you with problems",
+				"you like orderly records and systems",
+				"you want office hours, not sea duty",
+				"you enjoy giving career advice"
+			],
+			"tags": [
+				"human resources",
+				"administration",
+				"office-based",
+				"counselling"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/logistics-specialist",
@@ -1434,7 +1866,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/business-logistics-administration/logistics-specialist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Orders, stores and issues everything a Navy ship or base needs, from jet tires to mail, and keeps the records straight.",
+			"dayToDay": "Much of the work happens at a computer or a counter: ordering parts, logging inventory, checking financial records and handling requests from Sailors who need something yesterday. The rest is physical — receiving and inspecting cargo, sorting mail, moving stock in storerooms, warehouses or air cargo terminals. You might be in an office ashore, deep in a carrier's supply spaces, or, if you volunteer for submarines, squeezing stores into a boat where every inch is spoken for.",
+			"funFact": "Logistics Specialists also run the Navy's post offices at sea, so the person who hands you mail from home is often the same one who ordered the aircraft parts.",
+			"goodFitIf": [
+				"You're organised and good with numbers",
+				"You don't mind customer service",
+				"You like problems with concrete answers",
+				"You want transferable supply chain skills"
+			],
+			"tags": [
+				"logistics",
+				"supply chain",
+				"shipboard",
+				"submarine option"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/personnel-specialist",
@@ -1491,7 +1941,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/business-logistics-administration/personnel-specialist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Handles the paperwork and advice behind Sailors' careers — records, transfers, promotions, benefits and retirements.",
+			"dayToDay": "Mostly office work, either at a Personnel Support Detachment ashore or in a ship's personnel or admin office at sea. Expect a steady stream of Sailors at the counter with questions about pay, orders, benefits or education, plus service records to keep accurate and data to enter correctly the first time. You may also act as a cashier and look after the ATMs aboard ship.",
+			"funFact": "The rating's 'A' School is in Meridian, Mississippi, and runs about five weeks — short by Navy standards, because most of the real learning happens at the counter.",
+			"goodFitIf": [
+				"enjoy helping people solve problems",
+				"are careful with details and records",
+				"can stay patient at a counter",
+				"are eyeing an HR career later"
+			],
+			"tags": [
+				"administration",
+				"human resources",
+				"office-based",
+				"sea or shore duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/retail-services-specialist",
@@ -1549,7 +2017,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/business-logistics-administration/retail-services-specialist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the ship's store, barber shop, laundry and coffee bar, and keeps the books for all of it.",
+			"dayToDay": "You work in the small service spaces that keep a ship liveable: the store, the laundry, the barber's chair, the vending machines. Expect long hours on your feet dealing with shipmates all day, plus the quieter side of the job — stock orders, inventory databases, cash collections and financial records that have to balance. Shore stations are an option too, but the ship is where the rating earns its reputation.",
+			"funFact": "Shipboard barbering is a formal qualification in its own right — there's a dedicated \"C\" school for it later in your career.",
+			"goodFitIf": [
+				"you're good with people all day",
+				"numbers and cash handling don't scare you",
+				"you like detailed record-keeping",
+				"you want transferable civilian skills"
+			],
+			"tags": [
+				"shipboard",
+				"customer service",
+				"retail",
+				"bookkeeping"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/supply-corps-officer",
@@ -1609,7 +2095,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/business-logistics-administration/supply-corps-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the supply, food, fuel and money side of a Navy ship or shore command so nothing runs out mid-mission.",
+			"dayToDay": "You might spend the morning chasing a sonar part through the supply system, the afternoon on budgets and supplier bids, and the evening checking that dinner for several hundred Sailors is on track. The work happens in ship's offices, warehouses, air cargo terminals and submarines, and you'll lead teams of enlisted storekeepers and culinary specialists. Expect a lot of paperwork, deadlines dictated by someone else's repair schedule, and the occasional special cargo like medicines or explosives.",
+			"funFact": "The Supply Corps dates to 1795 and its officers are traditionally nicknamed \"Chop\" aboard ship, after the pork chop shape of the Corps' insignia.",
+			"goodFitIf": [
+				"you like spreadsheets and logistics puzzles",
+				"you want to lead people early",
+				"you can stay calm under deadlines",
+				"a business or STEM degree interests you"
+			],
+			"tags": [
+				"logistics",
+				"officer",
+				"sea duty",
+				"business"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/yeoman",
@@ -1683,7 +2187,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/business-logistics-administration/yeoman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the Navy's paperwork — correspondence, personnel files, legal records and pay — aboard ships, submarines and shore bases.",
+			"dayToDay": "You work in an office, but the office might be a compartment on a destroyer or a submarine. A normal day means typing and routing correspondence, keeping personnel and legal files straight, answering the phone, sorting mail, and chasing the paperwork that gets your shipmates promoted or paid. Sometimes you're alone with little supervision; sometimes you're the junior person in a tight team working directly for a Commanding Officer.",
+			"funFact": "Yeoman is one of the Navy's oldest ratings, and in 1917 the Navy enlisted women as \"Yeomen (F)\" — the first American women to serve in a non-nursing military role.",
+			"goodFitIf": [
+				"You're organised and notice details",
+				"You can write and talk to people",
+				"Discretion comes naturally to you",
+				"You'd rather be useful than visible"
+			],
+			"tags": [
+				"administration",
+				"clearance required",
+				"shipboard",
+				"submarines"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/builder",
@@ -1740,7 +2262,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/construction/builder"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Builds and repairs the Navy's buildings, bridges and wharves as part of the Seabees construction battalions.",
+			"dayToDay": "You're a tradesman in uniform — carpentry, concrete, masonry, roofing, drywall and finish work, plus reading blueprints and estimating materials. Work happens on base, on deployment, or in places flattened by a storm, usually outdoors and usually with a crew. Seabees are shore-based, so unlike most Sailors you'll rarely see the inside of a ship.",
+			"funFact": "\"Seabee\" comes from the initials of Construction Battalion (CB), and Builders make up the largest portion of the force.",
+			"goodFitIf": [
+				"like working with your hands",
+				"don't mind dirt and weather",
+				"are solid at practical maths",
+				"work well in a crew"
+			],
+			"tags": [
+				"construction",
+				"hands-on",
+				"trades",
+				"deployable"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/construction-electrician",
@@ -1794,7 +2334,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/construction/construction-electrician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Wires and powers everything the Seabees build — from pole lines and transformers to interior circuits and alarms.",
+			"dayToDay": "You work on construction sites rather than ships, usually at shore bases or deployed camps, so expect boots, tools and weather. A day might mean pulling wire inside a new building, climbing a 35-foot pole on gaffs to string line, servicing generators, or reading blueprints and working out how much cable the job needs. You're part of a Naval Mobile or Amphibious Construction Battalion, so you rotate between homeport and overseas work, including disaster recovery.",
+			"funFact": "The Seabees take their name from the initials of \"Construction Battalion\" (CB), and their motto, Construimus, Batuimus, means \"We build, we fight.\"",
+			"goodFitIf": [
+				"don't mind heights or heavy tools",
+				"like seeing a finished build",
+				"can keep careful records",
+				"want a civilian trade afterwards"
+			],
+			"tags": [
+				"construction",
+				"hands-on",
+				"seabees",
+				"electrical"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/construction-mechanic",
@@ -1850,7 +2408,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/construction/construction-mechanic"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Seabee vehicles and heavy equipment running — diesel engines, hydraulics, brakes, bulldozers, cranes and trucks.",
+			"dayToDay": "Most of the work happens in a maintenance shop or out in the dirt next to whatever has broken down, on a Seabee base or a deployed construction site. You diagnose faults, pull apart diesel and gas engines, chase down electrical and hydraulic problems, and keep records so the battalion knows what's fixed and what isn't. You're part of a construction battalion, so you work alongside equipment operators, builders and electricians, and may deploy to disaster-recovery or overseas building jobs.",
+			"funFact": "The name \"Seabee\" comes from the initials of Construction Battalion (CB), formed in 1942; their motto is \"Can Do,\" and unlike most Sailors they serve mainly ashore rather than at sea.",
+			"goodFitIf": [
+				"You like taking engines apart",
+				"You don't mind grease and heat",
+				"You're methodical about paperwork and records",
+				"You want to deploy ashore, not afloat"
+			],
+			"tags": [
+				"mechanics",
+				"seabees",
+				"hands-on",
+				"heavy equipment"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/engineering-aide",
@@ -1909,7 +2485,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/construction/engineering-aide"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Surveys land, draws plans and tests materials so Seabee construction projects are built correctly the first time.",
+			"dayToDay": "You work alongside Construction Engineers in the Seabees, moving between a field site with surveying instruments and a drafting table or laptop producing maps and drawings. A day might mean staking out a road alignment in the morning, computing earthwork volumes in the afternoon, and running concrete or soil tests in a small lab. You're based ashore at Navy bases or deployed with a construction battalion, sometimes to disaster-hit areas.",
+			"funFact": "The name \"Seabee\" comes from the initials of \"Construction Battalion\" (CB), formed in World War II so builders could defend what they built as well as build it.",
+			"goodFitIf": [
+				"You liked trigonometry and didn't resent it",
+				"You enjoy precise, detailed record-keeping",
+				"You want construction work without going to sea",
+				"You're curious about how things get built"
+			],
+			"tags": [
+				"construction",
+				"surveying",
+				"seabees",
+				"drafting"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/engineering-duty-officer",
@@ -1973,7 +2567,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/construction/engineering-duty-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy officer who designs, builds, repairs and overhauls warships and their combat systems — and sometimes runs deep-sea salvage and diving work.",
+			"dayToDay": "Most of the job happens ashore, at shipyards and engineering commands in places like Norfolk, Bremerton, Pearl Harbor, San Diego or Washington DC, working alongside civilian engineers, contractors and shipyard workers. A typical day is design reviews, technical problems, budgets and schedules rather than time underway — though overseas tours and sea assignments exist, and a small group qualify as salvage and diving officers. Expect long-running projects measured in years, not shifts.",
+			"funFact": "You don't join as one: Engineering Duty Officers are picked from warfare-qualified officers who've already proven themselves, and every one of them is required to earn a technical master's degree, usually at the Naval Postgraduate School or MIT.",
+			"goodFitIf": [
+				"You like maths and engineering detail",
+				"You're patient with long technical projects",
+				"You want to keep studying after commissioning",
+				"You enjoy managing budgets and people"
+			],
+			"tags": [
+				"engineering",
+				"shipbuilding",
+				"graduate study",
+				"diving and salvage"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/equipment-operator",
@@ -2031,7 +2643,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/construction/equipment-operator"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the Navy's heavy machinery — bulldozers, cranes, graders, dump trucks — building roads, runways and structures wherever the Seabees deploy.",
+			"dayToDay": "You're on construction sites rather than ships: Seabees are shore-based, so expect bases, ports and disaster zones around the world instead of a bunk at sea. A day might mean grading a roadbed, rigging cable on a crane crew for a lift or pile-driving job, or doing the minor maintenance that keeps a machine running. There's paperwork too — operational reports, material and labour estimates, and reading blueprints — and you do all of it as part of a battalion crew.",
+			"funFact": "The name \"Seabee\" comes from the initials of Construction Battalion (CB), formed in WWII; their motto, Construimus, Batuimus, means \"We Build, We Fight.\"",
+			"goodFitIf": [
+				"you like operating big machines",
+				"you're practical and good with your hands",
+				"you want civilian operator licences",
+				"you don't mind deploying anywhere"
+			],
+			"tags": [
+				"construction",
+				"heavy equipment",
+				"seabees",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/steelworker",
@@ -2087,7 +2717,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/construction/steelworker"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Welds and builds steel structures — bridges, towers, tanks, buildings — for Navy construction battalions, often in rough or remote places.",
+			"dayToDay": "You're a Seabee, so most of the work is on shore: a construction site at a base, a port of call, or a disaster zone being rebuilt. Days involve reading blueprints, cutting and welding structural steel, tying rebar for concrete, fitting sheet metal, and estimating materials, usually as part of a crew. You also keep up combat skills, because Seabees are expected to defend the site they're building.",
+			"funFact": "The Seabees' motto is \"We Build. We Fight.\" — the name comes from \"CB\", for Construction Battalion, formed in WWII when civilian contractors couldn't legally fight back if attacked.",
+			"goodFitIf": [
+				"you like making things with your hands",
+				"you can read a drawing carefully",
+				"you work well in a crew",
+				"you don't mind heat, heights and dirt"
+			],
+			"tags": [
+				"welding",
+				"construction",
+				"seabees",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/utilitiesman",
@@ -2141,7 +2789,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/construction/utilitiesman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Installs and repairs plumbing, heating, air conditioning and water treatment systems on Navy bases and in disaster zones worldwide.",
+			"dayToDay": "You're a Seabee, so most of your work happens ashore — base utility rooms, boiler plants, wastewater treatment facilities, or a half-built camp somewhere overseas. A day might mean chasing a leak in a steam line, running a sewage treatment plant, reading blueprints and estimating pipe and labour for a project, or helping restore water to a hospital after a storm. You work in small crews, often outdoors and in whatever weather the deployment hands you.",
+			"funFact": "The name 'Seabee' comes from the initials of Construction Battalion (CB), and the unit motto is 'We Build, We Fight' — they're trained in combat as well as construction.",
+			"goodFitIf": [
+				"you like working with your hands",
+				"you're happy deploying overseas",
+				"you keep careful records and measurements",
+				"you want a transferable trade"
+			],
+			"tags": [
+				"seabees",
+				"trades",
+				"disaster relief",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/fire-controlman",
@@ -2191,7 +2857,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/electronics-technology/fire-controlman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a warship's radars, computers and missile systems working, and operates them when the ship has to shoot.",
+			"dayToDay": "Most of the work happens below decks on a cruiser or destroyer: testing circuit cards, running diagnostics on computer suites, aligning radar and fire control gear, and logging every bit of it. At sea you stand watches at consoles in the combat information center, tracking contacts with systems like Aegis and the SPY-1 radar. It alternates between long, meticulous maintenance and short periods where everyone's attention is on one screen.",
+			"funFact": "Fire Controlman is one of only two ratings in the Advanced Electronics/Computer Field, which is why the initial technical school runs about 31 weeks before you even reach advanced training.",
+			"goodFitIf": [
+				"You enjoy careful troubleshooting",
+				"You like computers and electronics",
+				"You can keep meticulous records",
+				"You can hold a security clearance"
+			],
+			"tags": [
+				"electronics",
+				"radar",
+				"shipboard",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-electronics-technician",
@@ -2246,7 +2930,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/electronics-technology/aviation-electronics-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps the radar, navigation and weapons electronics on Navy aircraft working, repairing faults down to circuit-board level.",
+			"dayToDay": "You'll split time between a hangar or flight deck and a workshop or clean lab, running diagnostics on aircraft systems, reading wiring diagrams and soldering tiny repairs on circuit cards. Work happens ashore at air stations and at sea aboard carriers, often on shift patterns tied to flight schedules, alongside other aviation maintenance ratings. A lot of it is routine scheduled maintenance and corrosion control, punctuated by the hunt for a fault nobody else can find.",
+			"funFact": "Micro-miniature repair \ninvolves soldering components on circuit boards under a microscope \n\ns a Navy-taught skill that transfers directly to civilian avionics and manufacturing work.",
+			"goodFitIf": [
+				"enjoy methodical fault-finding",
+				"have steady hands and patience",
+				"like aircraft and computers",
+				"can handle sea deployments"
+			],
+			"tags": [
+				"aviation",
+				"electronics",
+				"clearance required",
+				"shipboard"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/electronics",
@@ -2302,7 +3004,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/electronics-technology/electronics"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a warship's radar, radio and navigation electronics working, and helps spot and track threats at sea.",
+			"dayToDay": "Much of the work happens in cramped equipment spaces and radio rooms aboard ship, or in workshops at a shore station, with a multimeter and a tech manual in hand. You'll troubleshoot faults in radar, satellite comms and navigation gear, calibrate equipment, log everything carefully and stand watches alongside a small team of technicians. At sea the pace follows the ship's schedule rather than the clock, and a broken transmitter doesn't wait for morning.",
+			"funFact": "The ET rating traces back to the radiomen and radar operators of the Second World War, when radar was so secret the word itself was barely spoken aloud.",
+			"goodFitIf": [
+				"You like fault-finding and fixing things",
+				"Detailed records don't bore you",
+				"You're comfortable living aboard ship",
+				"Maths and electronics come easily"
+			],
+			"tags": [
+				"electronics",
+				"radar",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/electronics-technician-navigation",
@@ -2360,7 +3080,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/electronics-technology/electronics-technician-navigation"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a submarine's navigation electronics working — radar, gyrocompass, inertial and GPS systems — so the boat knows where it is underwater.",
+			"dayToDay": "You work inside a submarine, in the control room and equipment spaces, standing watches on a rotating schedule for weeks or months at sea with no daylight and no internet. The work swings between quiet monitoring of navigation displays and hands-on fault-finding with test gear, hand tools and technical manuals. You're part of a small navigation team where everyone knows everyone, and ashore you may work in a clean lab or shop.",
+			"funFact": "Submarines spend long stretches unable to surface for a GPS fix, so they rely on inertial navigation — spinning gyroscopes and accelerometers that track every turn and acceleration to work out position from dead reckoning alone.",
+			"goodFitIf": [
+				"You're comfortable in confined spaces",
+				"You like detailed, methodical technical work",
+				"You can keep careful records",
+				"Electronics and troubleshooting interest you"
+			],
+			"tags": [
+				"submarines",
+				"electronics",
+				"clearance required",
+				"navigation"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/fire-control-technician",
@@ -2416,7 +3154,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/electronics-technology/fire-control-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a submarine's weapons electronics working — the computers and control systems behind torpedoes and missiles.",
+			"dayToDay": "Most of your working life happens inside a submarine, in tight, air-conditioned spaces full of racks and consoles. Days are a mix of routine testing and calibration, troubleshooting faults, logging everything carefully, and standing watch at combat control consoles; you'll also help handle weapons. Ashore, the same work moves into a shop, and there's no Reserve version of this job — it's full-time, underwater.",
+			"funFact": "The rating name 'fire control' has nothing to do with putting out fires — it comes from the old gunnery sense of controlling the firing of weapons, long before computers were involved.",
+			"goodFitIf": [
+				"You like electronics and methodical fault-finding",
+				"Small spaces don't bother you",
+				"You keep careful, accurate records",
+				"You're comfortable with maths and computers"
+			],
+			"tags": [
+				"submarines",
+				"electronics",
+				"clearance required",
+				"weapons systems"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/interior-communications-electrician",
@@ -2470,7 +3226,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/electronics-technology/interior-communications-electrician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a warship talking to itself — alarms, phones, intercoms, gyrocompasses and the ship's TV system.",
+			"dayToDay": "You work mostly indoors, in shops and in cramped spaces all over the ship, tracing wiring diagrams and chasing faults in everything from the bridge-to-engine-room phone circuits to alarm panels and batteries. Days swing between scheduled maintenance and sudden breakdowns that need fixing now, often without a manual that covers your exact problem. You'll alternate between shore commands and sea duty, working alongside engineers and other electrical ratings.",
+			"funFact": "ICs also look after the ship's entertainment television system, which makes them unusually popular — until the gyrocompass goes down and the ship loses its heading reference.",
+			"goodFitIf": [
+				"You like tracing faults methodically",
+				"Maths and circuits make sense to you",
+				"You don't mind tight, noisy spaces",
+				"You can work without instructions"
+			],
+			"tags": [
+				"electronics",
+				"shipboard",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/information-systems-technician",
@@ -2545,7 +3319,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/electronics-technology/information-systems-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs and repairs the computer networks, satellite links and radio comms that keep Navy ships and submarines connected.",
+			"dayToDay": "You work indoors in climate-controlled spaces full of servers, radios and racks — aboard a ship, a submarine, or at a shore communications station. The job swings between routine network administration and sudden troubleshooting: a satellite link drops, a user can't get into a system, a message has to go out regardless. You're part of a small team, you keep logs and handle classified material carefully, and you'll be the person others come to when something stops working.",
+			"funFact": "The rating splits in two: ITs train in Pensacola, Florida, while Information Systems Technician Submarines (ITS) train in Groton, Connecticut and then spend eight more weeks at Basic Enlisted Submarine School.",
+			"goodFitIf": [
+				"You like fixing things others broke",
+				"You can keep careful records",
+				"Submarine or shipboard life appeals",
+				"You'd pass a Top Secret background check"
+			],
+			"tags": [
+				"cyber",
+				"networking",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/missile-technician",
@@ -2599,7 +3391,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/electronics-technology/missile-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Maintains, tests and repairs the ballistic missiles and launch systems aboard Navy submarines.",
+			"dayToDay": "Most of the work happens inside a submarine's missile compartment or at shore facilities in Kings Bay, Georgia, or Bangor, Washington — confined spaces, close supervision, and a team that works and sleeps within arm's reach of each other. A day might mean checking hydraulic and electrical systems, running diagnostics on guidance computers, calibrating handling equipment, or standing security watch in the launch spaces. Occasionally you're outdoors loading missiles; mostly you're indoors with test gear, checklists and procedures that leave no room for improvisation.",
+			"funFact": "MTs are among the few Sailors who volunteer for submarine duty as a condition of the job, and the enlistment runs six years — four plus a 24-month extension signed at the same time.",
+			"goodFitIf": [
+				"you like methodical, procedure-driven work",
+				"confined spaces don't bother you",
+				"you're comfortable with electronics and mechanics",
+				"you can keep a secret indefinitely"
+			],
+			"tags": [
+				"submarines",
+				"nuclear weapons",
+				"electronics",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/damage-controlman",
@@ -2647,7 +3457,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/first-responder/damage-controlman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Fights fires, plugs leaks and handles chemical or radiological hazards aboard Navy ships, and trains the rest of the crew to do the same.",
+			"dayToDay": "Most days are maintenance and inspection: checking fire stations, hoses, breathing gear, watertight doors and the fixed suppression systems that nobody notices until they're needed. You'll also run drills and teach damage control and firefighting to shipmates who aren't specialists, so you spend real time standing in front of small groups. When something actually goes wrong — a burst pipe, flooding, a fire on the flight deck — you're the team that goes toward it.",
+			"funFact": "Damage control doctrine in the modern US Navy owes much to hard lessons from World War II, when ships were sometimes lost less to the initial hit than to fire and flooding afterwards.",
+			"goodFitIf": [
+				"stay calm when things go wrong",
+				"don't mind teaching and briefing others",
+				"like hands-on maintenance work",
+				"want to serve at sea"
+			],
+			"tags": [
+				"firefighting",
+				"shipboard",
+				"hands-on",
+				"emergency response"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/master-at-arms",
@@ -2702,7 +3530,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/first-responder/master-at-arms"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy police officer — guards bases and ships, investigates crimes, runs brigs and sometimes handles a working dog.",
+			"dayToDay": "Most of it is gate duty, patrols, standing armed posts and responding to whatever comes over the radio — plus the paperwork that follows every incident. You might be at a shore base in the US or overseas, aboard a ship, or on a small boat doing harbour security with a maritime squadron. Some Masters-at-Arms end up as K9 handlers, some run the brig, some do protective detail for senior officials and dignitaries.",
+			"funFact": "Master-at-Arms is one of the oldest ratings in the Navy, dating to the age of sail, when the ship's master-at-arms was responsible for small arms, discipline and keeping order among the crew.",
+			"goodFitIf": [
+				"stay calm when people don't",
+				"like working with dogs",
+				"want steady, people-facing work",
+				"can handle long hours standing post"
+			],
+			"tags": [
+				"law enforcement",
+				"k9",
+				"shipboard",
+				"security"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-machinists-mate",
@@ -2763,7 +3609,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/aviation-machinists-mate"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Repairs and maintains the engines, fuel systems and propellers that keep Navy aircraft flying.",
+			"dayToDay": "You work in hangars, on flight lines and on carrier flight decks — loud, oily places where the weather does what it likes. A day might mean pulling inspections on a jet engine, running oil analysis to spot wear, troubleshooting a gearbox or turning aircraft around between flights. You're part of a squadron maintenance team, and the paperwork matters as much as the wrenching: records have to be accurate because somebody flies on your signature.",
+			"funFact": "The rating splits into three strands — Helo, Turbojet and Turboprop — so your school and much of your career depend on which kind of engine you end up with.",
+			"goodFitIf": [
+				"You like taking machines apart",
+				"Detailed record-keeping doesn't bore you",
+				"You want aviation mechanic credentials early",
+				"Noise and grease don't put you off"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"engines",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-electricians-mate",
@@ -2828,7 +3692,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/aviation-electricians-mate"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps the electrical and electronic systems on Navy aircraft working — wiring, instruments, flight controls, radar and more.",
+			"dayToDay": "You'll split your time between squadron hangars, workshops and carrier flight decks, tracing faults with test equipment, pulling panels, checking wiring and signing off that a jet's systems are sound before it flies. Expect roughly 60% of assignments at sea, plenty of teamwork, and technical work that is also physical — crouching in confined spaces, working in heat and noise. The paperwork matters as much as the soldering: maintenance records are part of the job.",
+			"funFact": "The AE rating traces back to the early days of naval aviation, when aircraft electrical systems were little more than lights and a magneto; today the same rating covers fibre optics, laser electronics and digital flight control computers.",
+			"goodFitIf": [
+				"enjoy tracing faults methodically",
+				"can handle tough electronics coursework",
+				"like detailed precision work with tools",
+				"don't mind long stretches at sea"
+			],
+			"tags": [
+				"aviation",
+				"electronics",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-structural-mechanic",
@@ -2888,7 +3770,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/aviation-structural-mechanic"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Repairs and maintains the physical structure of Navy aircraft — landing gear, hydraulics, wings, ejection seats and all.",
+			"dayToDay": "Most of your work happens in hangars, on flight lines or on a carrier's flight deck, usually loud and usually hands-on. You'll run preflight and postflight inspections, swap out hydraulic components, patch metal, rig flight control surfaces and keep meticulous paperwork on all of it. It's team work on a squadron's schedule, which means the aircraft flies when it's ready, not when your shift ends.",
+			"funFact": "The AM rating splits into specialties over a career, and some AMs volunteer to fly as aircrew on jets, helicopters or propeller aircraft — maintaining the thing you're sitting in concentrates the mind.",
+			"goodFitIf": [
+				"You like tools and machines",
+				"You're careful with detailed records",
+				"You don't mind noise and weather",
+				"You work well in a team"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"mechanical",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-structural-mechanic-safety-equipment",
@@ -2944,7 +3844,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/aviation-structural-mechanic-safety-equipment"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Maintains the ejection seats, oxygen systems and cabin pressurisation that keep Navy aircrew alive at altitude.",
+			"dayToDay": "You work in hangars, on flight lines and on carrier flight decks, doing hands-on physical work in a tight team. A typical day means preflight and postflight inspections, servicing oxygen and air-conditioning systems, and rigging harnesses, lap belts and ejection seats to exact specifications. Paperwork matters as much as the wrenching — maintenance records on safety gear are checked closely, because a mistake has obvious consequences.",
+			"funFact": "AME is the only Navy rating with \"safety\" in its name, and those working on ejection-seat aircraft get an extra two weeks of egress training — the seats contain explosive cartridges.",
+			"goodFitIf": [
+				"you like detailed, careful work",
+				"tools and machines make sense to you",
+				"you don't mind physical work outdoors",
+				"you keep accurate records"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-support-equipment-technician",
@@ -3001,7 +3919,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/aviation-support-equipment-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps the tractors, generators, hydraulic rigs and other ground gear that Navy aircraft depend on running properly.",
+			"dayToDay": "You work on flight lines, in hangars, or on a carrier's deck, fixing engines, hydraulics, brakes, air conditioning and electrical systems on the vehicles and equipment that service aircraft. Expect noise, wind, grease and long hours alongside a tight team, plus careful paperwork on every job. One shift might be refilling aircraft oxygen, the next towing a jet below deck or welding a panel back onto a servicing unit.",
+			"funFact": "The trade's unofficial motto sums it up neatly: there's no air support without ground support — the aircraft may get the attention, but nothing moves without the yellow gear.",
+			"goodFitIf": [
+				"You like taking machines apart",
+				"Noise and weather don't bother you",
+				"You keep careful records",
+				"You want airline-transferable skills"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"mechanical",
+				"shipboard"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/boatswains-mate",
@@ -3066,7 +4002,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/boatswains-mate"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a Navy ship running on deck — seamanship, small boats, painting, rescues and ceremonies.",
+			"dayToDay": "Most of the work happens outside on deck, in weather, on a ship that may be anywhere in the world. A day might mean standing watch as a lookout, rigging lines to take on fuel and supplies from another ship at sea, running a small boat, or leading a crew chipping and painting. You work shoulder to shoulder with other deck Sailors, and as you advance you spend more time supervising them than swinging the hammer yourself.",
+			"funFact": "The crossed anchors on the BM badge mark one of the oldest ratings in the Navy, and Boatswain's Mates still pipe calls on the boatswain's whistle at ceremonies — a working signalling tool that outlived the age of sail.",
+			"goodFitIf": [
+				"like working outdoors in all weather",
+				"don't mind physical, repetitive work",
+				"want to lead a team early",
+				"are drawn to seagoing tradition"
+			],
+			"tags": [
+				"maritime",
+				"hands-on",
+				"physically demanding",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/electricians-mate",
@@ -3123,7 +4077,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/electricians-mate"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps the electricity running on Navy ships — wiring, motors, switchboards, lighting and shipboard elevators.",
+			"dayToDay": "Most of the work happens at sea, in an electrical shop or down in the spaces behind a panel, reading schematics and chasing faults in power distribution circuits, motors and lighting. You'll be part of an engineering department, doing scheduled maintenance most days and dropping everything when something trips offline. Expect physical work in tight, warm compartments, plus shore tours at shipyards and repair bases.",
+			"funFact": "Normal colour perception is a hard requirement for the rating — when wiring is identified by colour, getting it wrong on a warship is not a small mistake.",
+			"goodFitIf": [
+				"enjoy tracing faults to their source",
+				"like detailed hands-on work with tools",
+				"can read diagrams and blueprints",
+				"don't mind cramped, physical spaces"
+			],
+			"tags": [
+				"electrical",
+				"shipboard",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/engineman",
@@ -3182,7 +4154,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/engineman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs and repairs the diesel engines, pumps and machinery that keep a Navy ship moving and powered.",
+			"dayToDay": "Most of your time is spent in engine rooms and auxiliary machinery spaces — hot, loud, cramped, and rarely glamorous. You stand watches monitoring running engines and generators, then switch to maintenance: aligning piping, replacing valves and pumps, servicing refrigeration plants, water desalination gear and even galley equipment. It's physical work done in small teams, with a surprising amount of paperwork, since machinery records and readings have to be logged and analysed.",
+			"funFact": "Enginemen also look after the ship's small boats and its water desalination plants — on a long deployment, the drinking water comes from machinery your rating maintains.",
+			"goodFitIf": [
+				"You like taking machines apart",
+				"Heat and noise don't bother you",
+				"You keep careful records",
+				"You'd rather fix than supervise"
+			],
+			"tags": [
+				"diesel engines",
+				"shipboard",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/gunners-mate",
@@ -3243,7 +4233,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/gunners-mate"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a warship's guns, missile launchers and ammunition magazines working, stowed safely and ready to fire.",
+			"dayToDay": "Most of the work is maintenance: pulling apart gun mounts and launchers, chasing faults through wiring and hydraulics with blueprints in hand, testing calibration gear and inspecting weapons. You also manage magazines — stowing, securing and ordering explosives — and keep the flooding and sprinkler systems that protect them working. It's physical, team-based work in shops and out on deck in whatever weather the ship is sailing through, and you'll spend time training other Sailors on small arms too.",
+			"funFact": "Gunner's Mate is one of the Navy's oldest ratings, dating back to the age of sail — and the job still involves the magazine sprinkler and flooding systems, a precaution born from the days when a spark near the powder store could end a ship.",
+			"goodFitIf": [
+				"You like taking machinery apart",
+				"You're meticulous about records and safety",
+				"You don't mind weather on deck",
+				"You can hold a security clearance"
+			],
+			"tags": [
+				"weapons",
+				"shipboard",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/gas-turbine-systems-technician-electrical",
@@ -3305,7 +4313,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/gas-turbine-systems-technician-electrical"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps the electrical side of a warship's gas turbine engines and propulsion controls running at sea.",
+			"dayToDay": "Most of your time is spent below decks in engine rooms and electrical shops aboard ship — hot, loud, and cramped, with hearing protection on. You stand watches on electric plant and propulsion control equipment, chase down circuit faults with a multimeter, test batteries and switches, repair cables and connectors, and work through preventive maintenance checklists with schematics and blueprints in hand. You work in a small engineering team, and there's a fair bit of paperwork and work-area inspections alongside the wrench and meter work.",
+			"funFact": "Navy gas turbines are close relatives of jet engines — the LM2500 used in many warships is derived from the engine that powers the DC-10 and C-5 transport aircraft.",
+			"goodFitIf": [
+				"enjoy tracing electrical faults",
+				"don't mind heat and noise",
+				"like ships more than offices",
+				"are methodical with checklists"
+			],
+			"tags": [
+				"shipboard",
+				"electrical",
+				"clearance required",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/gas-turbine-systems-technician-mechanical",
@@ -3365,7 +4391,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/gas-turbine-systems-technician-mechanical"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs and repairs the gas turbine engines and propulsion machinery that drive Navy warships.",
+			"dayToDay": "Most of your time is spent at sea, down in hot, loud engine rooms standing watch on propulsion control systems and keeping the turbines, generators and auxiliary gear running. You'll read blueprints and schematics, test fuel and lube oil for contamination, chase down valve and piping problems, and do the preventive maintenance paperwork that goes with all of it. It's physical work in a small team, on a watch rotation that doesn't stop just because it's 3am.",
+			"funFact": "Navy gas turbines are close relatives of jet engines — the LM2500 used in many warships is derived from the same engine family that powers airliners.",
+			"goodFitIf": [
+				"you like machinery and tools",
+				"you don't mind heat and noise",
+				"you're happy spending months at sea",
+				"you're methodical about maintenance"
+			],
+			"tags": [
+				"shipboard",
+				"hands-on",
+				"engineering",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/hull-maintenance-technician",
@@ -3429,7 +4473,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/hull-maintenance-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Welds, fabricates and plumbs — the Sailor who repairs a ship's metal structure, piping and hull damage at sea.",
+			"dayToDay": "Most HTs work aboard ship, running their own shop with welding gear, pipe benders and testing equipment, fixing everything from a leaking sanitary line to a cracked deck plate. The job takes you everywhere on the vessel, from the bilges to the pilothouse, sometimes in a hot compartment and sometimes outdoors in whatever weather the ocean offers. Expect a mix of hands-on metalwork, inspections and quality-assurance paperwork, usually alongside a small team of engineers.",
+			"funFact": "HTs operate radiological, ultrasonic and magnetic particle testing equipment — the same non-destructive testing methods used to inspect welds in civilian shipyards and pipelines.",
+			"goodFitIf": [
+				"enjoy welding and metalwork",
+				"stay calm fixing things under pressure",
+				"like detailed records as well as tools",
+				"don't mind cramped, hot spaces"
+			],
+			"tags": [
+				"welding",
+				"shipboard",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/machinists-mate",
@@ -3489,7 +4551,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/machinists-mate"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a warship moving by running and repairing its engines, boilers, pumps and other mechanical systems at sea.",
+			"dayToDay": "Most of the work happens below decks in engine rooms, boiler rooms and machine shops — hot, loud spaces where you stand watches on running machinery and then fix whatever broke on the last watch. You'll align piping for oil, water, air and steam, repair pumps, valves and turbines, and keep the less glamorous but vital kit going: desalination plants, air conditioning, steering gear, galley equipment. It's physical, team-based work with a lot of logging and paperwork attached, because machinery records matter as much as the wrenching.",
+			"funFact": "Machinist's Mate is one of the Navy's oldest ratings, and the engineering spaces crew have long been nicknamed \"snipes\" — a term that covers the below-decks engineering world generally.",
+			"goodFitIf": [
+				"You like taking machinery apart",
+				"Heat and noise don't bother you",
+				"You'd rather fix than theorise",
+				"You work well in a tight team"
+			],
+			"tags": [
+				"hands-on",
+				"shipboard",
+				"engineering",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/machinists-mate-auxiliary",
@@ -3549,7 +4629,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/machinists-mate-auxiliary"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps a submarine liveable — oxygen, fresh water, heat, hydraulics and diesels — while it's submerged.",
+			"dayToDay": "You work inside a steel tube underwater, usually in cramped machinery spaces, on a watch rotation rather than a nine-to-five. A day might mean running the oxygen generator and CO2 scrubbers, chasing a leaking valve, testing the emergency diesel, fixing the galley fridge, then writing it all up in maintenance records. You're part of 'A-Gang', a small crew who all know each other's habits very well, because there's nowhere else to go.",
+			"funFact": "Submariners call the auxiliary division 'A-Gang' — the people who make drinking water out of seawater and breathable air out of seawater too, via electrolysis in the oxygen generator.",
+			"goodFitIf": [
+				"like fixing mechanical things",
+				"can live in tight spaces",
+				"keep careful records",
+				"work well in a small team"
+			],
+			"tags": [
+				"submarines",
+				"hands-on",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/mineman",
@@ -3606,7 +4704,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/mineman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Finds underwater mines using sonar and robot submersibles, then neutralises them or recovers them for study.",
+			"dayToDay": "Much of the work happens in a mechanical shop or on deck aboard a minesweeper, and it's physical: rigging gear, driving forklifts and cranes, sandblasting and grinding, torquing bolts. The other half is precise and quiet — operating sonar, flying a remotely operated vehicle, tracing electrical faults with test meters, assembling and testing explosive devices. You work in small teams where everyone knows what everyone else is doing, because the margin for sloppiness is thin.",
+			"funFact": "Minesweepers are among the few Navy ships deliberately built with low magnetic signatures — historically using wood and fibreglass hulls — so they don't set off the very mines they're hunting.",
+			"goodFitIf": [
+				"you like detailed, careful handwork",
+				"you're comfortable with physical team labour",
+				"you enjoy electronics and troubleshooting",
+				"you can stay calm around explosives"
+			],
+			"tags": [
+				"maritime",
+				"explosives",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/machinery-repairman",
@@ -3664,7 +4780,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/machinery-repairman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs lathes, mills and grinders in a ship's machine shop, making and repairing the parts that keep everything running.",
+			"dayToDay": "Most of your work happens indoors in a machine shop, either aboard a ship or at a repair base ashore. A job arrives as a broken part or a sketch, and you work out the materials and time, cut the metal, and check it with calipers, depth gauges and protractors until it fits. You'll also repair auxiliary machinery, engrave, and do electroplating and flame spraying, usually alongside a small shop crew who know each other well.",
+			"funFact": "Shipboard machine shops exist because a ship at sea can't order a replacement bolt — if the part doesn't exist, an MR makes it from stock metal.",
+			"goodFitIf": [
+				"You like precise, hands-on work",
+				"Arithmetic doesn't put you off",
+				"You're curious about how machines fail",
+				"You can keep careful records"
+			],
+			"tags": [
+				"machining",
+				"hands-on",
+				"shipboard",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aviation-survival-equipmentman",
@@ -3721,7 +4855,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/industrial-mechanical/aviation-survival-equipmentman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Packs parachutes and maintains the survival gear, oxygen systems and life rafts that keep Navy aircrew alive in an emergency.",
+			"dayToDay": "Most of the work happens indoors — in a hangar loft or a shop aboard a carrier — folding and packing parachutes, testing oxygen regulators, inspecting flight gear and sewing repairs on harnesses and protective clothing on industrial machines. There's paperwork too: every inspection is logged, because someone's life may depend on the record being right. You'll also spend time on flight decks and flight lines, and if you volunteer for aircrew duty you can fly.",
+			"funFact": "The rating's creed is \"the last ones to let you down\" — a pun riggers have been repeating for decades.",
+			"goodFitIf": [
+				"You're meticulous about small details",
+				"You like sewing and hand tools",
+				"You can follow a checklist exactly",
+				"You want work that visibly matters"
+			],
+			"tags": [
+				"aviation",
+				"hands-on",
+				"safety equipment",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/operations-specialist",
@@ -3770,7 +4922,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/operations-specialist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Tracks ships, aircraft and submarines on radar from a warship's darkened Combat Information Center, and tells the command what it's seeing.",
+			"dayToDay": "Most of your time is spent in the CIC — a dim, air-conditioned, classified compartment below decks, full of screens, radios and status boards. You stand watches around the clock, tracking and classifying contacts on radar, talking on circuits to the bridge, aircraft and other ships, and passing recommendations up the chain. It's mental work done shoulder-to-shoulder with a small team, alternating between sea duty and shore commands over a career.",
+			"funFact": "The Combat Information Center was a Second World War invention, born when radar began producing more contacts than anyone on the bridge could sensibly keep track of.",
+			"goodFitIf": [
+				"stay calm under pressure",
+				"like radar, maps and plotting",
+				"can talk clearly on a radio",
+				"enjoy working as a tight team"
+			],
+			"tags": [
+				"radar",
+				"shipboard",
+				"clearance required",
+				"watchstanding"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/communications-systems-warfare-officer",
@@ -3831,7 +5001,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/communications-systems-warfare-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy officer who runs and defends the networks and radios that keep ships, staffs and commanders talking to each other.",
+			"dayToDay": "Work splits between ships at sea and shore commands — San Diego, Hawaii, Japan, Italy, Bahrain, or a staff job at the Pentagon. You lead divisions of Information Systems Technicians who keep networks, satellite links and classified systems running, so a lot of the day is troubleshooting outages, briefing commanders, managing watchbills and writing evaluations. Expect long stretches of routine network administration punctuated by urgent problems where the ship has suddenly lost connectivity and everyone is looking at you.",
+			"funFact": "The community's core idea is \"Assured Command and Control\" — the assumption that an adversary will try to jam or cut your communications, so part of the job is writing tactics for fighting without them.",
+			"goodFitIf": [
+				"enjoy networks and systems engineering",
+				"want to lead technical teams",
+				"can hold a TS/SCI clearance",
+				"are fine deploying worldwide"
+			],
+			"tags": [
+				"cyber",
+				"networks",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/cryptologic-warfare-officer",
@@ -3884,7 +5072,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/cryptologic-warfare-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Leads Navy signals intelligence and cyber operations, turning intercepted information into options for fleet commanders.",
+			"dayToDay": "Much of the work happens in windowless, badged spaces — an NSA cryptologic centre, a Pentagon office, a ship's secure compartment — reading intelligence, planning information warfare effects and briefing commanders who need an answer now. You rotate between sea tours, shore tours and schools, and you spend a lot of time leading Cryptologic Technicians, the enlisted specialists who do the hands-on signals work. Expect long stretches of analysis and planning punctuated by exercises and real operations.",
+			"funFact": "The Navy's cryptologic community traces back to the codebreakers whose work on Japanese naval traffic set up the ambush at Midway in 1942 — arguably the single most consequential intelligence coup in US naval history.",
+			"goodFitIf": [
+				"you have a technical degree",
+				"you can keep secrets indefinitely",
+				"you like analysis more than attention",
+				"you want postgraduate study later"
+			],
+			"tags": [
+				"cyber",
+				"intelligence",
+				"clearance required",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/cryptologic-technician-interpretive",
@@ -3941,7 +5147,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/cryptologic-technician-interpretive"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy linguist who listens to, translates and analyses foreign communications, then reports what matters to commanders.",
+			"dayToDay": "It starts with language school in Monterey, California — anywhere from about six months to well over a year of full-time immersion in Mandarin, Russian, Arabic, Korean, Persian-Farsi or Spanish. After that, most of the work happens at a shore command in a quiet office or technical space, wearing headphones at a radio receiver or computer, transcribing and translating material and writing it up for people who will act on it. Expect temporary trips out to ships, submarines and aircraft, work in small teams, and a job you mostly cannot discuss outside the building.",
+			"funFact": "The Defense Language Institute in Monterey is one of the largest language schools in the world, and students are typically drilled in their target language for several hours a day, five days a week.",
+			"goodFitIf": [
+				"you pick up languages quickly",
+				"you have patience for detail",
+				"you can keep secrets permanently",
+				"you're curious about other cultures"
+			],
+			"tags": [
+				"languages",
+				"intelligence",
+				"clearance required",
+				"travel"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/cryptologic-technician-maintenance",
@@ -3992,7 +5216,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/cryptologic-technician-maintenance"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps the Navy's classified electronics, antennas and secure networks working — installing, testing and repairing them ashore and at sea.",
+			"dayToDay": "You'll spend most of your time in a maintenance shop or equipment space — air-conditioned, well-lit, full of test gear — chasing faults through electronics, computers and networks with diagnostic software, hand tools and thick technical manuals. Work might be regular day shifts in a big facility, rotating watch, or a two-person independent billet where you're the whole repair department. Expect roughly half your assignments at sea, on ships, submarines or overseas shore commands.",
+			"funFact": "The Cryptologic Technician ratings all trace back to the Navy's World War II codebreaking effort; CTM is the branch that keeps the machinery running rather than listening to or analysing the signals.",
+			"goodFitIf": [
+				"enjoy tracing faults to their source",
+				"like electronics and hands-on repair",
+				"can hold a security clearance",
+				"don't mind long stretches at sea"
+			],
+			"tags": [
+				"electronics",
+				"clearance required",
+				"sea duty",
+				"networks"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/cryptologic-technician-collection",
@@ -4041,7 +5283,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/cryptologic-technician-collection"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Intercepts and analyses enemy radio and electronic signals at sea, turning them into warnings and intelligence for ships and special warfare teams.",
+			"dayToDay": "Most of the work happens in a secure, windowless space — clean, quiet, closely supervised — either on a ship, a patrol aircraft, or at a shore command overseas. You'll spend hours monitoring signals on specialised equipment, picking out patterns in noise, and writing up reports that other people act on quickly. Expect roughly 60% of assignments at sea, and expect not to be able to tell your family much about any of it.",
+			"funFact": "Navy cryptologists trace their lineage to the Second World War codebreakers whose signals work shaped the Battle of Midway — the rating still carries that reputation for patient, unglamorous pattern-spotting.",
+			"goodFitIf": [
+				"enjoy puzzles and spotting patterns",
+				"can keep secrets indefinitely",
+				"don't mind long sea deployments",
+				"have patience for detailed, repetitive work"
+			],
+			"tags": [
+				"signals intelligence",
+				"clearance required",
+				"sea duty",
+				"classified"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/cryptologic-technician-technical",
@@ -4095,7 +5355,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/cryptologic-technician-technical"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Reads enemy radar signals at sea and jams them, warning ships before a missile ever gets close.",
+			"dayToDay": "Most of the work happens in air-conditioned, locked spaces full of receivers, analysis terminals and screens — aboard a ship, a submarine, an aircraft squadron or a shore command. You watch and classify radar emissions, work out what's transmitting and where from, and pass that straight to the people steering the ship or planning the operation. Teams are small, supervision is light, and the effort is mental rather than physical; you'll alternate between sea tours and shore tours, often overseas.",
+			"funFact": "Electronic jamming of enemy radar dates to World War II, when aircrews dumped bundles of metal foil strips — codenamed \"Window\" by the British and \"chaff\" by the Americans — to blind German radar sets.",
+			"goodFitIf": [
+				"you notice patterns others miss",
+				"you're comfortable keeping secrets",
+				"maths and electronics interest you",
+				"you work well unsupervised"
+			],
+			"tags": [
+				"signals intelligence",
+				"clearance required",
+				"shipboard",
+				"electronic warfare"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/cyber-warfare-technician",
@@ -4151,7 +5429,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/cyber-warfare-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Defends Navy computer networks and runs offensive cyber operations, hunting intruders and investigating what they left behind.",
+			"dayToDay": "Most of the work happens in secure, windowless office spaces full of screens, either at a shore command, aboard ship or submarine, or occasionally attached to special warfare units. You'll usually be on a watch team, so hours rotate around the clock rather than nine-to-five, working alone or in small teams under cryptologic warfare officers. A shift might mean monitoring network traffic, assessing vulnerabilities, responding to an intrusion, or developing tools for accessing targets.",
+			"funFact": "The rating is new in name only — until recently CWTs were called Cryptologic Technicians (Networks), part of a cryptologic lineage in the Navy that stretches back to codebreaking in the World Wars.",
+			"goodFitIf": [
+				"enjoy picking apart technical problems",
+				"can hold a Top Secret clearance",
+				"don't mind rotating watch hours",
+				"like learning systems in depth"
+			],
+			"tags": [
+				"cyber",
+				"clearance required",
+				"technical",
+				"watchstanding"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/cyber-warfare-engineer",
@@ -4200,7 +5496,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/cyber-warfare-engineer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Writes the software and firmware the Navy uses to defend its networks and operate in cyberspace.",
+			"dayToDay": "Mostly a desk-and-keyboard job at a shore command like a Navy Information Operations Command in Maryland, often alongside civilian and joint partners near Fort Meade. You research, design, build and test tools, then evaluate how they hold up — code reviews, reverse engineering, long stretches of deep technical work rather than field exercises. Expect classified spaces, badge readers, and a steady diet of National Cryptologic School courses and on-the-job training.",
+			"funFact": "The degree requirement is unusually specific: your computer science or computer engineering degree must come from one of the 150-plus NSA-designated Centers of Academic Excellence.",
+			"goodFitIf": [
+				"You already write real code",
+				"You want deep technical work, not management",
+				"You can pass a Top Secret/SCI clearance",
+				"You enjoy taking systems apart"
+			],
+			"tags": [
+				"cyber",
+				"software engineering",
+				"clearance required",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/intelligence-officer",
@@ -4254,7 +5568,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/intelligence-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Turns satellite imagery, intercepts and reports into assessments commanders use to make decisions, and leads the analysts who do the work.",
+			"dayToDay": "Most of the work happens in a windowless secure space — on a carrier, an amphibious ship, a shore installation or a joint intelligence centre — reading, correlating and briefing. You'll spend a lot of time preparing assessments for senior decision makers, planning intelligence support for strike or air wing missions, and supervising enlisted Intelligence Specialists. Pace swings between long analytical slogs and sudden demands for an answer right now.",
+			"funFact": "Intelligence officers in the fleet are often simply called \"intel\", and new ones typically start with a 30-month operational tour attached to an aviation squadron, air wing staff or ship.",
+			"goodFitIf": [
+				"enjoy spotting patterns in messy data",
+				"can brief senior people clearly",
+				"can hold a security clearance",
+				"don't mind windowless rooms"
+			],
+			"tags": [
+				"intelligence",
+				"security clearance",
+				"analysis",
+				"shipboard"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/navy-intelligence-specialist",
@@ -4312,7 +5644,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/navy-intelligence-specialist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Gathers and analyses classified information, then turns it into briefings and maps that Navy commanders use to make decisions.",
+			"dayToDay": "Most of your work happens in a windowless office or watch space, either ashore at an intelligence centre or afloat on a carrier or big-deck ship — expect roughly half your assignments at sea. You read, cross-check and plot information, build graphics and overlays, and write or deliver briefings to officers who may outrank you considerably. It's close teamwork under Intelligence Officers, but you're also expected to dig into a problem on your own and come back with an answer.",
+			"funFact": "Every member of your immediate family is vetted too — the Top Secret/SCI clearance IS work requires looks at your relatives' citizenship, not just yours.",
+			"goodFitIf": [
+				"enjoy research and detail work",
+				"can speak and write clearly",
+				"keep secrets without fuss",
+				"like making sense of messy information"
+			],
+			"tags": [
+				"intelligence",
+				"clearance required",
+				"analytical",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/maritime-cyber-warfare-officer",
@@ -4365,7 +5715,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/maritime-cyber-warfare-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Leads Navy teams that defend military networks and conduct offensive cyber operations against foreign adversaries.",
+			"dayToDay": "Most of the work happens in secure, windowless spaces on shore — planning operations, poring over network data with your team, and briefing commanders on what's possible in the cyber domain. You lead small specialised teams (mission teams, protection teams) rather than doing all the technical work yourself, though you're expected to understand it properly. Assignments can take you anywhere in the world, and nearly everything you do is classified, so you won't be telling friends much about your week.",
+			"funFact": "The Navy's cyber force sits under Fleet Cyber Command, which also runs the Tenth Fleet — a numbered fleet originally created in 1943 to hunt U-boats, disestablished after the war, and revived in 2010 with no ships at all.",
+			"goodFitIf": [
+				"You enjoy networks and how they break",
+				"You can hold a security clearance",
+				"You want to lead technical people",
+				"You're comfortable with secrecy"
+			],
+			"tags": [
+				"cyber",
+				"clearance required",
+				"officer",
+				"technical degree"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/quartermaster",
@@ -4421,7 +5789,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/quartermaster"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navigates Navy ships — keeping the charts, instruments and bridge watch that tell the ship exactly where it is.",
+			"dayToDay": "You work up on the bridge or in the pilot house, standing watch alongside the Officer of the Deck and the navigator, sometimes with your hands on the helm. The job mixes careful paperwork — correcting charts, keeping publications current, logging the ship's position — with real-time decisions when the ship is manoeuvring. Expect roughly 60% of your assignments at sea, on watch rotations that run through sunrise and sunset alike.",
+			"funFact": "Quartermasters still send and receive visual messages by flashing light and flags, and render honours and ceremonies to foreign custom — traditions that predate radio by centuries.",
+			"goodFitIf": [
+				"You like maps and precise records",
+				"You stay calm on watch",
+				"Arithmetic doesn't put you off",
+				"You want time at sea"
+			],
+			"tags": [
+				"navigation",
+				"maritime",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/sonar-technician",
@@ -4487,7 +5873,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/sonar-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Listens to and interprets underwater sound aboard ships and submarines to find, track and classify what's down there.",
+			"dayToDay": "You work indoors, in a darkened combat information center on a destroyer or cruiser, or in the sonar shack of a submarine, wearing headphones and watching displays for hours. Much of the job is patient listening and careful classification — telling a submarine from a whale from a passing merchant — plus a fair amount of maintenance, calibration and repair on the equipment itself. You feed what you find to navigation and fire control teams, often with little supervision and a small group of watchstanders around you.",
+			"funFact": "Sonar operators are trained to recognise marine life by ear as well as ships — whales, shrimp beds and other natural noise all show up on the same gear used to hunt submarines.",
+			"goodFitIf": [
+				"You have genuinely sharp hearing",
+				"You can concentrate for long stretches",
+				"Electronics and troubleshooting appeal to you",
+				"You'd consider living aboard a submarine"
+			],
+			"tags": [
+				"submarines",
+				"electronics",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/surface-warfare-officer-swo",
@@ -4536,7 +5940,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/intelligence-information-cryptology/surface-warfare-officer-swo"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Commissioned officer who runs divisions aboard Navy ships — engineering, weapons, navigation — and works toward eventually commanding one.",
+			"dayToDay": "Most of your early career happens at sea, on a destroyer, cruiser, amphib or carrier, where you lead a division of Sailors responsible for one chunk of the ship — maybe the engineering plant, maybe the combat systems. Days run on watch rotations, so you'll stand bridge or engineering watches at odd hours, then do paperwork, maintenance checks and divisional leadership in between. Shore tours come later: staff jobs, the Pentagon, graduate school in Monterey, or a stint recruiting.",
+			"funFact": "SWOs are sometimes nicknamed \"ship drivers,\" and the gold pin they earn after qualifying — crossed cutlasses over a ship's bow — is one of the oldest-looking warfare devices in the Navy.",
+			"goodFitIf": [
+				"Like leading people face to face",
+				"Don't mind long stretches at sea",
+				"Enjoy learning technical systems quickly",
+				"Can function on broken sleep"
+			],
+			"tags": [
+				"maritime",
+				"leadership",
+				"officer",
+				"engineering"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/legalman",
@@ -4591,7 +6013,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/legal/legalman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy paralegal who supports JAG Corps lawyers with research, court-martial paperwork and legal help for service members and their families.",
+			"dayToDay": "Most of the work happens in a legal office, though it could be ashore, aboard a ship or with an air squadron, and the job can take you overseas. You'll draft legal forms and letters, interview people, do research, keep records and publications in order, and prepare official accounts of hearings, investigations and courts-martial. You work closely with JAG officers and with Sailors, retirees and families who need legal assistance — a lot of typing, deadlines and precision.",
+			"funFact": "Legalman training happens at the Naval Justice School in Newport, Rhode Island, and the basic course alone earns 10 semester hours of American Bar Association–approved credit toward a paralegal degree.",
+			"goodFitIf": [
+				"you write clearly and carefully",
+				"details and deadlines don't rattle you",
+				"you're considering a legal career",
+				"you can keep confidences"
+			],
+			"tags": [
+				"legal",
+				"paralegal",
+				"office-based",
+				"travel"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/jag",
@@ -4656,7 +6096,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/legal/jag"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "A Navy lawyer who prosecutes and defends courts-martial, advises commanders, and handles everything from maritime law to national security law.",
+			"dayToDay": "You might be in a courtroom at a naval base, in an office drafting advice on the law of armed conflict, or aboard a ship advising a commander on what he can and can't lawfully order. The practice swings widely: criminal litigation one tour, environmental or international law the next, with travel to bases and installations at home and abroad. Your clients are Sailors and Marines and the officers who lead them, and you're expected to give real advice from your first assignment rather than spend years carrying someone else's briefcase.",
+			"funFact": "Naval Justice School in Newport, Rhode Island, trains judge advocates for the Navy, Marine Corps and Coast Guard alike — ten weeks covering military justice, trial advocacy and national security law before you ever see your first case.",
+			"goodFitIf": [
+				"You're in or finishing an ABA-accredited law school",
+				"You want courtroom time early",
+				"Varied practice areas appeal more than specialising",
+				"You don't mind moving every few years"
+			],
+			"tags": [
+				"legal",
+				"officer",
+				"law degree required",
+				"courtroom"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aerospace-operational-physiology",
@@ -4731,7 +6189,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/aerospace-operational-physiology"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Studies how flight stresses the human body, then trains aircrew and improves the gear that keeps them conscious and alive.",
+			"dayToDay": "You might spend a morning running aircrew through altitude chambers, spatial disorientation trainers or water survival drills, and an afternoon on research or testing life-support equipment in a lab or aboard aircraft. Work happens at Aviation Survival Training Centers, research units and air wings, from Florida to Japan. You're constantly around pilots and maintainers, part teacher, part scientist, part safety officer.",
+			"funFact": "Because g-forces, hypoxia and disorientation can incapacitate a pilot long before the aircraft fails, much of this job is about the aircrew's physical limits rather than the jet's.",
+			"goodFitIf": [
+				"You have a physiology or bioscience degree",
+				"You enjoy teaching as much as research",
+				"You're a strong swimmer, comfortable near aircraft",
+				"Extreme environments genuinely interest you"
+			],
+			"tags": [
+				"aviation",
+				"medical",
+				"research",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aerospace-experimental-psychology",
@@ -4793,7 +6269,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/aerospace-experimental-psychology"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Researches how flight stresses affect pilots' minds and bodies, then redesigns cockpits, training and selection to cut aircrew error.",
+			"dayToDay": "Mostly a research and advisory job: lab and office work at places like Pensacola or Navy medical centres, running studies, testing how new aircraft systems affect the people flying them, and briefing engineers and aviators on what you find. You work alongside flight surgeons, physiologists, squadron personnel and sometimes Marines, and you may also teach, manage programmes or advise senior staff. You're required to log flight time every month, so part of the job is in the back seat feeling the stresses you're writing about.",
+			"funFact": "Aerospace Experimental Psychologists earn the Navy's gold aviation wings — one of the few non-flying specialties to do so, having gone through aviation preflight indoctrination, water survival and flight instruction in the T-34C and TH-57.",
+			"goodFitIf": [
+				"already hold a research doctorate",
+				"like data more than clinical caseloads",
+				"can pass aviation physical standards",
+				"enjoy moving every three years"
+			],
+			"tags": [
+				"aviation",
+				"research",
+				"human factors",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/audiology",
@@ -4855,7 +6349,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/audiology"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Tests, protects and treats the hearing of Sailors and Marines who work around very loud machinery.",
+			"dayToDay": "Most of your time is spent in a clinic running hearing tests, fitting hearing aids and working through rehabilitation with patients whose hearing has changed. The other half of the job is prevention: running hearing conservation programmes, checking that flight deck crews' earplugs and cranials actually fit, and advising commands on noise exposure. Postings range from big medical centres like Bethesda, Portsmouth or San Diego to overseas bases, ships and humanitarian missions.",
+			"funFact": "Navy audiologists work alongside some of the loudest workplaces on earth — an aircraft carrier flight deck — which is why hearing conservation is treated as a combat readiness issue, not just a health one.",
+			"goodFitIf": [
+				"already hold an Au.D. or master's",
+				"like patient care plus prevention work",
+				"are comfortable moving between clinic and fleet",
+				"enjoy explaining things clearly to people"
+			],
+			"tags": [
+				"healthcare",
+				"clinical",
+				"officer",
+				"hearing conservation"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/clinical-psychology",
@@ -4947,7 +6459,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/clinical-psychology"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Doctoral-level psychologist who treats Sailors, Marines and their families, from base clinics to aircraft carriers and SEAL teams.",
+			"dayToDay": "Most of the work looks like clinical practice anywhere: assessments, therapy sessions, crisis calls, report writing. The difference is the setting and the caseload — post-traumatic stress, deployment separation, grief, anger, career strain — and the fact that you might be doing it at a major medical centre in San Diego or Bethesda, at a small clinic in Japan or Guam, or at sea. You'll also run seminars for units and leadership, join training exercises, and often teach or mentor psychologists coming up behind you.",
+			"funFact": "The Navy runs its own APA-accredited doctoral internships at Walter Reed in Bethesda and the Naval Medical Center in San Diego, with applications due 1 December and decisions announced on a nationally fixed date in February.",
+			"goodFitIf": [
+				"You already hold or are finishing a doctorate",
+				"You want clinical work outside a normal clinic",
+				"You can hold steady in a crisis",
+				"You don't mind moving overseas"
+			],
+			"tags": [
+				"mental health",
+				"officer",
+				"medical",
+				"overseas"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/dentist",
@@ -5018,7 +6548,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/dentist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Provides dental care to Sailors, Marines and their families, at clinics ashore, aboard ships and on overseas missions.",
+			"dayToDay": "Most days look like civilian dentistry: checkups, fillings, preventive work, digital X-rays — except your patients are service members and their dependents, and you are not paying for the equipment or malpractice insurance. You might be in a multi-specialty clinic or teaching hospital in San Diego or Bethesda, or deployed with the Seabees, a Marine unit, or a hospital ship. Alongside the clinical work you are a commissioned officer, with the leadership and administrative duties that come with it.",
+			"funFact": "The Navy runs two dedicated hospital ships, USNS Comfort and USNS Mercy — both converted oil tankers — and dentists serve aboard them on humanitarian missions.",
+			"goodFitIf": [
+				"You already hold a dental degree",
+				"You want clinical work plus travel",
+				"You don't mind military structure",
+				"You'd rather not run a practice"
+			],
+			"tags": [
+				"dentistry",
+				"officer",
+				"medical",
+				"travel"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/environmental-health",
@@ -5094,7 +6642,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/environmental-health"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Sailors and Marines from getting sick — inspecting food and water, tracking disease outbreaks and advising commanders on sanitation.",
+			"dayToDay": "Expect a mix of desk work and walking around: inspecting galleys and water systems, crunching surveillance data, investigating an outbreak, briefing a Commanding Officer on why something needs fixing. You might be at a naval medical centre in Bethesda, Portsmouth or San Diego, at a base overseas, aboard a hospital ship, or doing research at the Navy Environmental Health Center. You work alongside physicians, nurses, preventive medicine technicians and the line officers who have to act on your advice.",
+			"funFact": "Navy environmental health work covers things most people never think about — vector control, thermal stress, wastewater afloat — and officers can earn the civilian-recognised Registered Environmental Health Specialist credential along the way.",
+			"goodFitIf": [
+				"You like science applied to real problems",
+				"You can tell a commander bad news",
+				"You enjoy detailed inspection work",
+				"Public health already interests you"
+			],
+			"tags": [
+				"public health",
+				"officer",
+				"science",
+				"medical"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/health-care-administration",
@@ -5166,7 +6732,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/health-care-administration"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the business side of Navy medicine — budgets, staffing, logistics and planning for hospitals, ships and disaster relief.",
+			"dayToDay": "Most of the work is office-based inside a Navy hospital or clinic: managing a department's budget, sorting out staffing and training needs, keeping medical supply chains moving and reporting to the commanding officer. You work alongside doctors, nurses and enlisted corpsmen, but your own job is the organisation rather than the patient. Postings range from Bethesda or San Diego to Japan or Guam, and you might end up doing the same work afloat on a carrier or a hospital ship during a humanitarian deployment.",
+			"funFact": "The Navy operates two dedicated hospital ships, USNS Comfort and USNS Mercy — converted oil tankers that each carry hundreds of beds and deploy for disaster relief.",
+			"goodFitIf": [
+				"You already hold an MHA, MBA or MPH",
+				"Spreadsheets and logistics genuinely interest you",
+				"You want healthcare work away from bedsides",
+				"You'd move overseas for a posting"
+			],
+			"tags": [
+				"healthcare",
+				"management",
+				"graduate degree required",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/hospital-corpsman",
@@ -5258,7 +6842,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/hospital-corpsman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Provides hands-on medical care to Sailors and Marines, from clinic exam rooms to battlefields, ships and submarines.",
+			"dayToDay": "The work depends entirely on where you land. In a base hospital or clinic you might be drawing blood, running lab samples, giving immunisations, taking X-rays or assisting in surgery alongside Navy doctors and nurses. Attached to a Marine unit, a ship or a submarine, you may be the closest thing to a medic for miles — doing sick call, keeping records, watching sanitation, and treating injuries when they happen.",
+			"funFact": "Marines traditionally call their attached Navy corpsmen \"Doc\" — corpsmen serve with Fleet Marine Force units after training at Field Medical Service School.",
+			"goodFitIf": [
+				"You want medicine, not a desk",
+				"You stay calm when things go wrong",
+				"You like variety over routine",
+				"You can be trusted with people's lives"
+			],
+			"tags": [
+				"medical",
+				"hands-on",
+				"deployable",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/industrial-hygiene",
@@ -5337,7 +6939,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/industrial-hygiene"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Inspects Navy workplaces for health hazards — noise, chemicals, radiation, heat — and tells commanders how to fix them.",
+			"dayToDay": "You might spend a morning in an aircraft carrier's engine spaces with a noise meter and air sampling pumps, and the afternoon writing up findings for a commanding officer who has to act on them. Work splits between naval hospitals, preventive medicine units, shore industrial sites like shipyards, and Marine Corps commands, with plenty of overseas postings. You'll run training, manage programmes like hearing conservation and respiratory protection, and often lead civilian and military staff in a mixed department.",
+			"funFact": "Industrial hygiene as a profession has its own civilian gold standard — the Certified Industrial Hygienist credential from the American Board of Industrial Hygiene — which the Navy prefers but doesn't require on entry.",
+			"goodFitIf": [
+				"You enjoyed chemistry and biology",
+				"You like fieldwork and lab data equally",
+				"You can tell senior people inconvenient things",
+				"You want a civilian-transferable credential"
+			],
+			"tags": [
+				"public health",
+				"science",
+				"overseas duty",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/medical-technologist",
@@ -5400,7 +7020,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/medical-technologist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs Navy clinical laboratories, making sure blood and tissue tests come back accurate for doctors treating service members and their families.",
+			"dayToDay": "You work in a hospital or clinic lab — at a big medical centre like Bethesda or San Diego, a small overseas base, or a hospital ship — running and overseeing the tests doctors order. Much of the job is quality control, accreditation standards and keeping instruments and reagents in working order, plus supervising the enlisted lab technicians who do the bench work. On deployment you may be responsible for blood bank support, which means getting the right blood products to the right place before anyone needs them.",
+			"funFact": "The Navy operates two dedicated hospital ships, USNS Comfort and USNS Mercy — converted oil tankers, each with a full clinical laboratory aboard.",
+			"goodFitIf": [
+				"you're already a certified medical technologist",
+				"precision matters more to you than drama",
+				"you like supervising a technical team",
+				"you want to work overseas"
+			],
+			"tags": [
+				"medical",
+				"laboratory",
+				"officer",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/mortician",
@@ -5455,7 +7093,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/mortician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Cares for the remains of fallen Sailors and Marines, from embalming to funeral services and dealing with grieving families.",
+			"dayToDay": "You work shore-side at a Navy Casualty facility — most often Dover, Millington or Quantico — in a mortuary setting rather than a ship or hospital ward. A day might mean preparing and presenting remains, arranging transport, filing paperwork so a body crosses borders correctly, or sitting with a family who has just had the worst phone call of their life. Travel abroad to recover remains is possible, and the emotional weight of the work is the job, not a side effect.",
+			"funFact": "The Navy is the only branch of the US military that employs its own morticians — the other services contract the work out.",
+			"goodFitIf": [
+				"already hold an embalmer's license",
+				"stay steady around grief and death",
+				"are careful with paperwork and detail",
+				"handle tools and your hands well"
+			],
+			"tags": [
+				"medical",
+				"funeral services",
+				"us citizens only",
+				"licence required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/nursing",
@@ -5519,7 +7175,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/nursing"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Commissioned nurse who cares for service members and their families in Navy hospitals, aboard ships and on relief missions abroad.",
+			"dayToDay": "Most of the time this looks like nursing anywhere else: shifts on a ward, in an operating room or an ICU, working with physicians and surgeons on treatment plans, charting, handovers. The differences are that you're an officer, so you also supervise and teach Hospital Corpsmen, and your workplace might be a base hospital in San Diego, a clinic in Japan, a surgical ward at sea, or a tent after an earthquake. You can specialise later — anaesthesia, critical care, mental health, perioperative, nurse practitioner — depending on what the Navy needs.",
+			"funFact": "The Navy runs two dedicated hospital ships, USNS Comfort and USNS Mercy, both converted oil tankers with roughly a thousand beds each, painted white with red crosses under the Geneva Conventions.",
+			"goodFitIf": [
+				"You already want to be a nurse",
+				"You can teach and lead juniors",
+				"Moving every few years appeals",
+				"Calm under genuine pressure"
+			],
+			"tags": [
+				"nursing",
+				"officer",
+				"healthcare",
+				"travel"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/occupational-therapy",
@@ -5578,7 +7252,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/occupational-therapy"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Licensed occupational therapist in uniform, helping Sailors and their families regain everyday skills after strokes, injuries or illness.",
+			"dayToDay": "You work in Navy hospitals and clinics — Bethesda, Portsmouth, San Diego, overseas bases, or occasionally the hospital ships Comfort and Mercy — seeing inpatients and outpatients referred for all sorts of diagnoses. A day might mean measuring range of motion with a goniometer, testing grip with a dynamometer, fitting custom garments or assistive devices, and coaching someone through bathing, dressing and eating again. You're part of a clinical team, and you're also an officer, which means paperwork, leadership and the occasional move to a new duty station.",
+			"funFact": "Occupational therapy grew out of the First World War, when 'reconstruction aides' were hired to rehabilitate wounded soldiers — rebuilding function for injured service members is close to the profession's original job.",
+			"goodFitIf": [
+				"You're already a licensed OT",
+				"You like patient, incremental progress",
+				"You want to practise overseas",
+				"You're comfortable with military structure"
+			],
+			"tags": [
+				"healthcare",
+				"rehabilitation",
+				"officer",
+				"licensed profession"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/optometry",
@@ -5632,7 +7324,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/optometry"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Licensed optometrist who looks after the eyes of Sailors and their families, at Navy clinics and hospitals worldwide.",
+			"dayToDay": "Most of the work is clinic work: routine eye exams, prescribing glasses and contacts, treating ocular disease, and co-managing surgical cases with ophthalmologists. Patients range from young Sailors whose jobs depend on sharp vision to retirees and family members, so the caseload is broad. You could be posted to a major medical centre like Bethesda, Portsmouth or San Diego, a small overseas clinic, or a hospital ship.",
+			"funFact": "The Navy operates two dedicated hospital ships, USNS Comfort and USNS Mercy — converted oil tankers that deploy for disaster relief and humanitarian missions, and optometrists can serve aboard them.",
+			"goodFitIf": [
+				"already hold or want an optometry degree",
+				"like steady clinical patient work",
+				"are open to moving overseas",
+				"want practice without the business admin"
+			],
+			"tags": [
+				"medical",
+				"officer",
+				"clinical",
+				"overseas postings"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/pharmacy",
@@ -5696,7 +7406,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/pharmacy"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Licensed pharmacist who dispenses and manages medications for sailors, Marines and their families, in Navy hospitals, clinics and sometimes at sea.",
+			"dayToDay": "Most of the work looks like civilian hospital or outpatient pharmacy: checking prescriptions written by Navy physicians, compounding sterile products, running drug-use reviews and quality control, and counselling patients on what they're taking. You're a commissioned officer in the Medical Service Corps, so there's an administrative and leadership side too — supervising pharmacy technicians and managing a department. Postings range from large medical centres like Bethesda, Portsmouth and San Diego to overseas bases, carriers and the hospital ships.",
+			"funFact": "The Navy operates two dedicated hospital ships, USNS Comfort and USNS Mercy — converted oil tankers with full pharmacies aboard, deployed for disaster relief and humanitarian missions.",
+			"goodFitIf": [
+				"You already have a PharmD and licence",
+				"You like clinical detail and precision",
+				"You want practice without running a business",
+				"You're open to moving every few years"
+			],
+			"tags": [
+				"medical",
+				"officer",
+				"licensed profession",
+				"overseas postings"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/physical-therapy",
@@ -5753,7 +7481,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/physical-therapy"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Licensed physical therapist who rehabilitates injured Sailors, Marines and their families at Navy medical facilities worldwide.",
+			"dayToDay": "Most of your work happens in a clinic at a Navy hospital or base medical facility, seeing patients with knee injuries, back pain, shoulder problems and post-surgical rehabilitation. Many of them are young, fit and impatient to get back to duty, which changes the conversation a bit. You work alongside physicians, occupational therapists and other providers, and over a career you may rotate through postings from San Diego to Japan, or serve aboard one of the two hospital ships.",
+			"funFact": "The Navy operates two dedicated hospital ships, USNS Comfort and USNS Mercy — both converted oil tankers — and physical therapists can be assigned to them.",
+			"goodFitIf": [
+				"already hold a PT degree and licence",
+				"like hands-on clinical work",
+				"want to move around the world",
+				"enjoy working in a medical team"
+			],
+			"tags": [
+				"healthcare",
+				"officer",
+				"rehabilitation",
+				"travel"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/physician",
@@ -5858,7 +7604,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/physician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Practices medicine as a commissioned Navy officer, treating Sailors, Marines and their families ashore, at sea and in the field.",
+			"dayToDay": "Most of the work looks like medicine anywhere: clinics, wards, operating rooms and emergency departments at Navy medical centres such as Bethesda, Portsmouth or San Diego. The difference is where it can move to — a surface ship, a Marine unit, a field hospital, or a hospital ship like USNS Comfort or Mercy. You also run a team and carry officer responsibilities, while the billing, insurance and malpractice overheads of civilian practice are handled for you.",
+			"funFact": "The Navy's two hospital ships, USNS Comfort and USNS Mercy, are converted oil tankers, each fitted out with hundreds of beds and full operating theatres.",
+			"goodFitIf": [
+				"Already hold or want an MD/DO",
+				"Want medicine without running a business",
+				"Are willing to deploy or go to sea",
+				"Like leading a clinical team"
+			],
+			"tags": [
+				"medicine",
+				"officer",
+				"deployable",
+				"advanced degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/physician-assistant",
@@ -5923,7 +7687,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/physician-assistant"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Diagnoses and treats Sailors, Marines and their families, working under supervising physicians in clinics, on ships and on relief missions.",
+			"dayToDay": "Much of it looks like civilian PA work: taking histories, doing exams, reading labs and X-rays, prescribing, treating minor injuries and explaining home care. The difference is where it happens — a base clinic in Guam, a national medical centre in San Diego, a Marine unit, or a hospital ship. You work alongside physicians and surgeons and often supervise other members of the medical team.",
+			"funFact": "The Navy operates two dedicated hospital ships, USNS Comfort and USNS Mercy — both converted oil tankers, painted white with red crosses.",
+			"goodFitIf": [
+				"You're already a certified PA",
+				"You want medicine in odd places",
+				"You like working under supervision but independently",
+				"You can commit three years active duty"
+			],
+			"tags": [
+				"medical",
+				"officer",
+				"deployable",
+				"licence required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/podiatry",
@@ -5985,7 +7767,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/podiatry"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Treats the feet, ankles and lower legs of Sailors and their families, from orthotics to surgery.",
+			"dayToDay": "You work in Navy hospitals and clinics — Bethesda, Portsmouth, San Diego, Guam, Japan — or occasionally aboard the hospital ships Comfort or Mercy. Days look much like civilian podiatry: clinic appointments, diagnosing bunions, stress fractures and torn ligaments, fitting orthotics, operating when needed. You're part of a team with orthopedic surgeons and physical therapists, and your patients are people whose jobs depend heavily on being on their feet all day.",
+			"funFact": "Podiatrists join as commissioned officers in the Medical Service Corps and skip boot camp entirely — instead there's five weeks at Officer Development School in Newport, Rhode Island, learning naval customs and etiquette.",
+			"goodFitIf": [
+				"already hold a DPM and license",
+				"like surgery and clinic work both",
+				"want to practice overseas",
+				"prefer patients who stay active"
+			],
+			"tags": [
+				"medical",
+				"officer",
+				"surgery",
+				"overseas assignments"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/radiation-health",
@@ -6042,7 +7842,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/radiation-health"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Health physicist who runs the Navy's radiation safety programmes and supports medical imaging at hospitals, shipyards and nuclear-powered ships.",
+			"dayToDay": "Much of the work is programme management and measurement: monitoring dose records, checking shielding and equipment, inspecting nuclear-capable shipyards and carriers, and making sure Navy, federal and Department of War rules are being followed. The clinical side means working alongside radiologists and physicians on diagnostic imaging physics, and teaching technicians and other health care staff. Expect offices, labs and medical treatment facilities more than dramatic emergencies — and a lot of documentation.",
+			"funFact": "The Navy's own framing is telling: it notes that sunbathers at the beach take on more radiation than Sailors working aboard nuclear-powered submarines — which is largely the point of the job.",
+			"goodFitIf": [
+				"You enjoy physics applied to people",
+				"You like rules, records and measurement",
+				"You already hold or want a health physics degree",
+				"You can teach technical material clearly"
+			],
+			"tags": [
+				"health physics",
+				"nuclear",
+				"medical",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/dietitian",
@@ -6096,7 +7914,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/dietitian"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Registered dietitian in uniform: counsels patients on nutrition, runs health programmes and oversees military food service operations.",
+			"dayToDay": "Most of the work happens in Navy hospitals and clinics — seeing inpatients and outpatients for medical nutrition therapy, running counselling sessions and teaching health promotion classes to Sailors and their families. You may also find yourself managing a galley or food service operation, working out how thousands of meals a week stay nutritious and safe. Assignments range from major medical centres in Bethesda, Portsmouth or San Diego to overseas bases and, occasionally, the hospital ships USNS Comfort and Mercy.",
+			"funFact": "It's a genuinely small community — the Navy employs roughly 34 dietitians across more than 250 facilities worldwide, so you're unlikely to be anonymous.",
+			"goodFitIf": [
+				"already a credentialled registered dietitian",
+				"like teaching as much as treating",
+				"enjoy running food service operations",
+				"want clinical work with travel"
+			],
+			"tags": [
+				"medical",
+				"nutrition",
+				"officer",
+				"overseas postings"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/biochemistry",
@@ -6160,7 +7996,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/biochemistry"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs laboratory research and drug and poison analysis for the Navy, including evidence work for military court cases.",
+			"dayToDay": "Most of the work happens in a laboratory — designing studies, developing analytical methods, running instruments and writing up results. Depending on the posting you might be screening body fluids for drugs and preparing evidence that will be argued over in a military courtroom, or testing protective equipment and exposure limits against chemical and biological threats. Labs range from medical centres in Bethesda, Portsmouth and San Diego to overseas research units in Cairo, Lima and Jakarta, and some officers work alongside NCIS or on deployable CBRE training teams.",
+			"funFact": "This is a job you apply for with a PhD already in hand: officers come in through a five-week Officer Development School in Newport, Rhode Island, rather than boot camp.",
+			"goodFitIf": [
+				"You already hold a science PhD",
+				"You like careful, methodical lab work",
+				"Courtroom-grade accuracy appeals to you",
+				"You'd move abroad for research"
+			],
+			"tags": [
+				"laboratory",
+				"forensics",
+				"officer",
+				"advanced degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/research-physiology",
@@ -6214,7 +8068,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/research-physiology"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Studies how extreme conditions — depth, altitude, heat, acceleration — affect the human body, and works out how to keep people safe in them.",
+			"dayToDay": "Most of the work happens in a lab, usually stateside at places like the Naval Health Research Center in San Diego or the Naval Medical Research Center in Silver Spring. You design and run studies on cardiopulmonary, musculoskeletal and neurophysiological problems facing Sailors and Marines, write up findings, and sit in with scientists and engineers planning and funding projects. It's a research career with a uniform on: grant cycles and data analysis rather than shifts, though operational tours, including on the hospital ships Comfort and Mercy, are possible.",
+			"funFact": "Navy physiology research has deep roots in diving and submarine medicine — understanding how pressure affects the body is why decompression tables exist at all.",
+			"goodFitIf": [
+				"already hold or want a doctorate",
+				"enjoy designing and running experiments",
+				"are curious about human physical limits",
+				"want research with a practical end"
+			],
+			"tags": [
+				"research",
+				"medical",
+				"officer",
+				"laboratory"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/research-psychology",
@@ -6277,7 +8149,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/research-psychology"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Studies how people think, perform and hold up under the strain of ships, submarines and aircraft, then turns the findings into better equipment, training and procedures.",
+			"dayToDay": "Most of the work looks like academic research: designing studies, running experiments, crunching statistics, writing up results and managing a lab's projects and staff. The difference is where the data comes from — you might spend time on a submarine, with aviation squadrons or alongside special operators before heading back to a laboratory in Groton, San Diego, Millington or Washington, D.C. There are only around two dozen Navy research psychologists, so you work closely with a small community and with the operators whose problems you are trying to solve.",
+			"funFact": "The Naval Submarine Medical Research Laboratory in Groton, Connecticut has long studied things like sleep, watch schedules and confinement — questions that matter enormously when a crew lives underwater for months without sunlight.",
+			"goodFitIf": [
+				"You already have a psychology PhD",
+				"You enjoy study design and statistics",
+				"You want research with practical users",
+				"Fieldwork in odd places appeals"
+			],
+			"tags": [
+				"research",
+				"phd required",
+				"human performance",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/hospital-corpsman-atf",
@@ -6350,7 +8240,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/hospital-corpsman-atf"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy medic trained to dive, jump and fly in order to treat casualties alongside SEALs, EOD and rescue aircrews.",
+			"dayToDay": "Most of your early years are training — Corps School in San Antonio, then a pipeline lasting anywhere from about six months to well over two years depending on which of the three paths you take. After that you're attached to an operational unit: hoisting casualties from the back of an MH-60 helicopter, maintaining and testing dive gear and treating decompression illness, or deploying with special operations teams and practising medicine with little or no physician nearby. The work is physically punishing, often cold or wet, and the pace swings between long routine training days and sudden emergencies.",
+			"funFact": "Navy Hospital Corpsmen are universally called \"Doc\" by the Marines and operators they serve with — a title the official description notes is not easily earned.",
+			"goodFitIf": [
+				"you want medicine in extreme places",
+				"you're genuinely fit, not just willing",
+				"you can stay calm unsupervised",
+				"long training pipelines don't deter you"
+			],
+			"tags": [
+				"special operations",
+				"diving",
+				"emergency medicine",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/social-work",
@@ -6411,7 +8319,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/medical/social-work"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Licensed clinical social worker commissioned as a Navy officer, counselling Sailors and their families through deployment, trauma and crisis.",
+			"dayToDay": "You work in military hospitals, clinics or Fleet and Family Support Centers, seeing clients for therapy and case management much as you would in a civilian practice — plus pre-deployment counselling, crisis intervention and workshops. Caseloads run from family violence and child development concerns to PTSD and discharge planning, and you coordinate with doctors, chaplains and commands. You're also an officer, so there's paperwork, leadership duties and the possibility of moving every few years.",
+			"funFact": "You join as a commissioned officer rather than starting at the bottom — but you still spend five weeks at Officer Development School in Newport, Rhode Island, learning Navy structure, customs and etiquette before you see a single client.",
+			"goodFitIf": [
+				"Already hold an MSW and licence",
+				"Stay calm in other people's crises",
+				"Want clinical work plus officer responsibility",
+				"Can work across many cultural backgrounds"
+			],
+			"tags": [
+				"mental health",
+				"officer",
+				"clinical licence required",
+				"counselling"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/navy-chaplain",
@@ -6469,7 +8395,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/religious-services/navy-chaplain"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Serves as a commissioned clergy member, holding services, counselling Sailors and Marines, and advising commanders on morale and ethics.",
+			"dayToDay": "Much of the job is what chaplains call a ministry of presence: being where Sailors and Marines are, whether that's a ship's mess decks, a hospital ward, a base chapel or a flight deck. You'll lead worship and ceremonies, run religious education, train lay leaders and sit with people through weddings, funerals and the worst weeks of their lives. You also advise the command, so you move between pastoral work and officer responsibilities, often in the same day.",
+			"funFact": "The Chaplain Corps includes more than 800 chaplains drawn from over 100 different faith groups, and part of the job is facilitating the religious practice of people whose beliefs are nothing like your own.",
+			"goodFitIf": [
+				"already have theological training",
+				"listen more than you talk",
+				"want ministry outside a settled parish",
+				"can serve people of any faith"
+			],
+			"tags": [
+				"officer",
+				"counseling",
+				"graduate degree required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/religious-program-specialist",
@@ -6522,7 +8466,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/religious-services/religious-program-specialist"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs the practical side of religious life aboard ships and bases, and guards the chaplain in the field.",
+			"dayToDay": "Most days are administrative and logistical: setting up spaces for services of several faiths, keeping ecclesiastical records, ordering supplies, publicising events and running the chapel or library. You work directly for a chaplain, which also means being the person Sailors wander in to talk to when something is wrong. Deployed with Marines or in the field, the job shifts — chaplains are non-combatants, so you carry the weapon and provide their security. Evenings, weekends and holidays are normal working time.",
+			"funFact": "Because Navy chaplains are non-combatants under the Geneva Conventions and do not bear arms, the RP is the one who does — which is why the rating includes five weeks of Marine combat training after \"A\" School.",
+			"goodFitIf": [
+				"respect faiths other than your own",
+				"people tell you things",
+				"organised with paperwork",
+				"comfortable switching between office and field"
+			],
+			"tags": [
+				"chaplaincy",
+				"administrative",
+				"deployable",
+				"counselling"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aerographers-mate",
@@ -6577,7 +8539,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/aerographers-mate"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy weather and ocean forecaster, predicting conditions that decide whether ships sail and aircraft fly.",
+			"dayToDay": "You work in an office-like space aboard a carrier or at a shore weather centre, surrounded by satellite receivers, radar feeds and instruments you also help calibrate. Days involve taking observations, reading codes and imagery, building weather maps and then briefing pilots, bridge watchstanders and commanders on what the sky and sea are about to do. It's analytical, detail-heavy work, done in small teams with little hovering supervision.",
+			"funFact": "AGs train at Keesler Air Force Base in Mississippi, the same place the Air Force teaches its weather specialists — and despite the 'weatherman' label, the rating sits inside the Navy's Information Warfare Community.",
+			"goodFitIf": [
+				"enjoy maths and physical science",
+				"like spotting patterns in data",
+				"can brief people clearly",
+				"are patient with careful record-keeping"
+			],
+			"tags": [
+				"meteorology",
+				"oceanography",
+				"clearance required",
+				"shipboard"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/civil-engineering",
@@ -6633,7 +8613,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/civil-engineering"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy officer who plans, contracts and runs construction projects on bases worldwide — and leads Seabee construction units.",
+			"dayToDay": "Some days you're in an office arguing over contract terms, schedules and budgets with civilian firms; others you're in boots on a muddy site checking whether the runway, pier or barracks is actually being built to spec. Depending on the posting you might run the utilities and infrastructure of a base the size of a small town, or lead hundreds of enlisted Seabees on a deployment, including disaster rebuilding overseas. The mix of indoor paperwork and outdoor field work shifts constantly across a career.",
+			"funFact": "The Seabees take their name from the initials of \"Construction Battalion\" (CB), and their motto, Construimus, Batuimus, means \"We Build, We Fight\".",
+			"goodFitIf": [
+				"You're studying engineering or architecture",
+				"You like managing projects, not just designing",
+				"You want to lead people early",
+				"Travel and deployments appeal"
+			],
+			"tags": [
+				"construction",
+				"engineering",
+				"officer",
+				"leadership"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/electricians-mate-nuclear",
@@ -6679,7 +8677,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/electricians-mate-nuclear"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs and repairs the electrical systems that distribute power from a nuclear reactor aboard submarines and aircraft carriers.",
+			"dayToDay": "After roughly eighteen months of schooling in Charleston (and possibly upstate New York), you end up in the engineering spaces of a submarine or carrier, standing watch on switchboards and generators, tracing circuits, testing breakers and doing endless scheduled maintenance. Watches run around the clock at sea, paperwork and procedural discipline are taken very seriously, and you work alongside a small, tight engineering department. Ashore tours exist too, often training the next batch.",
+			"funFact": "The Navy's nuclear programme has run reactors at sea since USS Nautilus in 1955, and every nuclear-trained Sailor still finishes at a land-based prototype plant — an actual working reactor used purely for teaching.",
+			"goodFitIf": [
+				"enjoy maths and physics",
+				"like schematics and fault-finding",
+				"can handle long training",
+				"don't mind cramped shipboard life"
+			],
+			"tags": [
+				"nuclear",
+				"submarines",
+				"clearance required",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/entomology",
@@ -6741,7 +8757,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/entomology"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Keeps Sailors and Marines from catching diseases carried by mosquitoes, ticks and other pests, anywhere the Navy operates.",
+			"dayToDay": "Work splits between labs, offices and the field — trapping and identifying mosquitoes, designing pest-control programmes for a base or a deployed unit, and advising commanders during disaster relief or humanitarian missions. You might be at a big medical centre in Bethesda or San Diego, at a hospital overseas, aboard a hospital ship, or out with the Fleet Marine Force. A fair amount of the job is research, teaching and writing guidance, not just chasing insects with a net.",
+			"funFact": "Military entomology is a serious old trade: insect-borne diseases like malaria and dengue have historically put more troops out of action than enemy fire, which is why navies keep bug specialists on the payroll.",
+			"goodFitIf": [
+				"already hold a graduate degree in entomology",
+				"like fieldwork and lab work equally",
+				"enjoy explaining science to non-scientists",
+				"want to work overseas"
+			],
+			"tags": [
+				"public health",
+				"research",
+				"officer",
+				"advanced degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/electronics-technician-nuclear",
@@ -6787,7 +8821,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/electronics-technician-nuclear"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Operates and maintains the electronic control systems for nuclear reactors aboard Navy submarines and aircraft carriers.",
+			"dayToDay": "After roughly 18 months of schooling in Charleston and at a prototype plant, you stand watch as part of a reactor team — monitoring instrumentation, calibrating control rod circuitry, and troubleshooting electronic faults with schematics and test gear. Most of that happens in a cramped, warm, brightly lit control space on a submarine or carrier, on a rotating watch rotation rather than a nine-to-five. The pace is procedural and unforgiving about detail: you log, you verify, you say what you're doing out loud to the people around you.",
+			"funFact": "Navy nuclear training is one of the longest enlisted pipelines in the military — about a year and a half of school before you reach your first ship — and the prototype units at Ballston Spa, NY, and Charleston, SC, are actual working reactors used purely for teaching.",
+			"goodFitIf": [
+				"You genuinely enjoy maths and physics",
+				"You can follow procedure precisely",
+				"Small spaces and long deployments don't deter you",
+				"You like troubleshooting circuits"
+			],
+			"tags": [
+				"nuclear",
+				"submarines",
+				"clearance required",
+				"electronics"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/meteorology-oceanography",
@@ -6839,7 +8891,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/meteorology-oceanography"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy officer who forecasts weather, charts ocean conditions and tells commanders how the environment will affect ships, aircraft and submarines.",
+			"dayToDay": "You might be on a carrier or amphibious ship briefing a strike group on sea state and visibility before an air mission, or ashore at a production centre building charts and running forecast models. You lead Aerographer's Mates, the enlisted Sailors who take the observations and run the day-to-day watch. Expect a mix of deployments, shore tours, and time in classrooms \ncorrectly \ndoing serious graduate science.",
+			"funFact": "The community also looks after the Navy's Master Clock at the Naval Observatory, which keeps the most precise time interval in the world and underpins GPS.",
+			"goodFitIf": [
+				"You like physics and earth science",
+				"You want sea duty and graduate school",
+				"You enjoy briefing decision-makers",
+				"You are comfortable leading technical sailors"
+			],
+			"tags": [
+				"weather",
+				"oceanography",
+				"clearance required",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/microbiology",
@@ -6901,7 +8971,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/microbiology"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Studies, tracks and fights infectious diseases for the Navy, from lab benches to outbreak sites overseas.",
+			"dayToDay": "Most of the work happens in a laboratory — a clinical microbiology lab at a teaching medical centre, or one of the Navy's overseas research units in places like Lima, Cairo or Singapore. You'll run diagnostics and research, supervise lab staff, and write up findings, with the occasional deployment to a ship, a field site or a humanitarian mission. Colleagues are a mix of physicians, technicians, public health people and other scientists, and as you become senior you spend more time running programmes than running assays.",
+			"funFact": "The Navy's overseas medical research units in Peru, Egypt and Southeast Asia have been studying tropical and emerging diseases for decades, giving microbiologists access to pathogens rarely seen in US labs.",
+			"goodFitIf": [
+				"already hold a graduate degree in microbiology",
+				"like bench science and lab management",
+				"are willing to work overseas",
+				"want research with a public health purpose"
+			],
+			"tags": [
+				"medical",
+				"research",
+				"laboratory",
+				"overseas assignments"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/machinists-mate-nuclear",
@@ -6947,7 +9035,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/machinists-mate-nuclear"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Operates and maintains the steam plants and machinery driven by nuclear reactors aboard submarines and aircraft carriers.",
+			"dayToDay": "After roughly 18 months of schooling in Charleston and prototype training, you work in the engineering spaces of a carrier or submarine — hot, loud, cramped, and run on watch rotations rather than a nine-to-five. Days mix standing watch on propulsion and power generation systems with scheduled maintenance on turbines, reduction gears, pumps, purifiers and auxiliary gear like refrigeration and desalination plants. Everything is done by written procedure, double-checked, and logged, alongside a small crew of nuclear-trained mechanics, electricians and electronics technicians.",
+			"funFact": "The Navy's nuclear propulsion programme, shaped by Admiral Hyman Rickover, is famous for its interview culture and its safety record — no US naval reactor accident has caused a radiological fatality.",
+			"goodFitIf": [
+				"You like maths, physics and chemistry",
+				"You tolerate heat, noise and long watches",
+				"You follow written procedure precisely",
+				"You can hold a security clearance"
+			],
+			"tags": [
+				"nuclear",
+				"submarines",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/naval-reactors-engineer",
@@ -7011,7 +9117,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/naval-reactors-engineer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Provides technical oversight of the Navy's nuclear reactors — design, testing, operation and decommissioning — from a headquarters desk in Washington, D.C.",
+			"dayToDay": "You work at Naval Reactors headquarters at the Washington Navy Yard, part of a small staff of around 500 people who oversee the whole nuclear propulsion programme. The work is desk-and-document heavy: reviewing designs, approving procedures, questioning test data, and dealing with laboratories, shipyards and contractors — punctuated by trips to shipyards, prototypes and ships. Junior engineers are handed real technical responsibility early, and the culture is famously rigorous about getting the detail right.",
+			"funFact": "Naval Reactors was shaped by Admiral Hyman G. Rickover, whose insistence on personally interviewing every nuclear officer candidate produced interviews that became legendary for their bluntness.",
+			"goodFitIf": [
+				"You enjoy maths and physics",
+				"You like being technically accountable",
+				"You prefer analysis to shipboard life",
+				"You read the fine print carefully"
+			],
+			"tags": [
+				"nuclear",
+				"engineering",
+				"washington dc",
+				"degree required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/nupoc-instructor",
@@ -7073,7 +9197,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/nupoc-instructor"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Teaches reactor theory, physics and engineering to the Sailors who will run the Navy's nuclear power plants.",
+			"dayToDay": "You're based at Naval Nuclear Power School in Charleston, South Carolina, in an academic setting for up to five years. Days mean lecturing, running problem sessions, grading and sitting with students who are struggling through 24 weeks of calculus, thermodynamics and reactor theory. Before you teach any of it, you spend months being taught it yourself, to a standard where you can answer anything a sharp student throws at you.",
+			"funFact": "The Navy's nuclear propulsion program holds the longest record of safe reactor operation in the world — a culture of obsessive procedure traceable to Admiral Hyman Rickover, who personally interviewed every officer candidate for decades.",
+			"goodFitIf": [
+				"You enjoyed calculus and physics",
+				"You like explaining hard things clearly",
+				"You want teaching over sea duty",
+				"You hold yourself to exacting standards"
+			],
+			"tags": [
+				"nuclear",
+				"teaching",
+				"engineering",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/nptu-nuclear-power-training-unit-instructor",
@@ -7138,7 +9280,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/nptu-nuclear-power-training-unit-instructor"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Runs a watchteam on a land-based training reactor, teaching new Navy nuclear operators to run it safely.",
+			"dayToDay": "You work at one of two sites — Charleston, South Carolina or Ballston Spa, New York — splitting time between classrooms, self-study and the engine room of a moored training submarine or prototype plant. Shift work is the norm, since the plants run around the clock, and you spend your hours supervising students through startups, shutdowns, chemistry checks, maintenance reviews and simulated casualties. Before you teach any of it you sit through the same 24-week Nuclear Power School and 26-week prototype pipeline yourself and qualify as Engineering Officer of the Watch.",
+			"funFact": "Everyone in the programme calls the training unit \"Prototype\", because the plants there began as the land-based test versions of reactors later installed in submarines and carriers.",
+			"goodFitIf": [
+				"enjoyed calculus and physics",
+				"like explaining things to people",
+				"can stay calm on night shift",
+				"want a nuclear career afterwards"
+			],
+			"tags": [
+				"nuclear",
+				"teaching",
+				"engineering",
+				"shore duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/surface-warfare-officer-nuclear",
@@ -7200,7 +9360,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/surface-warfare-officer-nuclear"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy officer who runs the reactor department on a nuclear-powered aircraft carrier, after first qualifying as a surface warfare officer.",
+			"dayToDay": "The path is long and school-heavy: officer training, roughly two years at sea on a destroyer, cruiser or amphib learning to drive and fight a ship, then about a year of graduate-level nuclear power school and hands-on prototype reactor training. After that you lead a division of nuclear-trained Sailors in a carrier's reactor plant, standing watches, supervising maintenance and signing off on work where the margin for error is zero. Deployments run several months at a stretch, and shore tours tend to involve teaching, staff work or graduate study.",
+			"funFact": "The Prospective Nuclear Engineer Officer qualification is certified by the Department of Energy and recognised by the civilian nuclear power industry — which is a large part of why \"Navy nuke\" carries weight on a résumé.",
+			"goodFitIf": [
+				"You finished calculus and physics happily",
+				"You want responsibility absurdly young",
+				"You can study hard for years",
+				"Months at sea don't scare you"
+			],
+			"tags": [
+				"nuclear",
+				"engineering",
+				"shipboard",
+				"officer"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/nupoc-submarine-officer",
@@ -7265,7 +9443,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/nupoc-submarine-officer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Leads a department aboard a nuclear submarine — reactor plant, weapons, navigation — while learning to run the whole ship.",
+			"dayToDay": "The first 15 months are classrooms and operating reactor prototypes: calculus, thermodynamics, reactor dynamics, then hands-on watchstanding. After that you join a submarine as a Division Officer, supervising a team of enlisted nuclear-trained Sailors while working through your own qualification book. Life alternates between deployments lasting a few to several months underwater, port visits, and maintenance periods at home, and the schedule underway is watches rather than ordinary days.",
+			"funFact": "Qualifying \"in Submarines\" earns you Dolphins — gold for officers, silver for enlisted — one of the oldest and most jealously guarded warfare insignia in the Navy.",
+			"goodFitIf": [
+				"You did well in calculus and physics",
+				"You stay calm making consequential decisions",
+				"Months without daylight doesn't faze you",
+				"You want to lead technical people early"
+			],
+			"tags": [
+				"submarines",
+				"nuclear",
+				"leadership",
+				"engineering"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/torpedomans-mate",
@@ -7324,7 +9520,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/science-engineering/torpedomans-mate"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Maintains, prepares and launches torpedoes, missiles and small arms aboard submarines.",
+			"dayToDay": "You work in the auxiliary spaces of a submarine, servicing launch and firing systems, testing circuits with meters, and keeping torpedo record books in order. Some of it is heavy physical work with hand tools, hydraulics and pneumatics; some of it is careful paperwork and tracing circuits on schematics. You're part of a small crew underway for long stretches, rotating to shore duty between sea tours.",
+			"funFact": "Torpedoman's Mate is one of the Navy's older ratings, and the job is submarine-only — you have to volunteer for submarine duty, starting with nine weeks at Basic Enlisted Submarine School in Groton, Connecticut.",
+			"goodFitIf": [
+				"You're comfortable in confined spaces",
+				"You like mechanical and electrical troubleshooting",
+				"You're careful with checklists and records",
+				"Above-average math doesn't scare you"
+			],
+			"tags": [
+				"submarines",
+				"weapons",
+				"hands-on",
+				"sea duty"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/aircrew-rescue-swimmer",
@@ -7415,7 +9629,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/special-operations/aircrew-rescue-swimmer"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Jumps from Navy helicopters into rough seas and disaster zones to pull people out alive, and works the aircraft's sensors and guns.",
+			"dayToDay": "You're aircrew first: flying in helicopters off carriers, destroyers or shore air stations, working radar, infrared sensors, door guns and hoists alongside the pilots. Much of the time is maintenance, briefings, drills and keeping your swimming and lifesaving skills sharp — then, occasionally, you go out the door into open water. Deployments can put you in Japan, Guam, Spain or anywhere a ship goes, and the work swings between humanitarian relief and combat support.",
+			"funFact": "The motto is \"So Others May Live\" — and the training pipeline runs roughly two years, including SERE school and six weeks of Rescue Swimmer School in Pensacola, before you ever reach your first squadron.",
+			"goodFitIf": [
+				"You're a genuinely strong swimmer",
+				"Calm when things go wrong",
+				"Happy to train for years first",
+				"You want flying and rescue work"
+			],
+			"tags": [
+				"aviation",
+				"search and rescue",
+				"clearance required",
+				"high physical standards"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/explosive-ordnance-disposal-technician",
@@ -7505,7 +9737,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/special-operations/explosive-ordnance-disposal-technician"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Finds, disarms and disposes of bombs, mines and improvised explosive devices on land and underwater.",
+			"dayToDay": "Most of your time is spent in the field rather than behind a desk — training, diving, shooting, and working with robots that handle the ordnance so you don't have to. You work in small platoons attached to EOD mobile units, and the job can take you anywhere: a beach, a harbour, a ship, or a patch of desert. Expect a long training pipeline first, roughly a year and a half of prep, dive school, EOD school, jump school and tactical training before you join a platoon.",
+			"funFact": "Navy EOD technicians are the only US military bomb disposal specialists who are also qualified divers and parachutists, which is why they get tasked with everything from sea mines to supporting the Secret Service.",
+			"goodFitIf": [
+				"stay calm under real pressure",
+				"are strong in and under water",
+				"like detailed technical problem-solving",
+				"want a very long training pipeline"
+			],
+			"tags": [
+				"diving",
+				"explosives",
+				"special operations",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/navy-diver",
@@ -7580,7 +9830,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/special-operations/navy-diver"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Works underwater for the Navy — salvaging wrecks, repairing ships, clearing harbours and supporting special operations teams.",
+			"dayToDay": "Much of the work happens in water you cannot see through, wearing surface-supplied gear or SCUBA, doing jobs by feel: welding, cutting, inspecting hulls, rigging salvage. You work in small teams with tenders on the surface tracking your air and your time, and the pace swings between long waits and very careful, precise effort. Postings range from salvage and repair ships to Mobile Diving and Salvage Units and EOD or SEAL support, in anything from tropical reefs to freezing, muddy harbours.",
+			"funFact": "Navy divers have recovered astronauts from splashed-down space capsules — a reminder that the job's remit stretches well beyond ship husbandry.",
+			"goodFitIf": [
+				"are completely at ease underwater",
+				"stay precise under real stress",
+				"don't mind confined spaces",
+				"want physically demanding, technical work"
+			],
+			"tags": [
+				"diving",
+				"special operations",
+				"hands-on",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/navy-seal",
@@ -7646,7 +9914,25 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/special-operations/navy-seal"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Navy commando trained to arrive by sea, air or land for reconnaissance, raids and underwater demolition.",
+			"dayToDay": "Most of your early career is training: 56 weeks of BUD/S, jump school and SEAL Qualification Training, then roughly 18 months more before you deploy. Work happens in small teams, in deserts, jungles, mountains, cities and cold water, and you get there by parachute, boat, helicopter, submarine or on foot. Between deployments it's endless rehearsal, shooting, diving, fitness and classroom work with the same handful of people you'd trust with your life.",
+			"funFact": "The SEALs were established by President Kennedy in 1962, growing out of the WWII Underwater Demolition Teams who cleared beach obstacles ahead of amphibious landings — a task still in the job description.",
+			"goodFitIf": [
+				"you're a genuinely strong swimmer",
+				"you'd rather suffer in a team",
+				"you can study as hard as you train",
+				"you take orders without resentment"
+			],
+			"tags": [
+				"special operations",
+				"diving",
+				"combat arms",
+				"clearance required"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	},
 	{
 		"id": "navy/special-warfare-combat-crewman",
@@ -7711,6 +9997,24 @@
 			"name": "navy.com",
 			"url": "https://www.navy.com/careers-benefits/careers/special-operations/special-warfare-combat-crewman"
 		},
-		"ai": null
+		"ai": {
+			"blurb": "Drives fast armed boats in and out of hostile coastlines, inserting and extracting Navy SEALs and other special operations teams.",
+			"dayToDay": "Most of the job is training: long days on the water, in the gym, on weapons ranges and in navigation and communications classes, with a selection pipeline designed to see who quits. When deployed, you crew specialised combat craft in rivers, surf zones and shallow coastal water, often at night, and you maintain the boats, guns, radios and increasingly the robotic and autonomous systems yourself. You work in a small crew where everyone knows everyone's job, and much of what you do is not discussed outside it.",
+			"funFact": "SWCC traces its lineage to the brown-water boat crews of Vietnam; the community's motto is \"On Time, On Target, Never Quit.\"",
+			"goodFitIf": [
+				"You are a strong, confident swimmer",
+				"Mechanical work doesn't bore you",
+				"You handle fatigue and stress well",
+				"You want a small, demanding team"
+			],
+			"tags": [
+				"special operations",
+				"maritime",
+				"clearance required",
+				"hands-on"
+			],
+			"model": "claude-opus-5",
+			"generatedAt": "2026-10-14"
+		}
 	}
 ]
