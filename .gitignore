@@ -10,3 +10,6 @@ vite.config.ts.timestamp-*
 scripts/.cache/
 .DS_Store
 .key
+
+# Local Netlify folder
+.netlify
